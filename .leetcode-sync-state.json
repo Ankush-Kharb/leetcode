@@ -1,0 +1,4221 @@
+{
+  "backlog": [
+    {
+      "id": "1677085749",
+      "lang": "cpp",
+      "memory": "22.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1750933089",
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array"
+    },
+    {
+      "id": "1677991257",
+      "lang": "cpp",
+      "memory": "29.4 MB",
+      "runtime": "3 ms",
+      "timestamp": "1751005926",
+      "title": "Rotate Array",
+      "titleSlug": "rotate-array"
+    },
+    {
+      "id": "1678039970",
+      "lang": "cpp",
+      "memory": "25 MB",
+      "runtime": "3 ms",
+      "timestamp": "1751008904",
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes"
+    },
+    {
+      "id": "1678652840",
+      "lang": "cpp",
+      "memory": "21.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751052828",
+      "title": "Missing Number",
+      "titleSlug": "missing-number"
+    },
+    {
+      "id": "1678690700",
+      "lang": "cpp",
+      "memory": "20.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751056863",
+      "title": "Single Number",
+      "titleSlug": "single-number"
+    },
+    {
+      "id": "1680786250",
+      "lang": "cpp",
+      "memory": "15.1 MB",
+      "runtime": "3 ms",
+      "timestamp": "1751231355",
+      "title": "Two Sum",
+      "titleSlug": "two-sum"
+    },
+    {
+      "id": "1681245847",
+      "lang": "cpp",
+      "memory": "11.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751274154",
+      "title": "Sort Colors",
+      "titleSlug": "sort-colors"
+    },
+    {
+      "id": "1681298887",
+      "lang": "cpp",
+      "memory": "28.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751277471",
+      "title": "Majority Element",
+      "titleSlug": "majority-element"
+    },
+    {
+      "id": "1682388362",
+      "lang": "cpp",
+      "memory": "71.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751356548",
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray"
+    },
+    {
+      "id": "1682801316",
+      "lang": "cpp",
+      "memory": "128.4 MB",
+      "runtime": "7 ms",
+      "timestamp": "1751381990",
+      "title": "Rearrange Array Elements by Sign",
+      "titleSlug": "rearrange-array-elements-by-sign"
+    },
+    {
+      "id": "1684069211",
+      "lang": "cpp",
+      "memory": "15.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751473419",
+      "title": "Next Permutation",
+      "titleSlug": "next-permutation"
+    },
+    {
+      "id": "1684842564",
+      "lang": "cpp",
+      "memory": "13.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751534097",
+      "title": "Search Insert Position",
+      "titleSlug": "search-insert-position"
+    },
+    {
+      "id": "1685165104",
+      "lang": "cpp",
+      "memory": "17.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751555441",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array"
+    },
+    {
+      "id": "1685458137",
+      "lang": "cpp",
+      "memory": "15.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751571845",
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array"
+    },
+    {
+      "id": "1685476754",
+      "lang": "cpp",
+      "memory": "18 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751573540",
+      "title": "Search in Rotated Sorted Array II",
+      "titleSlug": "search-in-rotated-sorted-array-ii"
+    },
+    {
+      "id": "1685514626",
+      "lang": "cpp",
+      "memory": "14 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751577749",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "titleSlug": "find-minimum-in-rotated-sorted-array"
+    },
+    {
+      "id": "1686184985",
+      "lang": "cpp",
+      "memory": "26.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751635657",
+      "title": "Single Element in a Sorted Array",
+      "titleSlug": "single-element-in-a-sorted-array"
+    },
+    {
+      "id": "1686559195",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751659453",
+      "title": "Valid Perfect Square",
+      "titleSlug": "valid-perfect-square"
+    },
+    {
+      "id": "1686566697",
+      "lang": "cpp",
+      "memory": "24.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751660235",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "titleSlug": "count-pairs-whose-sum-is-less-than-target"
+    },
+    {
+      "id": "1687667443",
+      "lang": "cpp",
+      "memory": "14.3 MB",
+      "runtime": "4 ms",
+      "timestamp": "1751744352",
+      "title": "Intersection of Two Arrays",
+      "titleSlug": "intersection-of-two-arrays"
+    },
+    {
+      "id": "1688521714",
+      "lang": "cpp",
+      "memory": "12.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751813166",
+      "title": "Find Peak Element",
+      "titleSlug": "find-peak-element"
+    },
+    {
+      "id": "1688814510",
+      "lang": "cpp",
+      "memory": "23.1 MB",
+      "runtime": "5 ms",
+      "timestamp": "1751831192",
+      "title": "Koko Eating Bananas",
+      "titleSlug": "koko-eating-bananas"
+    },
+    {
+      "id": "1688845829",
+      "lang": "cpp",
+      "memory": "26.2 MB",
+      "runtime": "22 ms",
+      "timestamp": "1751834161",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "titleSlug": "find-the-smallest-divisor-given-a-threshold"
+    },
+    {
+      "id": "1689594176",
+      "lang": "cpp",
+      "memory": "70.6 MB",
+      "runtime": "29 ms",
+      "timestamp": "1751895366",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "titleSlug": "minimum-number-of-days-to-make-m-bouquets"
+    },
+    {
+      "id": "1689738122",
+      "lang": "cpp",
+      "memory": "35 MB",
+      "runtime": "8 ms",
+      "timestamp": "1751903316",
+      "title": "Capacity To Ship Packages Within D Days",
+      "titleSlug": "capacity-to-ship-packages-within-d-days"
+    },
+    {
+      "id": "1689915130",
+      "lang": "cpp",
+      "memory": "13.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751911530",
+      "title": "Kth Missing Positive Number",
+      "titleSlug": "kth-missing-positive-number"
+    },
+    {
+      "id": "1689939968",
+      "lang": "cpp",
+      "memory": "63.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751912704",
+      "title": "Peak Index in a Mountain Array",
+      "titleSlug": "peak-index-in-a-mountain-array"
+    },
+    {
+      "id": "1690523718",
+      "lang": "cpp",
+      "memory": "8.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1751962461",
+      "title": "Sqrt(x)",
+      "titleSlug": "sqrtx"
+    },
+    {
+      "id": "1690888405",
+      "lang": "cpp",
+      "memory": "10.9 MB",
+      "runtime": "6 ms",
+      "timestamp": "1751985618",
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number"
+    },
+    {
+      "id": "1691265506",
+      "lang": "cpp",
+      "memory": "10.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752006257",
+      "title": "Split Array Largest Sum",
+      "titleSlug": "split-array-largest-sum"
+    },
+    {
+      "id": "1691753968",
+      "lang": "cpp",
+      "memory": "95.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752050265",
+      "title": "Median of Two Sorted Arrays",
+      "titleSlug": "median-of-two-sorted-arrays"
+    },
+    {
+      "id": "1692156327",
+      "lang": "cpp",
+      "memory": "13.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752075676",
+      "title": "Search a 2D Matrix",
+      "titleSlug": "search-a-2d-matrix"
+    },
+    {
+      "id": "1692236934",
+      "lang": "cpp",
+      "memory": "18.7 MB",
+      "runtime": "51 ms",
+      "timestamp": "1752079796",
+      "title": "Search a 2D Matrix II",
+      "titleSlug": "search-a-2d-matrix-ii"
+    },
+    {
+      "id": "1692448821",
+      "lang": "cpp",
+      "memory": "17.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752091447",
+      "title": "Largest Odd Number in String",
+      "titleSlug": "largest-odd-number-in-string"
+    },
+    {
+      "id": "1692867850",
+      "lang": "cpp",
+      "memory": "19.4 MB",
+      "runtime": "1 ms",
+      "timestamp": "1752132084",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "titleSlug": "two-sum-ii-input-array-is-sorted"
+    },
+    {
+      "id": "1693558234",
+      "lang": "cpp",
+      "memory": "8.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752174952",
+      "title": "Rotate String",
+      "titleSlug": "rotate-string"
+    },
+    {
+      "id": "1693564824",
+      "lang": "cpp",
+      "memory": "27.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752175432",
+      "title": "Reverse String",
+      "titleSlug": "reverse-string"
+    },
+    {
+      "id": "1693584214",
+      "lang": "cpp",
+      "memory": "9.7 MB",
+      "runtime": "7 ms",
+      "timestamp": "1752176927",
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram"
+    },
+    {
+      "id": "1693613119",
+      "lang": "cpp",
+      "memory": "10.1 MB",
+      "runtime": "2 ms",
+      "timestamp": "1752179532",
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome"
+    },
+    {
+      "id": "1694004530",
+      "lang": "cpp",
+      "memory": "8.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752218473",
+      "title": "Find the Index of the First Occurrence in a String",
+      "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+      "id": "1694015008",
+      "lang": "cpp",
+      "memory": "8.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752219208",
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number"
+    },
+    {
+      "id": "1694237716",
+      "lang": "cpp",
+      "memory": "10.2 MB",
+      "runtime": "2 ms",
+      "timestamp": "1752236401",
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer"
+    },
+    {
+      "id": "1694398328",
+      "lang": "cpp",
+      "memory": "8.7 MB",
+      "runtime": "1 ms",
+      "timestamp": "1752248152",
+      "title": "Power of Three",
+      "titleSlug": "power-of-three"
+    },
+    {
+      "id": "1694461848",
+      "lang": "cpp",
+      "memory": "30.3 MB",
+      "runtime": "8 ms",
+      "timestamp": "1752252025",
+      "title": "Squares of a Sorted Array",
+      "titleSlug": "squares-of-a-sorted-array"
+    },
+    {
+      "id": "1694662235",
+      "lang": "cpp",
+      "memory": "8.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752265143",
+      "title": "Reverse Integer",
+      "titleSlug": "reverse-integer"
+    },
+    {
+      "id": "1695547877",
+      "lang": "cpp",
+      "memory": "11.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752344671",
+      "title": "Plus One",
+      "titleSlug": "plus-one"
+    },
+    {
+      "id": "1696402930",
+      "lang": "cpp",
+      "memory": "80.1 MB",
+      "runtime": "31 ms",
+      "timestamp": "1752412669",
+      "title": "Maximum Matching of Players With Trainers",
+      "titleSlug": "maximum-matching-of-players-with-trainers"
+    },
+    {
+      "id": "1696462905",
+      "lang": "cpp",
+      "memory": "8.6 MB",
+      "runtime": "3 ms",
+      "timestamp": "1752416583",
+      "title": "Sum Multiples",
+      "titleSlug": "sum-multiples"
+    },
+    {
+      "id": "1696509133",
+      "lang": "cpp",
+      "memory": "9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752419528",
+      "title": "Add Strings",
+      "titleSlug": "add-strings"
+    },
+    {
+      "id": "1697451704",
+      "lang": "cpp",
+      "memory": "8.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752493497",
+      "title": "Check if One String Swap Can Make Strings Equal",
+      "titleSlug": "check-if-one-string-swap-can-make-strings-equal"
+    },
+    {
+      "id": "1697479485",
+      "lang": "cpp",
+      "memory": "8.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752495500",
+      "title": "Add Digits",
+      "titleSlug": "add-digits"
+    },
+    {
+      "id": "1697502844",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752497104",
+      "title": "A Number After a Double Reversal",
+      "titleSlug": "a-number-after-a-double-reversal"
+    },
+    {
+      "id": "1699224988",
+      "lang": "cpp",
+      "memory": "8.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752604789",
+      "title": "Valid Word",
+      "titleSlug": "valid-word"
+    },
+    {
+      "id": "1699735439",
+      "lang": "cpp",
+      "memory": "16 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752649148",
+      "title": "Odd Even Linked List",
+      "titleSlug": "odd-even-linked-list"
+    },
+    {
+      "id": "1699747815",
+      "lang": "cpp",
+      "memory": "15.3 MB",
+      "runtime": "7 ms",
+      "timestamp": "1752649841",
+      "title": "Partition List",
+      "titleSlug": "partition-list"
+    },
+    {
+      "id": "1699768626",
+      "lang": "cpp",
+      "memory": "15 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752651084",
+      "title": "Remove Nth Node From End of List",
+      "titleSlug": "remove-nth-node-from-end-of-list"
+    },
+    {
+      "id": "1700105364",
+      "lang": "cpp",
+      "memory": "12.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752672961",
+      "title": "Reverse Words in a String III",
+      "titleSlug": "reverse-words-in-a-string-iii"
+    },
+    {
+      "id": "1701003015",
+      "lang": "cpp",
+      "memory": "13.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752737651",
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list"
+    },
+    {
+      "id": "1701037833",
+      "lang": "cpp",
+      "memory": "125.7 MB",
+      "runtime": "8 ms",
+      "timestamp": "1752740134",
+      "title": "Double a Number Represented as a Linked List",
+      "titleSlug": "double-a-number-represented-as-a-linked-list"
+    },
+    {
+      "id": "1701555547",
+      "lang": "cpp",
+      "memory": "8.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752771947",
+      "title": "Add Binary",
+      "titleSlug": "add-binary"
+    },
+    {
+      "id": "1701614117",
+      "lang": "cpp",
+      "memory": "11.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752774691",
+      "title": "Remove Element",
+      "titleSlug": "remove-element"
+    },
+    {
+      "id": "1702814342",
+      "lang": "cpp",
+      "memory": "9.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752867162",
+      "title": "Reverse Words in a String",
+      "titleSlug": "reverse-words-in-a-string"
+    },
+    {
+      "id": "1702822917",
+      "lang": "cpp",
+      "memory": "7.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752867889",
+      "title": "Count Operations to Obtain Zero",
+      "titleSlug": "count-operations-to-obtain-zero"
+    },
+    {
+      "id": "1702827800",
+      "lang": "cpp",
+      "memory": "7.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752868319",
+      "title": "Three Divisors",
+      "titleSlug": "three-divisors"
+    },
+    {
+      "id": "1704464928",
+      "lang": "cpp",
+      "memory": "7.7 MB",
+      "runtime": "2074 ms",
+      "timestamp": "1752995033",
+      "title": "Perfect Number",
+      "titleSlug": "perfect-number"
+    },
+    {
+      "id": "1704475395",
+      "lang": "cpp",
+      "memory": "12.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1752995734",
+      "title": "Third Maximum Number",
+      "titleSlug": "third-maximum-number"
+    },
+    {
+      "id": "1706354106",
+      "lang": "cpp",
+      "memory": "31.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753122423",
+      "title": "Binary Search",
+      "titleSlug": "binary-search"
+    },
+    {
+      "id": "1706860282",
+      "lang": "cpp",
+      "memory": "8.2 MB",
+      "runtime": "1 ms",
+      "timestamp": "1753166253",
+      "title": "Detect Capital",
+      "titleSlug": "detect-capital"
+    },
+    {
+      "id": "1707713761",
+      "lang": "cpp",
+      "memory": "65.1 MB",
+      "runtime": "35 ms",
+      "timestamp": "1753213104",
+      "title": "Find the Duplicate Number",
+      "titleSlug": "find-the-duplicate-number"
+    },
+    {
+      "id": "1707719960",
+      "lang": "cpp",
+      "memory": "85.5 MB",
+      "runtime": "24 ms",
+      "timestamp": "1753213575",
+      "title": "Adding Spaces to a String",
+      "titleSlug": "adding-spaces-to-a-string"
+    },
+    {
+      "id": "1707722241",
+      "lang": "cpp",
+      "memory": "71.1 MB",
+      "runtime": "32 ms",
+      "timestamp": "1753213753",
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate"
+    },
+    {
+      "id": "1708934850",
+      "lang": "cpp",
+      "memory": "8.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753297892",
+      "title": "Length of Last Word",
+      "titleSlug": "length-of-last-word"
+    },
+    {
+      "id": "1708967922",
+      "lang": "cpp",
+      "memory": "11.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753300240",
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix"
+    },
+    {
+      "id": "1710132955",
+      "lang": "cpp",
+      "memory": "7.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753383161",
+      "title": "Happy Number",
+      "titleSlug": "happy-number"
+    },
+    {
+      "id": "1710142622",
+      "lang": "cpp",
+      "memory": "8.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753383743",
+      "title": "Reverse Prefix of Word",
+      "titleSlug": "reverse-prefix-of-word"
+    },
+    {
+      "id": "1712548246",
+      "lang": "cpp",
+      "memory": "8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753558584",
+      "title": "Reverse Only Letters",
+      "titleSlug": "reverse-only-letters"
+    },
+    {
+      "id": "1713792793",
+      "lang": "cpp",
+      "memory": "31.3 MB",
+      "runtime": "11 ms",
+      "timestamp": "1753644884",
+      "title": "Maximum Product of Three Numbers",
+      "titleSlug": "maximum-product-of-three-numbers"
+    },
+    {
+      "id": "1714928162",
+      "lang": "cpp",
+      "memory": "27.5 MB",
+      "runtime": "8 ms",
+      "timestamp": "1753726420",
+      "title": "Number of Laser Beams in a Bank",
+      "titleSlug": "number-of-laser-beams-in-a-bank"
+    },
+    {
+      "id": "1715036774",
+      "lang": "cpp",
+      "memory": "10.9 MB",
+      "runtime": "3 ms",
+      "timestamp": "1753733104",
+      "title": "Sort Characters By Frequency",
+      "titleSlug": "sort-characters-by-frequency"
+    },
+    {
+      "id": "1716198489",
+      "lang": "cpp",
+      "memory": "26.4 MB",
+      "runtime": "11 ms",
+      "timestamp": "1753812571",
+      "title": "Majority Element II",
+      "titleSlug": "majority-element-ii"
+    },
+    {
+      "id": "1716278263",
+      "lang": "cpp",
+      "memory": "18.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753816665",
+      "title": "Set Matrix Zeroes",
+      "titleSlug": "set-matrix-zeroes"
+    },
+    {
+      "id": "1717577202",
+      "lang": "cpp",
+      "memory": "447.5 MB",
+      "runtime": "2142 ms",
+      "timestamp": "1753904087",
+      "title": "3Sum",
+      "titleSlug": "3sum"
+    },
+    {
+      "id": "1718785749",
+      "lang": "cpp",
+      "memory": "17.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1753990418",
+      "title": "Maximum Product Subarray",
+      "titleSlug": "maximum-product-subarray"
+    },
+    {
+      "id": "1719892393",
+      "lang": "cpp",
+      "memory": "12.4 MB",
+      "runtime": "10 ms",
+      "timestamp": "1754073854",
+      "title": "Delete Node in a Linked List",
+      "titleSlug": "delete-node-in-a-linked-list"
+    },
+    {
+      "id": "1721192769",
+      "lang": "cpp",
+      "memory": "131.9 MB",
+      "runtime": "12 ms",
+      "timestamp": "1754168242",
+      "title": "Palindrome Linked List",
+      "titleSlug": "palindrome-linked-list"
+    },
+    {
+      "id": "1721990481",
+      "lang": "cpp",
+      "memory": "53.8 MB",
+      "runtime": "179 ms",
+      "timestamp": "1754232018",
+      "title": "4Sum",
+      "titleSlug": "4sum"
+    },
+    {
+      "id": "1722385194",
+      "lang": "cpp",
+      "memory": "10.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1754257605",
+      "title": "Middle of the Linked List",
+      "titleSlug": "middle-of-the-linked-list"
+    },
+    {
+      "id": "1722389985",
+      "lang": "cpp",
+      "memory": "11.6 MB",
+      "runtime": "12 ms",
+      "timestamp": "1754258263",
+      "title": "Linked List Cycle",
+      "titleSlug": "linked-list-cycle"
+    },
+    {
+      "id": "1722401654",
+      "lang": "cpp",
+      "memory": "99.6 MB",
+      "runtime": "191 ms",
+      "timestamp": "1754259989",
+      "title": "Merge In Between Linked Lists",
+      "titleSlug": "merge-in-between-linked-lists"
+    },
+    {
+      "id": "1722408405",
+      "lang": "cpp",
+      "memory": "185.1 MB",
+      "runtime": "4 ms",
+      "timestamp": "1754261073",
+      "title": "Swapping Nodes in a Linked List",
+      "titleSlug": "swapping-nodes-in-a-linked-list"
+    },
+    {
+      "id": "1722414928",
+      "lang": "cpp",
+      "memory": "138.4 MB",
+      "runtime": "1 ms",
+      "timestamp": "1754262123",
+      "title": "Maximum Twin Sum of a Linked List",
+      "titleSlug": "maximum-twin-sum-of-a-linked-list"
+    },
+    {
+      "id": "1723571871",
+      "lang": "cpp",
+      "memory": "9.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1754337205",
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix"
+    },
+    {
+      "id": "1724930317",
+      "lang": "cpp",
+      "memory": "13.9 MB",
+      "runtime": "7 ms",
+      "timestamp": "1754427461",
+      "title": "3Sum Closest",
+      "titleSlug": "3sum-closest"
+    },
+    {
+      "id": "1724958393",
+      "lang": "cpp",
+      "memory": "11.3 MB",
+      "runtime": "10 ms",
+      "timestamp": "1754430933",
+      "title": "Linked List Cycle II",
+      "titleSlug": "linked-list-cycle-ii"
+    },
+    {
+      "id": "1724977568",
+      "lang": "cpp",
+      "memory": "11.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1754433698",
+      "title": "Swap Nodes in Pairs",
+      "titleSlug": "swap-nodes-in-pairs"
+    },
+    {
+      "id": "1726144656",
+      "lang": "cpp",
+      "memory": "20 MB",
+      "runtime": "0 ms",
+      "timestamp": "1754509858",
+      "title": "Remove Linked List Elements",
+      "titleSlug": "remove-linked-list-elements"
+    },
+    {
+      "id": "1727234021",
+      "lang": "cpp",
+      "memory": "279.4 MB",
+      "runtime": "126 ms",
+      "timestamp": "1754591755",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "titleSlug": "delete-nodes-from-linked-list-present-in-array"
+    },
+    {
+      "id": "1727361643",
+      "lang": "cpp",
+      "memory": "16 MB",
+      "runtime": "0 ms",
+      "timestamp": "1754602696",
+      "title": "Remove Duplicates from Sorted List",
+      "titleSlug": "remove-duplicates-from-sorted-list"
+    },
+    {
+      "id": "1728332030",
+      "lang": "cpp",
+      "memory": "77.2 MB",
+      "runtime": "2 ms",
+      "timestamp": "1754681731",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers"
+    },
+    {
+      "id": "1728356906",
+      "lang": "cpp",
+      "memory": "77 MB",
+      "runtime": "4 ms",
+      "timestamp": "1754684085",
+      "title": "Add Two Numbers II",
+      "titleSlug": "add-two-numbers-ii"
+    },
+    {
+      "id": "1728370532",
+      "lang": "cpp",
+      "memory": "19.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1754685571",
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists"
+    },
+    {
+      "id": "1729378422",
+      "lang": "cpp",
+      "memory": "9.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1754770834",
+      "title": "String to Integer (atoi)",
+      "titleSlug": "string-to-integer-atoi"
+    },
+    {
+      "id": "1730368910",
+      "lang": "cpp",
+      "memory": "106.7 MB",
+      "runtime": "35 ms",
+      "timestamp": "1754845769",
+      "title": "Destroying Asteroids",
+      "titleSlug": "destroying-asteroids"
+    },
+    {
+      "id": "1731669132",
+      "lang": "cpp",
+      "memory": "147.7 MB",
+      "runtime": "19 ms",
+      "timestamp": "1754939545",
+      "title": "Range Product Queries of Powers",
+      "titleSlug": "range-product-queries-of-powers"
+    },
+    {
+      "id": "1732945129",
+      "lang": "cpp",
+      "memory": "9.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755029473",
+      "title": "Spiral Matrix II",
+      "titleSlug": "spiral-matrix-ii"
+    },
+    {
+      "id": "1734188355",
+      "lang": "cpp",
+      "memory": "7.7 MB",
+      "runtime": "14 ms",
+      "timestamp": "1755113167",
+      "title": "Fibonacci Number",
+      "titleSlug": "fibonacci-number"
+    },
+    {
+      "id": "1735355815",
+      "lang": "cpp",
+      "memory": "9.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755201099",
+      "title": "Largest 3-Same-Digit Number in String",
+      "titleSlug": "largest-3-same-digit-number-in-string"
+    },
+    {
+      "id": "1736512292",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755283423",
+      "title": "Power of Four",
+      "titleSlug": "power-of-four"
+    },
+    {
+      "id": "1737738679",
+      "lang": "cpp",
+      "memory": "7.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755370572",
+      "title": "Maximum 69 Number",
+      "titleSlug": "maximum-69-number"
+    },
+    {
+      "id": "1737760268",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755372104",
+      "title": "Guess Number Higher or Lower",
+      "titleSlug": "guess-number-higher-or-lower"
+    },
+    {
+      "id": "1738779839",
+      "lang": "cpp",
+      "memory": "12.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755450649",
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array"
+    },
+    {
+      "id": "1740078624",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755546026",
+      "title": "Sum of Two Integers",
+      "titleSlug": "sum-of-two-integers"
+    },
+    {
+      "id": "1742488568",
+      "lang": "cpp",
+      "memory": "8.7 MB",
+      "runtime": "1 ms",
+      "timestamp": "1755718003",
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses"
+    },
+    {
+      "id": "1742490862",
+      "lang": "cpp",
+      "memory": "15.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1755718165",
+      "title": "Remove Duplicates from Sorted List II",
+      "titleSlug": "remove-duplicates-from-sorted-list-ii"
+    },
+    {
+      "id": "1746897877",
+      "lang": "cpp",
+      "memory": "16.8 MB",
+      "runtime": "6 ms",
+      "timestamp": "1756056543",
+      "title": "Subsets",
+      "titleSlug": "subsets"
+    },
+    {
+      "id": "1747079881",
+      "lang": "cpp",
+      "memory": "9.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1756068675",
+      "title": "Letter Combinations of a Phone Number",
+      "titleSlug": "letter-combinations-of-a-phone-number"
+    },
+    {
+      "id": "1748118365",
+      "lang": "cpp",
+      "memory": "22.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1756146018",
+      "title": "Diagonal Traverse",
+      "titleSlug": "diagonal-traverse"
+    },
+    {
+      "id": "1773148639",
+      "lang": "cpp",
+      "memory": "10.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1758049533",
+      "title": "Binary Tree Inorder Traversal",
+      "titleSlug": "binary-tree-inorder-traversal"
+    },
+    {
+      "id": "1773163641",
+      "lang": "cpp",
+      "memory": "12.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1758050553",
+      "title": "Same Tree",
+      "titleSlug": "same-tree"
+    },
+    {
+      "id": "1783715830",
+      "lang": "cpp",
+      "memory": "9.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1758927692",
+      "title": "Implement Stack using Queues",
+      "titleSlug": "implement-stack-using-queues"
+    },
+    {
+      "id": "1783719937",
+      "lang": "cpp",
+      "memory": "9.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1758928516",
+      "title": "Implement Queue using Stacks",
+      "titleSlug": "implement-queue-using-stacks"
+    },
+    {
+      "id": "1790781811",
+      "lang": "cpp",
+      "memory": "10.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1759558606",
+      "title": "Binary Tree Preorder Traversal",
+      "titleSlug": "binary-tree-preorder-traversal"
+    },
+    {
+      "id": "1790783375",
+      "lang": "cpp",
+      "memory": "11 MB",
+      "runtime": "0 ms",
+      "timestamp": "1759558714",
+      "title": "Binary Tree Postorder Traversal",
+      "titleSlug": "binary-tree-postorder-traversal"
+    },
+    {
+      "id": "1796080908",
+      "lang": "cpp",
+      "memory": "29.7 MB",
+      "runtime": "24 ms",
+      "timestamp": "1759991921",
+      "title": "Removing Stars From a String",
+      "titleSlug": "removing-stars-from-a-string"
+    },
+    {
+      "id": "1826337188",
+      "lang": "cpp",
+      "memory": "17.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1762805888",
+      "title": "Binary Tree Level Order Traversal",
+      "titleSlug": "binary-tree-level-order-traversal"
+    },
+    {
+      "id": "1826351754",
+      "lang": "cpp",
+      "memory": "15 MB",
+      "runtime": "0 ms",
+      "timestamp": "1762807420",
+      "title": "Binary Tree Right Side View",
+      "titleSlug": "binary-tree-right-side-view"
+    },
+    {
+      "id": "1827284183",
+      "lang": "cpp",
+      "memory": "20.5 MB",
+      "runtime": "3 ms",
+      "timestamp": "1762894650",
+      "title": "Maximum Depth of Binary Tree",
+      "titleSlug": "maximum-depth-of-binary-tree"
+    },
+    {
+      "id": "1828195496",
+      "lang": "cpp",
+      "memory": "23.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1762980742",
+      "title": "Balanced Binary Tree",
+      "titleSlug": "balanced-binary-tree"
+    },
+    {
+      "id": "1828218042",
+      "lang": "cpp",
+      "memory": "23.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1762983699",
+      "title": "Diameter of Binary Tree",
+      "titleSlug": "diameter-of-binary-tree"
+    },
+    {
+      "id": "1829128505",
+      "lang": "cpp",
+      "memory": "28 MB",
+      "runtime": "0 ms",
+      "timestamp": "1763070786",
+      "title": "Binary Tree Maximum Path Sum",
+      "titleSlug": "binary-tree-maximum-path-sum"
+    },
+    {
+      "id": "1829141103",
+      "lang": "cpp",
+      "memory": "15 MB",
+      "runtime": "0 ms",
+      "timestamp": "1763072691",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "titleSlug": "binary-tree-zigzag-level-order-traversal"
+    },
+    {
+      "id": "1829919204",
+      "lang": "cpp",
+      "memory": "18.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1763154233",
+      "title": "Symmetric Tree",
+      "titleSlug": "symmetric-tree"
+    },
+    {
+      "id": "1830747575",
+      "lang": "cpp",
+      "memory": "17.5 MB",
+      "runtime": "10 ms",
+      "timestamp": "1763247510",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree"
+    },
+    {
+      "id": "1831697100",
+      "lang": "cpp",
+      "memory": "35.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1763325238",
+      "title": "Search in a Binary Search Tree",
+      "titleSlug": "search-in-a-binary-search-tree"
+    },
+    {
+      "id": "1831710411",
+      "lang": "cpp",
+      "memory": "59.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1763326658",
+      "title": "Insert into a Binary Search Tree",
+      "titleSlug": "insert-into-a-binary-search-tree"
+    },
+    {
+      "id": "1831714583",
+      "lang": "cpp",
+      "memory": "24.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1763327106",
+      "title": "Kth Smallest Element in a BST",
+      "titleSlug": "kth-smallest-element-in-a-bst"
+    },
+    {
+      "id": "1831717369",
+      "lang": "cpp",
+      "memory": "22.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1763327410",
+      "title": "Validate Binary Search Tree",
+      "titleSlug": "validate-binary-search-tree"
+    },
+    {
+      "id": "1832727576",
+      "lang": "cpp",
+      "memory": "23.4 MB",
+      "runtime": "29 ms",
+      "timestamp": "1763414290",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree"
+    },
+    {
+      "id": "1867822255",
+      "lang": "cpp",
+      "memory": "50.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1766946807",
+      "title": "Max Consecutive Ones",
+      "titleSlug": "max-consecutive-ones"
+    },
+    {
+      "id": "1867829392",
+      "lang": "cpp",
+      "memory": "32.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1766947462",
+      "title": "Binary Subarrays With Sum",
+      "titleSlug": "binary-subarrays-with-sum"
+    },
+    {
+      "id": "1867844854",
+      "lang": "cpp",
+      "memory": "11.6 MB",
+      "runtime": "2 ms",
+      "timestamp": "1766948880",
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters"
+    },
+    {
+      "id": "1868536291",
+      "lang": "cpp",
+      "memory": "71.4 MB",
+      "runtime": "8 ms",
+      "timestamp": "1767021205",
+      "title": "Count Number of Nice Subarrays",
+      "titleSlug": "count-number-of-nice-subarrays"
+    },
+    {
+      "id": "1868750396",
+      "lang": "cpp",
+      "memory": "69.6 MB",
+      "runtime": "4 ms",
+      "timestamp": "1767035555",
+      "title": "Max Consecutive Ones III",
+      "titleSlug": "max-consecutive-ones-iii"
+    },
+    {
+      "id": "1868751743",
+      "lang": "cpp",
+      "memory": "10.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767035682",
+      "title": "Longest Repeating Character Replacement",
+      "titleSlug": "longest-repeating-character-replacement"
+    },
+    {
+      "id": "1869411728",
+      "lang": "cpp",
+      "memory": "42.8 MB",
+      "runtime": "4 ms",
+      "timestamp": "1767101926",
+      "title": "Subarrays with K Different Integers",
+      "titleSlug": "subarrays-with-k-different-integers"
+    },
+    {
+      "id": "1869476796",
+      "lang": "cpp",
+      "memory": "44.9 MB",
+      "runtime": "11 ms",
+      "timestamp": "1767106880",
+      "title": "Assign Cookies",
+      "titleSlug": "assign-cookies"
+    },
+    {
+      "id": "1869494708",
+      "lang": "cpp",
+      "memory": "87.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767108213",
+      "title": "Lemonade Change",
+      "titleSlug": "lemonade-change"
+    },
+    {
+      "id": "1869735516",
+      "lang": "cpp",
+      "memory": "52.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767126229",
+      "title": "Jump Game",
+      "titleSlug": "jump-game"
+    },
+    {
+      "id": "1870191648",
+      "lang": "cpp",
+      "memory": "20.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767177082",
+      "title": "Jump Game II",
+      "titleSlug": "jump-game-ii"
+    },
+    {
+      "id": "1870423267",
+      "lang": "cpp",
+      "memory": "23.9 MB",
+      "runtime": "4 ms",
+      "timestamp": "1767199612",
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals"
+    },
+    {
+      "id": "1870549866",
+      "lang": "cpp",
+      "memory": "60.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767213578",
+      "title": "Recover Binary Search Tree",
+      "titleSlug": "recover-binary-search-tree"
+    },
+    {
+      "id": "1871051243",
+      "lang": "cpp",
+      "memory": "15.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767275664",
+      "title": "Leaf-Similar Trees",
+      "titleSlug": "leaf-similar-trees"
+    },
+    {
+      "id": "1871088762",
+      "lang": "cpp",
+      "memory": "21.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767278332",
+      "title": "Path Sum",
+      "titleSlug": "path-sum"
+    },
+    {
+      "id": "1871316799",
+      "lang": "cpp",
+      "memory": "12 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767292437",
+      "title": "Sum Root to Leaf Numbers",
+      "titleSlug": "sum-root-to-leaf-numbers"
+    },
+    {
+      "id": "1871349803",
+      "lang": "cpp",
+      "memory": "34.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767295280",
+      "title": "Delete Node in a BST",
+      "titleSlug": "delete-node-in-a-bst"
+    },
+    {
+      "id": "1873291560",
+      "lang": "cpp",
+      "memory": "19.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767454928",
+      "title": "Maximum Width of Binary Tree",
+      "titleSlug": "maximum-width-of-binary-tree"
+    },
+    {
+      "id": "1873353013",
+      "lang": "cpp",
+      "memory": "37.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767457789",
+      "title": "Two Sum IV - Input is a BST",
+      "titleSlug": "two-sum-iv-input-is-a-bst"
+    },
+    {
+      "id": "1873484727",
+      "lang": "cpp",
+      "memory": "74.7 MB",
+      "runtime": "27 ms",
+      "timestamp": "1767465229",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal"
+    },
+    {
+      "id": "1873502504",
+      "lang": "cpp",
+      "memory": "31.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767466530",
+      "title": "Count Complete Tree Nodes",
+      "titleSlug": "count-complete-tree-nodes"
+    },
+    {
+      "id": "1873534363",
+      "lang": "cpp",
+      "memory": "16.3 MB",
+      "runtime": "3 ms",
+      "timestamp": "1767469235",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "titleSlug": "construct-binary-search-tree-from-preorder-traversal"
+    },
+    {
+      "id": "1873547860",
+      "lang": "cpp",
+      "memory": "74.6 MB",
+      "runtime": "31 ms",
+      "timestamp": "1767470533",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal"
+    },
+    {
+      "id": "1874106928",
+      "lang": "cpp",
+      "memory": "28.3 MB",
+      "runtime": "6 ms",
+      "timestamp": "1767524204",
+      "title": "Find Bottom Left Tree Value",
+      "titleSlug": "find-bottom-left-tree-value"
+    },
+    {
+      "id": "1874117477",
+      "lang": "cpp",
+      "memory": "22.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767524993",
+      "title": "Find Largest Value in Each Tree Row",
+      "titleSlug": "find-largest-value-in-each-tree-row"
+    },
+    {
+      "id": "1874150317",
+      "lang": "cpp",
+      "memory": "34.9 MB",
+      "runtime": "48 ms",
+      "timestamp": "1767527365",
+      "title": "Convert BST to Greater Tree",
+      "titleSlug": "convert-bst-to-greater-tree"
+    },
+    {
+      "id": "1874195307",
+      "lang": "cpp",
+      "memory": "25.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767530648",
+      "title": "Add One Row to Tree",
+      "titleSlug": "add-one-row-to-tree"
+    },
+    {
+      "id": "1874237700",
+      "lang": "cpp",
+      "memory": "13.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767533499",
+      "title": "Check Completeness of a Binary Tree",
+      "titleSlug": "check-completeness-of-a-binary-tree"
+    },
+    {
+      "id": "1874242552",
+      "lang": "cpp",
+      "memory": "11.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767533799",
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "titleSlug": "binary-search-tree-to-greater-sum-tree"
+    },
+    {
+      "id": "1874596228",
+      "lang": "cpp",
+      "memory": "23.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767554788",
+      "title": "Average of Levels in Binary Tree",
+      "titleSlug": "average-of-levels-in-binary-tree"
+    },
+    {
+      "id": "1875695970",
+      "lang": "cpp",
+      "memory": "20.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767640039",
+      "title": "Path Sum II",
+      "titleSlug": "path-sum-ii"
+    },
+    {
+      "id": "1875721975",
+      "lang": "cpp",
+      "memory": "18.9 MB",
+      "runtime": "12 ms",
+      "timestamp": "1767642180",
+      "title": "Populating Next Right Pointers in Each Node",
+      "titleSlug": "populating-next-right-pointers-in-each-node"
+    },
+    {
+      "id": "1875736282",
+      "lang": "cpp",
+      "memory": "25 MB",
+      "runtime": "7 ms",
+      "timestamp": "1767643532",
+      "title": "Most Frequent Subtree Sum",
+      "titleSlug": "most-frequent-subtree-sum"
+    },
+    {
+      "id": "1875758093",
+      "lang": "cpp",
+      "memory": "17.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767645822",
+      "title": "Flatten Binary Tree to Linked List",
+      "titleSlug": "flatten-binary-tree-to-linked-list"
+    },
+    {
+      "id": "1875766786",
+      "lang": "cpp",
+      "memory": "109.5 MB",
+      "runtime": "1 ms",
+      "timestamp": "1767646835",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "titleSlug": "maximum-level-sum-of-a-binary-tree"
+    },
+    {
+      "id": "1875774729",
+      "lang": "cpp",
+      "memory": "62.7 MB",
+      "runtime": "4 ms",
+      "timestamp": "1767647840",
+      "title": "Deepest Leaves Sum",
+      "titleSlug": "deepest-leaves-sum"
+    },
+    {
+      "id": "1875785167",
+      "lang": "cpp",
+      "memory": "42.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767649230",
+      "title": "Sum of Nodes with Even-Valued Grandparent",
+      "titleSlug": "sum-of-nodes-with-even-valued-grandparent"
+    },
+    {
+      "id": "1875799687",
+      "lang": "cpp",
+      "memory": "88.5 MB",
+      "runtime": "7 ms",
+      "timestamp": "1767651317",
+      "title": "All Elements in Two Binary Search Trees",
+      "titleSlug": "all-elements-in-two-binary-search-trees"
+    },
+    {
+      "id": "1877895490",
+      "lang": "cpp",
+      "memory": "25.4 MB",
+      "runtime": "9 ms",
+      "timestamp": "1767807132",
+      "title": "Find Mode in Binary Search Tree",
+      "titleSlug": "find-mode-in-binary-search-tree"
+    },
+    {
+      "id": "1877963425",
+      "lang": "cpp",
+      "memory": "78.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767810275",
+      "title": "Maximum Product of Splitted Binary Tree",
+      "titleSlug": "maximum-product-of-splitted-binary-tree"
+    },
+    {
+      "id": "1877967260",
+      "lang": "cpp",
+      "memory": "32 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767810460",
+      "title": "Linked List in Binary Tree",
+      "titleSlug": "linked-list-in-binary-tree"
+    },
+    {
+      "id": "1878753301",
+      "lang": "cpp",
+      "memory": "21.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767879728",
+      "title": "Number of Provinces",
+      "titleSlug": "number-of-provinces"
+    },
+    {
+      "id": "1878817444",
+      "lang": "cpp",
+      "memory": "17.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1767883644",
+      "title": "Rotting Oranges",
+      "titleSlug": "rotting-oranges"
+    },
+    {
+      "id": "1878831120",
+      "lang": "cpp",
+      "memory": "10.3 MB",
+      "runtime": "4 ms",
+      "timestamp": "1767884518",
+      "title": "Robot Return to Origin",
+      "titleSlug": "robot-return-to-origin"
+    },
+    {
+      "id": "1878856269",
+      "lang": "cpp",
+      "memory": "13.6 MB",
+      "runtime": "15 ms",
+      "timestamp": "1767886094",
+      "title": "Execution of All Suffix Instructions Staying in a Grid",
+      "titleSlug": "execution-of-all-suffix-instructions-staying-in-a-grid"
+    },
+    {
+      "id": "1891427182",
+      "lang": "cpp",
+      "memory": "18.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1768936041",
+      "title": "Flood Fill",
+      "titleSlug": "flood-fill"
+    },
+    {
+      "id": "1895295937",
+      "lang": "cpp",
+      "memory": "34.6 MB",
+      "runtime": "272 ms",
+      "timestamp": "1769256805",
+      "title": "01 Matrix",
+      "titleSlug": "01-matrix"
+    },
+    {
+      "id": "1895348939",
+      "lang": "cpp",
+      "memory": "15.6 MB",
+      "runtime": "2 ms",
+      "timestamp": "1769260901",
+      "title": "Surrounded Regions",
+      "titleSlug": "surrounded-regions"
+    },
+    {
+      "id": "1895406732",
+      "lang": "cpp",
+      "memory": "31.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769264800",
+      "title": "Number of Enclaves",
+      "titleSlug": "number-of-enclaves"
+    },
+    {
+      "id": "1896255668",
+      "lang": "cpp",
+      "memory": "306.8 MB",
+      "runtime": "17 ms",
+      "timestamp": "1769328310",
+      "title": "Rotate Non Negative Elements",
+      "titleSlug": "rotate-non-negative-elements"
+    },
+    {
+      "id": "1896267993",
+      "lang": "cpp",
+      "memory": "193.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769329279",
+      "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
+      "titleSlug": "minimum-prefix-removal-to-make-array-strictly-increasing"
+    },
+    {
+      "id": "1897547264",
+      "lang": "cpp",
+      "memory": "17.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769428794",
+      "title": "Is Graph Bipartite?",
+      "titleSlug": "is-graph-bipartite"
+    },
+    {
+      "id": "1898246392",
+      "lang": "cpp",
+      "memory": "24.5 MB",
+      "runtime": "29 ms",
+      "timestamp": "1769484773",
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands"
+    },
+    {
+      "id": "1898289496",
+      "lang": "cpp",
+      "memory": "32.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769494038",
+      "title": "Max Area of Island",
+      "titleSlug": "max-area-of-island"
+    },
+    {
+      "id": "1900116624",
+      "lang": "cpp",
+      "memory": "18.4 MB",
+      "runtime": "3 ms",
+      "timestamp": "1769622990",
+      "title": "Course Schedule II",
+      "titleSlug": "course-schedule-ii"
+    },
+    {
+      "id": "1900149751",
+      "lang": "cpp",
+      "memory": "19.4 MB",
+      "runtime": "2 ms",
+      "timestamp": "1769624472",
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule"
+    },
+    {
+      "id": "1900181562",
+      "lang": "cpp",
+      "memory": "14.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769626131",
+      "title": "Battleships in a Board",
+      "titleSlug": "battleships-in-a-board"
+    },
+    {
+      "id": "1901732881",
+      "lang": "cpp",
+      "memory": "54.1 MB",
+      "runtime": "14 ms",
+      "timestamp": "1769756624",
+      "title": "Find a Peak Element II",
+      "titleSlug": "find-a-peak-element-ii"
+    },
+    {
+      "id": "1902052905",
+      "lang": "cpp",
+      "memory": "12.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769782496",
+      "title": "Rabbits in Forest",
+      "titleSlug": "rabbits-in-forest"
+    },
+    {
+      "id": "1902751420",
+      "lang": "cpp",
+      "memory": "19.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769845393",
+      "title": "Find Smallest Letter Greater Than Target",
+      "titleSlug": "find-smallest-letter-greater-than-target"
+    },
+    {
+      "id": "1902943855",
+      "lang": "cpp",
+      "memory": "66.2 MB",
+      "runtime": "53 ms",
+      "timestamp": "1769859828",
+      "title": "Find Eventual Safe States",
+      "titleSlug": "find-eventual-safe-states"
+    },
+    {
+      "id": "1902974296",
+      "lang": "cpp",
+      "memory": "22.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1769862335",
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku"
+    },
+    {
+      "id": "1911187551",
+      "lang": "cpp",
+      "memory": "21.2 MB",
+      "runtime": "58 ms",
+      "timestamp": "1770461806",
+      "title": "Word Ladder",
+      "titleSlug": "word-ladder"
+    },
+    {
+      "id": "1912324965",
+      "lang": "cpp",
+      "memory": "32.2 MB",
+      "runtime": "2 ms",
+      "timestamp": "1770547186",
+      "title": "Count Dominant Indices",
+      "titleSlug": "count-dominant-indices"
+    },
+    {
+      "id": "1914901398",
+      "lang": "cpp",
+      "memory": "24.5 MB",
+      "runtime": "41 ms",
+      "timestamp": "1770742324",
+      "title": "Path With Minimum Effort",
+      "titleSlug": "path-with-minimum-effort"
+    },
+    {
+      "id": "1914953397",
+      "lang": "cpp",
+      "memory": "12.8 MB",
+      "runtime": "3 ms",
+      "timestamp": "1770744590",
+      "title": "Swim in Rising Water",
+      "titleSlug": "swim-in-rising-water"
+    },
+    {
+      "id": "1915796108",
+      "lang": "cpp",
+      "memory": "23.4 MB",
+      "runtime": "31 ms",
+      "timestamp": "1770814469",
+      "title": "Shortest Path in Binary Matrix",
+      "titleSlug": "shortest-path-in-binary-matrix"
+    },
+    {
+      "id": "1915845730",
+      "lang": "cpp",
+      "memory": "18.3 MB",
+      "runtime": "8 ms",
+      "timestamp": "1770817528",
+      "title": "Cheapest Flights Within K Stops",
+      "titleSlug": "cheapest-flights-within-k-stops"
+    },
+    {
+      "id": "1917181978",
+      "lang": "cpp",
+      "memory": "48 MB",
+      "runtime": "92 ms",
+      "timestamp": "1770915035",
+      "title": "Network Delay Time",
+      "titleSlug": "network-delay-time"
+    },
+    {
+      "id": "1917304882",
+      "lang": "cpp",
+      "memory": "37.1 MB",
+      "runtime": "18 ms",
+      "timestamp": "1770920987",
+      "title": "Number of Ways to Arrive at Destination",
+      "titleSlug": "number-of-ways-to-arrive-at-destination"
+    },
+    {
+      "id": "1923671031",
+      "lang": "cpp",
+      "memory": "7.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1771442351",
+      "title": "Binary Number with Alternating Bits",
+      "titleSlug": "binary-number-with-alternating-bits"
+    },
+    {
+      "id": "1923674079",
+      "lang": "cpp",
+      "memory": "8.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1771442598",
+      "title": "Reverse Bits",
+      "titleSlug": "reverse-bits"
+    },
+    {
+      "id": "1928033523",
+      "lang": "cpp",
+      "memory": "26.2 MB",
+      "runtime": "12 ms",
+      "timestamp": "1771820432",
+      "title": "Valid Mountain Array",
+      "titleSlug": "valid-mountain-array"
+    },
+    {
+      "id": "1928084285",
+      "lang": "cpp",
+      "memory": "27.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1771823501",
+      "title": "Trionic Array I",
+      "titleSlug": "trionic-array-i"
+    },
+    {
+      "id": "1928125836",
+      "lang": "cpp",
+      "memory": "10.2 MB",
+      "runtime": "1 ms",
+      "timestamp": "1771825991",
+      "title": "Stone Game",
+      "titleSlug": "stone-game"
+    },
+    {
+      "id": "1938096284",
+      "lang": "cpp",
+      "memory": "14.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1772655024",
+      "title": "Bag of Tokens",
+      "titleSlug": "bag-of-tokens"
+    },
+    {
+      "id": "1938111257",
+      "lang": "cpp",
+      "memory": "45.6 MB",
+      "runtime": "19 ms",
+      "timestamp": "1772656894",
+      "title": "Boats to Save People",
+      "titleSlug": "boats-to-save-people"
+    },
+    {
+      "id": "1939113898",
+      "lang": "cpp",
+      "memory": "8.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1772738729",
+      "title": "Break a Palindrome",
+      "titleSlug": "break-a-palindrome"
+    },
+    {
+      "id": "1939153987",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1772742904",
+      "title": "Broken Calculator",
+      "titleSlug": "broken-calculator"
+    },
+    {
+      "id": "1939203006",
+      "lang": "cpp",
+      "memory": "99.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1772750502",
+      "title": "Minimum Time to Make Rope Colorful",
+      "titleSlug": "minimum-time-to-make-rope-colorful"
+    },
+    {
+      "id": "1967085167",
+      "lang": "cpp",
+      "memory": "109.5 MB",
+      "runtime": "614 ms",
+      "timestamp": "1775153457",
+      "title": "Maximum Amount of Money Robot Can Earn",
+      "titleSlug": "maximum-amount-of-money-robot-can-earn"
+    },
+    {
+      "id": "1967637417",
+      "lang": "cpp",
+      "memory": "21.2 MB",
+      "runtime": "34 ms",
+      "timestamp": "1775213909",
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance"
+    },
+    {
+      "id": "1967985885",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775239852",
+      "title": "Count Good Numbers",
+      "titleSlug": "count-good-numbers"
+    },
+    {
+      "id": "1967999282",
+      "lang": "cpp",
+      "memory": "8.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775240599",
+      "title": "Pow(x, n)",
+      "titleSlug": "powx-n"
+    },
+    {
+      "id": "1968592184",
+      "lang": "cpp",
+      "memory": "14 MB",
+      "runtime": "1 ms",
+      "timestamp": "1775306507",
+      "title": "Combination Sum II",
+      "titleSlug": "combination-sum-ii"
+    },
+    {
+      "id": "1968597129",
+      "lang": "cpp",
+      "memory": "10.4 MB",
+      "runtime": "2 ms",
+      "timestamp": "1775306954",
+      "title": "Subsets II",
+      "titleSlug": "subsets-ii"
+    },
+    {
+      "id": "1968606828",
+      "lang": "cpp",
+      "memory": "12.8 MB",
+      "runtime": "3 ms",
+      "timestamp": "1775307795",
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses"
+    },
+    {
+      "id": "1969857564",
+      "lang": "cpp",
+      "memory": "22.9 MB",
+      "runtime": "16 ms",
+      "timestamp": "1775410301",
+      "title": "Combination Sum",
+      "titleSlug": "combination-sum"
+    },
+    {
+      "id": "1969884730",
+      "lang": "cpp",
+      "memory": "9.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775411947",
+      "title": "Combination Sum III",
+      "titleSlug": "combination-sum-iii"
+    },
+    {
+      "id": "1970561268",
+      "lang": "cpp",
+      "memory": "10.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775481348",
+      "title": "Permutations",
+      "titleSlug": "permutations"
+    },
+    {
+      "id": "1970591638",
+      "lang": "cpp",
+      "memory": "12 MB",
+      "runtime": "807 ms",
+      "timestamp": "1775483410",
+      "title": "Word Search",
+      "titleSlug": "word-search"
+    },
+    {
+      "id": "1970635971",
+      "lang": "cpp",
+      "memory": "49.8 MB",
+      "runtime": "47 ms",
+      "timestamp": "1775486278",
+      "title": "N-Queens",
+      "titleSlug": "n-queens"
+    },
+    {
+      "id": "1971890817",
+      "lang": "cpp",
+      "memory": "7.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775585728",
+      "title": "Climbing Stairs",
+      "titleSlug": "climbing-stairs"
+    },
+    {
+      "id": "1972006963",
+      "lang": "cpp",
+      "memory": "55.2 MB",
+      "runtime": "171 ms",
+      "timestamp": "1775595788",
+      "title": "Frog Jump",
+      "titleSlug": "frog-jump"
+    },
+    {
+      "id": "1972950587",
+      "lang": "cpp",
+      "memory": "10.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775676426",
+      "title": "House Robber",
+      "titleSlug": "house-robber"
+    },
+    {
+      "id": "1972979103",
+      "lang": "cpp",
+      "memory": "10.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775679364",
+      "title": "House Robber II",
+      "titleSlug": "house-robber-ii"
+    },
+    {
+      "id": "1974849439",
+      "lang": "cpp",
+      "memory": "29.9 MB",
+      "runtime": "4 ms",
+      "timestamp": "1775859837",
+      "title": "Minimum Distance Between Three Equal Elements I",
+      "titleSlug": "minimum-distance-between-three-equal-elements-i"
+    },
+    {
+      "id": "1975231904",
+      "lang": "cpp",
+      "memory": "8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775905666",
+      "title": "Unique Paths",
+      "titleSlug": "unique-paths"
+    },
+    {
+      "id": "1975640053",
+      "lang": "cpp",
+      "memory": "15.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775928459",
+      "title": "Minimum Path Sum",
+      "titleSlug": "minimum-path-sum"
+    },
+    {
+      "id": "1975664184",
+      "lang": "cpp",
+      "memory": "11.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775929976",
+      "title": "Unique Paths II",
+      "titleSlug": "unique-paths-ii"
+    },
+    {
+      "id": "1976373188",
+      "lang": "cpp",
+      "memory": "12.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1775995905",
+      "title": "Triangle",
+      "titleSlug": "triangle"
+    },
+    {
+      "id": "1977745693",
+      "lang": "cpp",
+      "memory": "17.6 MB",
+      "runtime": "75 ms",
+      "timestamp": "1776116760",
+      "title": "Partition Equal Subset Sum",
+      "titleSlug": "partition-equal-subset-sum"
+    },
+    {
+      "id": "1978635162",
+      "lang": "cpp",
+      "memory": "11.7 MB",
+      "runtime": "7 ms",
+      "timestamp": "1776197001",
+      "title": "Target Sum",
+      "titleSlug": "target-sum"
+    },
+    {
+      "id": "1978647359",
+      "lang": "cpp",
+      "memory": "16.3 MB",
+      "runtime": "35 ms",
+      "timestamp": "1776198427",
+      "title": "Coin Change II",
+      "titleSlug": "coin-change-ii"
+    },
+    {
+      "id": "1979495032",
+      "lang": "cpp",
+      "memory": "53 MB",
+      "runtime": "55 ms",
+      "timestamp": "1776279272",
+      "title": "Coin Change",
+      "titleSlug": "coin-change"
+    },
+    {
+      "id": "1979520026",
+      "lang": "cpp",
+      "memory": "15.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1776281477",
+      "title": "Minimum Falling Path Sum",
+      "titleSlug": "minimum-falling-path-sum"
+    },
+    {
+      "id": "1980458386",
+      "lang": "cpp",
+      "memory": "11.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1776376951",
+      "title": "Relative Sort Array",
+      "titleSlug": "relative-sort-array"
+    },
+    {
+      "id": "1981249034",
+      "lang": "cpp",
+      "memory": "13.2 MB",
+      "runtime": "31 ms",
+      "timestamp": "1776455081",
+      "title": "Longest Palindromic Subsequence",
+      "titleSlug": "longest-palindromic-subsequence"
+    },
+    {
+      "id": "1981254148",
+      "lang": "cpp",
+      "memory": "10.1 MB",
+      "runtime": "12 ms",
+      "timestamp": "1776455677",
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome"
+    },
+    {
+      "id": "1981267415",
+      "lang": "cpp",
+      "memory": "12 MB",
+      "runtime": "62 ms",
+      "timestamp": "1776457341",
+      "title": "Delete Operation for Two Strings",
+      "titleSlug": "delete-operation-for-two-strings"
+    },
+    {
+      "id": "1981814248",
+      "lang": "cpp",
+      "memory": "11.9 MB",
+      "runtime": "44 ms",
+      "timestamp": "1776523376",
+      "title": "Edit Distance",
+      "titleSlug": "edit-distance"
+    },
+    {
+      "id": "1981845606",
+      "lang": "cpp",
+      "memory": "27 MB",
+      "runtime": "1456 ms",
+      "timestamp": "1776526038",
+      "title": "Wildcard Matching",
+      "titleSlug": "wildcard-matching"
+    },
+    {
+      "id": "1982086256",
+      "lang": "cpp",
+      "memory": "30.9 MB",
+      "runtime": "182 ms",
+      "timestamp": "1776547513",
+      "title": "Maximum Length of Pair Chain",
+      "titleSlug": "maximum-length-of-pair-chain"
+    },
+    {
+      "id": "1982090370",
+      "lang": "cpp",
+      "memory": "8.6 MB",
+      "runtime": "2 ms",
+      "timestamp": "1776548239",
+      "title": "Out of Boundary Paths",
+      "titleSlug": "out-of-boundary-paths"
+    },
+    {
+      "id": "1982093462",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "7 ms",
+      "timestamp": "1776548779",
+      "title": "Number of Dice Rolls With Target Sum",
+      "titleSlug": "number-of-dice-rolls-with-target-sum"
+    },
+    {
+      "id": "1982621559",
+      "lang": "cpp",
+      "memory": "30.1 MB",
+      "runtime": "4 ms",
+      "timestamp": "1776599216",
+      "title": "Smallest Stable Index I",
+      "titleSlug": "smallest-stable-index-i"
+    },
+    {
+      "id": "1983914064",
+      "lang": "cpp",
+      "memory": "83.9 MB",
+      "runtime": "14 ms",
+      "timestamp": "1776713426",
+      "title": "Minimum Path Cost in a Grid",
+      "titleSlug": "minimum-path-cost-in-a-grid"
+    },
+    {
+      "id": "1983922545",
+      "lang": "cpp",
+      "memory": "72.8 MB",
+      "runtime": "91 ms",
+      "timestamp": "1776714279",
+      "title": "Maximum Number of Moves in a Grid",
+      "titleSlug": "maximum-number-of-moves-in-a-grid"
+    },
+    {
+      "id": "1983938656",
+      "lang": "cpp",
+      "memory": "36.1 MB",
+      "runtime": "255 ms",
+      "timestamp": "1776716050",
+      "title": "Length of the Longest Subsequence That Sums to Target",
+      "titleSlug": "length-of-the-longest-subsequence-that-sums-to-target"
+    },
+    {
+      "id": "1984804588",
+      "lang": "cpp",
+      "memory": "14.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1776801841",
+      "title": "Maximum Non Negative Product in a Matrix",
+      "titleSlug": "maximum-non-negative-product-in-a-matrix"
+    },
+    {
+      "id": "1984813755",
+      "lang": "cpp",
+      "memory": "97.2 MB",
+      "runtime": "7 ms",
+      "timestamp": "1776802932",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": "1985699590",
+      "lang": "cpp",
+      "memory": "20.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1776893745",
+      "title": "Best Time to Buy and Sell Stock II",
+      "titleSlug": "best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "id": "1985709709",
+      "lang": "cpp",
+      "memory": "81.9 MB",
+      "runtime": "32 ms",
+      "timestamp": "1776895605",
+      "title": "Best Time to Buy and Sell Stock III",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iii"
+    },
+    {
+      "id": "1985711860",
+      "lang": "cpp",
+      "memory": "23.1 MB",
+      "runtime": "31 ms",
+      "timestamp": "1776896039",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "titleSlug": "best-time-to-buy-and-sell-stock-iv"
+    },
+    {
+      "id": "1986516832",
+      "lang": "cpp",
+      "memory": "15.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1776977938",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "titleSlug": "best-time-to-buy-and-sell-stock-with-cooldown"
+    },
+    {
+      "id": "1986518824",
+      "lang": "cpp",
+      "memory": "67.8 MB",
+      "runtime": "11 ms",
+      "timestamp": "1776978248",
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee"
+    },
+    {
+      "id": "1986537278",
+      "lang": "cpp",
+      "memory": "12.7 MB",
+      "runtime": "11 ms",
+      "timestamp": "1776981553",
+      "title": "Largest Divisible Subset",
+      "titleSlug": "largest-divisible-subset"
+    },
+    {
+      "id": "1987278841",
+      "lang": "cpp",
+      "memory": "12.9 MB",
+      "runtime": "11 ms",
+      "timestamp": "1777060017",
+      "title": "Shortest Common Supersequence ",
+      "titleSlug": "shortest-common-supersequence"
+    },
+    {
+      "id": "1987295729",
+      "lang": "cpp",
+      "memory": "12.9 MB",
+      "runtime": "11 ms",
+      "timestamp": "1777062302",
+      "title": "Longest Common Subsequence",
+      "titleSlug": "longest-common-subsequence"
+    },
+    {
+      "id": "1987308768",
+      "lang": "cpp",
+      "memory": "9.1 MB",
+      "runtime": "3 ms",
+      "timestamp": "1777064360",
+      "title": "Furthest Point From Origin",
+      "titleSlug": "furthest-point-from-origin"
+    },
+    {
+      "id": "1988095833",
+      "lang": "cpp",
+      "memory": "125.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777148425",
+      "title": "Compare Sums of Bitonic Parts",
+      "titleSlug": "compare-sums-of-bitonic-parts"
+    },
+    {
+      "id": "1988466187",
+      "lang": "cpp",
+      "memory": "8.5 MB",
+      "runtime": "1 ms",
+      "timestamp": "1777191224",
+      "title": "Valid Digit Number",
+      "titleSlug": "valid-digit-number"
+    },
+    {
+      "id": "1988939337",
+      "lang": "cpp",
+      "memory": "17.5 MB",
+      "runtime": "23 ms",
+      "timestamp": "1777236270",
+      "title": "Number of Longest Increasing Subsequence",
+      "titleSlug": "number-of-longest-increasing-subsequence"
+    },
+    {
+      "id": "1989719336",
+      "lang": "cpp",
+      "memory": "57.2 MB",
+      "runtime": "34 ms",
+      "timestamp": "1777320014",
+      "title": "Check if There is a Valid Path in a Grid",
+      "titleSlug": "check-if-there-is-a-valid-path-in-a-grid"
+    },
+    {
+      "id": "1992786809",
+      "lang": "cpp",
+      "memory": "44.3 MB",
+      "runtime": "26 ms",
+      "timestamp": "1777658307",
+      "title": "Distinct Subsequences",
+      "titleSlug": "distinct-subsequences"
+    },
+    {
+      "id": "1992806465",
+      "lang": "cpp",
+      "memory": "14.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777659780",
+      "title": "Longest Increasing Subsequence",
+      "titleSlug": "longest-increasing-subsequence"
+    },
+    {
+      "id": "1992826642",
+      "lang": "cpp",
+      "memory": "18.5 MB",
+      "runtime": "41 ms",
+      "timestamp": "1777661502",
+      "title": "Longest String Chain",
+      "titleSlug": "longest-string-chain"
+    },
+    {
+      "id": "1993411963",
+      "lang": "cpp",
+      "memory": "136.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777733949",
+      "title": "Minimum Operations to Make Array Non Decreasing",
+      "titleSlug": "minimum-operations-to-make-array-non-decreasing"
+    },
+    {
+      "id": "1993434377",
+      "lang": "cpp",
+      "memory": "202.5 MB",
+      "runtime": "5 ms",
+      "timestamp": "1777735999",
+      "title": "Smallest Stable Index II",
+      "titleSlug": "smallest-stable-index-ii"
+    },
+    {
+      "id": "1993458744",
+      "lang": "cpp",
+      "memory": "289 MB",
+      "runtime": "361 ms",
+      "timestamp": "1777738129",
+      "title": "Multi Source Flood Fill",
+      "titleSlug": "multi-source-flood-fill"
+    },
+    {
+      "id": "1993555754",
+      "lang": "cpp",
+      "memory": "54.4 MB",
+      "runtime": "3 ms",
+      "timestamp": "1777745732",
+      "title": "Find the Degree of Each Vertex",
+      "titleSlug": "find-the-degree-of-each-vertex"
+    },
+    {
+      "id": "1993569655",
+      "lang": "cpp",
+      "memory": "7.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777746765",
+      "title": "Traffic Signal Color",
+      "titleSlug": "traffic-signal-color"
+    },
+    {
+      "id": "1993572202",
+      "lang": "cpp",
+      "memory": "37 MB",
+      "runtime": "3 ms",
+      "timestamp": "1777746982",
+      "title": "Count Digit Appearances",
+      "titleSlug": "count-digit-appearances"
+    },
+    {
+      "id": "1993581258",
+      "lang": "cpp",
+      "memory": "116.8 MB",
+      "runtime": "145 ms",
+      "timestamp": "1777747828",
+      "title": "Minimum Operations to Transform Array into Alternating Prime",
+      "titleSlug": "minimum-operations-to-transform-array-into-alternating-prime"
+    },
+    {
+      "id": "1993592723",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777748963",
+      "title": "Rotated Digits",
+      "titleSlug": "rotated-digits"
+    },
+    {
+      "id": "1994293860",
+      "lang": "cpp",
+      "memory": "29 MB",
+      "runtime": "2 ms",
+      "timestamp": "1777823271",
+      "title": "Angles of a Triangle",
+      "titleSlug": "angles-of-a-triangle"
+    },
+    {
+      "id": "1994534021",
+      "lang": "cpp",
+      "memory": "32.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777848457",
+      "title": "Count Indices With Opposite Parity",
+      "titleSlug": "count-indices-with-opposite-parity"
+    },
+    {
+      "id": "1994536559",
+      "lang": "cpp",
+      "memory": "8.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777849025",
+      "title": "Sum of Primes Between Number and Its Reverse",
+      "titleSlug": "sum-of-primes-between-number-and-its-reverse"
+    },
+    {
+      "id": "1995270934",
+      "lang": "cpp",
+      "memory": "10.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777925214",
+      "title": "Rotate Image",
+      "titleSlug": "rotate-image"
+    },
+    {
+      "id": "1995654740",
+      "lang": "cpp",
+      "memory": "14.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777971348",
+      "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+      "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation"
+    },
+    {
+      "id": "1995906621",
+      "lang": "cpp",
+      "memory": "16.5 MB",
+      "runtime": "4 ms",
+      "timestamp": "1777993614",
+      "title": "Rotate List",
+      "titleSlug": "rotate-list"
+    },
+    {
+      "id": "1995924127",
+      "lang": "cpp",
+      "memory": "13.6 MB",
+      "runtime": "4 ms",
+      "timestamp": "1777994976",
+      "title": "Split Linked List in Parts",
+      "titleSlug": "split-linked-list-in-parts"
+    },
+    {
+      "id": "1995926699",
+      "lang": "cpp",
+      "memory": "28.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1777995183",
+      "title": "Transform Array by Parity",
+      "titleSlug": "transform-array-by-parity"
+    },
+    {
+      "id": "1995950152",
+      "lang": "cpp",
+      "memory": "156.2 MB",
+      "runtime": "11 ms",
+      "timestamp": "1777997011",
+      "title": "Maximum Score of a Split",
+      "titleSlug": "maximum-score-of-a-split"
+    },
+    {
+      "id": "1996166391",
+      "lang": "cpp",
+      "memory": "27.5 MB",
+      "runtime": "279 ms",
+      "timestamp": "1778015161",
+      "title": "Apply Discount to Prices",
+      "titleSlug": "apply-discount-to-prices"
+    },
+    {
+      "id": "1996183796",
+      "lang": "cpp",
+      "memory": "107.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1778018263",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "titleSlug": "number-of-smooth-descent-periods-of-a-stock"
+    },
+    {
+      "id": "1996739585",
+      "lang": "cpp",
+      "memory": "61 MB",
+      "runtime": "19 ms",
+      "timestamp": "1778085671",
+      "title": "Rotating the Box",
+      "titleSlug": "rotating-the-box"
+    },
+    {
+      "id": "1997300520",
+      "lang": "cpp",
+      "memory": "219.5 MB",
+      "runtime": "7 ms",
+      "timestamp": "1778150627",
+      "title": "Jump Game IX",
+      "titleSlug": "jump-game-ix"
+    },
+    {
+      "id": "1998435386",
+      "lang": "cpp",
+      "memory": "323.1 MB",
+      "runtime": "1115 ms",
+      "timestamp": "1778276379",
+      "title": "Minimum Jumps to Reach End via Prime Teleportation",
+      "titleSlug": "minimum-jumps-to-reach-end-via-prime-teleportation"
+    },
+    {
+      "id": "1999233780",
+      "lang": "cpp",
+      "memory": "16.7 MB",
+      "runtime": "18 ms",
+      "timestamp": "1778362150",
+      "title": "Cyclically Rotating a Grid",
+      "titleSlug": "cyclically-rotating-a-grid"
+    },
+    {
+      "id": "2000062325",
+      "lang": "cpp",
+      "memory": "68.6 MB",
+      "runtime": "36 ms",
+      "timestamp": "1778454134",
+      "title": "Maximum Number of Jumps to Reach the Last Index",
+      "titleSlug": "maximum-number-of-jumps-to-reach-the-last-index"
+    },
+    {
+      "id": "2004136092",
+      "lang": "cpp",
+      "memory": "11.8 MB",
+      "runtime": "4 ms",
+      "timestamp": "1778882210",
+      "title": "Permutations II",
+      "titleSlug": "permutations-ii"
+    },
+    {
+      "id": "2016503145",
+      "lang": "cpp",
+      "memory": "27.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1780065108",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "titleSlug": "minimum-element-after-replacement-with-digit-sum"
+    },
+    {
+      "id": "2016517314",
+      "lang": "cpp",
+      "memory": "15.7 MB",
+      "runtime": "13 ms",
+      "timestamp": "1780066275",
+      "title": "Password Strength",
+      "titleSlug": "password-strength"
+    },
+    {
+      "id": "2024215515",
+      "lang": "cpp",
+      "memory": "93.6 MB",
+      "runtime": "56 ms",
+      "timestamp": "1780748920",
+      "title": "Diagonal Traverse II",
+      "titleSlug": "diagonal-traverse-ii"
+    },
+    {
+      "id": "2024255892",
+      "lang": "cpp",
+      "memory": "22.2 MB",
+      "runtime": "2 ms",
+      "timestamp": "1780752145",
+      "title": "Find the Sum of the Power of All Subsequences",
+      "titleSlug": "find-the-sum-of-the-power-of-all-subsequences"
+    },
+    {
+      "id": "2025548564",
+      "lang": "cpp",
+      "memory": "7.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1780850378",
+      "title": "Exactly One Consecutive Set Bits Pair",
+      "titleSlug": "exactly-one-consecutive-set-bits-pair"
+    },
+    {
+      "id": "2025565120",
+      "lang": "cpp",
+      "memory": "324.1 MB",
+      "runtime": "366 ms",
+      "timestamp": "1780851427",
+      "title": "Maximum Total Value of Covered Indices",
+      "titleSlug": "maximum-total-value-of-covered-indices"
+    },
+    {
+      "id": "2025577952",
+      "lang": "cpp",
+      "memory": "8.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1780852283",
+      "title": "Sum of Compatible Numbers in Range I",
+      "titleSlug": "sum-of-compatible-numbers-in-range-i"
+    },
+    {
+      "id": "2026628888",
+      "lang": "cpp",
+      "memory": "138.9 MB",
+      "runtime": "10 ms",
+      "timestamp": "1780938437",
+      "title": "Partition Array According to Given Pivot",
+      "titleSlug": "partition-array-according-to-given-pivot"
+    },
+    {
+      "id": "2027417855",
+      "lang": "cpp",
+      "memory": "103.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781002167",
+      "title": "Maximum Total Subarray Value I",
+      "titleSlug": "maximum-total-subarray-value-i"
+    },
+    {
+      "id": "2027450087",
+      "lang": "cpp",
+      "memory": "13.7 MB",
+      "runtime": "170 ms",
+      "timestamp": "1781004357",
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring"
+    },
+    {
+      "id": "2028879929",
+      "lang": "cpp",
+      "memory": "31.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781110905",
+      "title": "Minimum Swaps to Move Zeros to End",
+      "titleSlug": "minimum-swaps-to-move-zeros-to-end"
+    },
+    {
+      "id": "2028888411",
+      "lang": "cpp",
+      "memory": "9.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781111334",
+      "title": "Find the Maximum Achievable Number",
+      "titleSlug": "find-the-maximum-achievable-number"
+    },
+    {
+      "id": "2030000211",
+      "lang": "cpp",
+      "memory": "8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781197841",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "titleSlug": "number-of-steps-to-reduce-a-number-to-zero"
+    },
+    {
+      "id": "2031141437",
+      "lang": "cpp",
+      "memory": "7.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781290638",
+      "title": "Ugly Number",
+      "titleSlug": "ugly-number"
+    },
+    {
+      "id": "2031694082",
+      "lang": "cpp",
+      "memory": "10.7 MB",
+      "runtime": "4 ms",
+      "timestamp": "1781348501",
+      "title": "Minimum Moves to Reach Target in Grid",
+      "titleSlug": "minimum-moves-to-reach-target-in-grid"
+    },
+    {
+      "id": "2032091762",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781375995",
+      "title": "Reaching Points",
+      "titleSlug": "reaching-points"
+    },
+    {
+      "id": "2032100453",
+      "lang": "cpp",
+      "memory": "7.8 MB",
+      "runtime": "2 ms",
+      "timestamp": "1781376678",
+      "title": "Determine if a Cell Is Reachable at a Given Time",
+      "titleSlug": "determine-if-a-cell-is-reachable-at-a-given-time"
+    },
+    {
+      "id": "2032113299",
+      "lang": "cpp",
+      "memory": "21.2 MB",
+      "runtime": "55 ms",
+      "timestamp": "1781377742",
+      "title": "Number of Ways to Reach a Position After Exactly k Steps",
+      "titleSlug": "number-of-ways-to-reach-a-position-after-exactly-k-steps"
+    },
+    {
+      "id": "2032133981",
+      "lang": "cpp",
+      "memory": "9 MB",
+      "runtime": "11 ms",
+      "timestamp": "1781379777",
+      "title": "Number of Ways to Stay in the Same Place After Some Steps",
+      "titleSlug": "number-of-ways-to-stay-in-the-same-place-after-some-steps"
+    },
+    {
+      "id": "2032421912",
+      "lang": "cpp",
+      "memory": "7.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781411575",
+      "title": "Check Good Integer",
+      "titleSlug": "check-good-integer"
+    },
+    {
+      "id": "2034339835",
+      "lang": "cpp",
+      "memory": "312 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781549957",
+      "title": "Delete the Middle Node of a Linked List",
+      "titleSlug": "delete-the-middle-node-of-a-linked-list"
+    },
+    {
+      "id": "2035562573",
+      "lang": "cpp",
+      "memory": "14 MB",
+      "runtime": "40 ms",
+      "timestamp": "1781635302",
+      "title": "Minimum Cost to Cut a Stick",
+      "titleSlug": "minimum-cost-to-cut-a-stick"
+    },
+    {
+      "id": "2036538353",
+      "lang": "cpp",
+      "memory": "8.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781710255",
+      "title": "Backspace String Compare",
+      "titleSlug": "backspace-string-compare"
+    },
+    {
+      "id": "2037387611",
+      "lang": "cpp",
+      "memory": "8.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781775545",
+      "title": "Angle Between Hands of a Clock",
+      "titleSlug": "angle-between-hands-of-a-clock"
+    },
+    {
+      "id": "2038631976",
+      "lang": "cpp",
+      "memory": "129.3 MB",
+      "runtime": "77 ms",
+      "timestamp": "1781865444",
+      "title": "Maximum Number of Points with Cost",
+      "titleSlug": "maximum-number-of-points-with-cost"
+    },
+    {
+      "id": "2039058303",
+      "lang": "cpp",
+      "memory": "13.8 MB",
+      "runtime": "15 ms",
+      "timestamp": "1781892663",
+      "title": "Cherry Pickup II",
+      "titleSlug": "cherry-pickup-ii"
+    },
+    {
+      "id": "2039105610",
+      "lang": "cpp",
+      "memory": "11.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781895859",
+      "title": "Magic Squares In Grid",
+      "titleSlug": "magic-squares-in-grid"
+    },
+    {
+      "id": "2039112473",
+      "lang": "cpp",
+      "memory": "10.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781896458",
+      "title": "Find the Highest Altitude",
+      "titleSlug": "find-the-highest-altitude"
+    },
+    {
+      "id": "2039593957",
+      "lang": "cpp",
+      "memory": "31 MB",
+      "runtime": "83 ms",
+      "timestamp": "1781947657",
+      "title": "Minimum Cost to Reach Destination in Time",
+      "titleSlug": "minimum-cost-to-reach-destination-in-time"
+    },
+    {
+      "id": "2040033327",
+      "lang": "cpp",
+      "memory": "106.8 MB",
+      "runtime": "84 ms",
+      "timestamp": "1781971169",
+      "title": "Maximum Building Height",
+      "titleSlug": "maximum-building-height"
+    },
+    {
+      "id": "2040040755",
+      "lang": "cpp",
+      "memory": "11.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1781971619",
+      "title": "Create Grid With Exactly One Path",
+      "titleSlug": "create-grid-with-exactly-one-path"
+    },
+    {
+      "id": "2040087484",
+      "lang": "cpp",
+      "memory": "352 MB",
+      "runtime": "218 ms",
+      "timestamp": "1781974458",
+      "title": "Finish Time of Tasks I",
+      "titleSlug": "finish-time-of-tasks-i"
+    },
+    {
+      "id": "2040817240",
+      "lang": "cpp",
+      "memory": "22.2 MB",
+      "runtime": "12 ms",
+      "timestamp": "1782034067",
+      "title": "Maximum Manhattan Distance After All Moves",
+      "titleSlug": "maximum-manhattan-distance-after-all-moves"
+    },
+    {
+      "id": "2040835722",
+      "lang": "cpp",
+      "memory": "32.4 MB",
+      "runtime": "139 ms",
+      "timestamp": "1782035394",
+      "title": "Valid Subarrays With Matching Sum Digits I",
+      "titleSlug": "valid-subarrays-with-matching-sum-digits-i"
+    },
+    {
+      "id": "2041228683",
+      "lang": "cpp",
+      "memory": "285.2 MB",
+      "runtime": "207 ms",
+      "timestamp": "1782061595",
+      "title": "Shortest Path With At Most K Consecutive Identical Characters",
+      "titleSlug": "shortest-path-with-at-most-k-consecutive-identical-characters"
+    },
+    {
+      "id": "2041422999",
+      "lang": "cpp",
+      "memory": "80.2 MB",
+      "runtime": "27 ms",
+      "timestamp": "1782078153",
+      "title": "Maximum Ice Cream Bars",
+      "titleSlug": "maximum-ice-cream-bars"
+    },
+    {
+      "id": "2041950730",
+      "lang": "cpp",
+      "memory": "8.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782119932",
+      "title": "Maximum Number of Balloons",
+      "titleSlug": "maximum-number-of-balloons"
+    },
+    {
+      "id": "2043287949",
+      "lang": "cpp",
+      "memory": "302 MB",
+      "runtime": "89 ms",
+      "timestamp": "1782211908",
+      "title": "Find Maximum Value in a Constrained Sequence",
+      "titleSlug": "find-maximum-value-in-a-constrained-sequence"
+    },
+    {
+      "id": "2043845486",
+      "lang": "cpp",
+      "memory": "9.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782244719",
+      "title": "Distribute Money to Maximum Children",
+      "titleSlug": "distribute-money-to-maximum-children"
+    },
+    {
+      "id": "2043869895",
+      "lang": "cpp",
+      "memory": "9.2 MB",
+      "runtime": "4 ms",
+      "timestamp": "1782247416",
+      "title": "Combination Sum IV",
+      "titleSlug": "combination-sum-iv"
+    },
+    {
+      "id": "2043879270",
+      "lang": "cpp",
+      "memory": "10 MB",
+      "runtime": "3 ms",
+      "timestamp": "1782248650",
+      "title": "Substrings of Size Three with Distinct Characters",
+      "titleSlug": "substrings-of-size-three-with-distinct-characters"
+    },
+    {
+      "id": "2044619973",
+      "lang": "cpp",
+      "memory": "26.6 MB",
+      "runtime": "15 ms",
+      "timestamp": "1782305818",
+      "title": "Largest Multiple of Three",
+      "titleSlug": "largest-multiple-of-three"
+    },
+    {
+      "id": "2044750553",
+      "lang": "cpp",
+      "memory": "114.8 MB",
+      "runtime": "23 ms",
+      "timestamp": "1782313877",
+      "title": "Right Triangles",
+      "titleSlug": "right-triangles"
+    },
+    {
+      "id": "2045019567",
+      "lang": "cpp",
+      "memory": "23.9 MB",
+      "runtime": "11 ms",
+      "timestamp": "1782328386",
+      "title": "Maximum Substrings With Distinct Start",
+      "titleSlug": "maximum-substrings-with-distinct-start"
+    },
+    {
+      "id": "2045024909",
+      "lang": "cpp",
+      "memory": "36.1 MB",
+      "runtime": "8 ms",
+      "timestamp": "1782328824",
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "titleSlug": "insert-greatest-common-divisors-in-linked-list"
+    },
+    {
+      "id": "2045027505",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782329051",
+      "title": "Strictly Palindromic Number",
+      "titleSlug": "strictly-palindromic-number"
+    },
+    {
+      "id": "2045042535",
+      "lang": "cpp",
+      "memory": "295.3 MB",
+      "runtime": "60 ms",
+      "timestamp": "1782330368",
+      "title": "Merge Nodes in Between Zeros",
+      "titleSlug": "merge-nodes-in-between-zeros"
+    },
+    {
+      "id": "2045055080",
+      "lang": "cpp",
+      "memory": "17.7 MB",
+      "runtime": "10 ms",
+      "timestamp": "1782331649",
+      "title": "Group the People Given the Group Size They Belong To",
+      "titleSlug": "group-the-people-given-the-group-size-they-belong-to"
+    },
+    {
+      "id": "2045059535",
+      "lang": "cpp",
+      "memory": "9.3 MB",
+      "runtime": "52 ms",
+      "timestamp": "1782332148",
+      "title": "Total Waviness of Numbers in Range I",
+      "titleSlug": "total-waviness-of-numbers-in-range-i"
+    },
+    {
+      "id": "2045576966",
+      "lang": "cpp",
+      "memory": "39.5 MB",
+      "runtime": "52 ms",
+      "timestamp": "1782378393",
+      "title": "Count Subarrays With Majority Element I",
+      "titleSlug": "count-subarrays-with-majority-element-i"
+    },
+    {
+      "id": "2045689029",
+      "lang": "cpp",
+      "memory": "11.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782384152",
+      "title": "Reverse Linked List II",
+      "titleSlug": "reverse-linked-list-ii"
+    },
+    {
+      "id": "2046190120",
+      "lang": "cpp",
+      "memory": "74.8 MB",
+      "runtime": "278 ms",
+      "timestamp": "1782417544",
+      "title": "Ways to Express an Integer as Sum of Powers",
+      "titleSlug": "ways-to-express-an-integer-as-sum-of-powers"
+    },
+    {
+      "id": "2046756571",
+      "lang": "cpp",
+      "memory": "22.8 MB",
+      "runtime": "3 ms",
+      "timestamp": "1782473053",
+      "title": "Candy",
+      "titleSlug": "candy"
+    },
+    {
+      "id": "2047665586",
+      "lang": "cpp",
+      "memory": "122.7 MB",
+      "runtime": "93 ms",
+      "timestamp": "1782551862",
+      "title": "Find the Maximum Number of Elements in Subset",
+      "titleSlug": "find-the-maximum-number-of-elements-in-subset"
+    },
+    {
+      "id": "2047674213",
+      "lang": "cpp",
+      "memory": "96 MB",
+      "runtime": "95 ms",
+      "timestamp": "1782552421",
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence"
+    },
+    {
+      "id": "2047732887",
+      "lang": "cpp",
+      "memory": "69.4 MB",
+      "runtime": "7 ms",
+      "timestamp": "1782556330",
+      "title": "Count Vowel Strings in Ranges",
+      "titleSlug": "count-vowel-strings-in-ranges"
+    },
+    {
+      "id": "2047787113",
+      "lang": "cpp",
+      "memory": "216.3 MB",
+      "runtime": "39 ms",
+      "timestamp": "1782560127",
+      "title": "Minimize Array Sum Using Divisible Replacements",
+      "titleSlug": "minimize-array-sum-using-divisible-replacements"
+    },
+    {
+      "id": "2047929615",
+      "lang": "cpp",
+      "memory": "126.2 MB",
+      "runtime": "4 ms",
+      "timestamp": "1782570551",
+      "title": "Maximum Number of Integers to Choose From a Range I",
+      "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i"
+    },
+    {
+      "id": "2047941293",
+      "lang": "cpp",
+      "memory": "16.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782571342",
+      "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers"
+    },
+    {
+      "id": "2047985008",
+      "lang": "cpp",
+      "memory": "194 MB",
+      "runtime": "3 ms",
+      "timestamp": "1782574356",
+      "title": "Minimum Moves to Balance Circular Array",
+      "titleSlug": "minimum-moves-to-balance-circular-array"
+    },
+    {
+      "id": "2048370839",
+      "lang": "cpp",
+      "memory": "186.3 MB",
+      "runtime": "58 ms",
+      "timestamp": "1782614308",
+      "title": "Maximum Total Sum of K Selected Elements",
+      "titleSlug": "maximum-total-sum-of-k-selected-elements"
+    },
+    {
+      "id": "2048488193",
+      "lang": "cpp",
+      "memory": "193.5 MB",
+      "runtime": "95 ms",
+      "timestamp": "1782618386",
+      "title": "Filter Occupied Intervals",
+      "titleSlug": "filter-occupied-intervals"
+    },
+    {
+      "id": "2048842422",
+      "lang": "cpp",
+      "memory": "55.3 MB",
+      "runtime": "9 ms",
+      "timestamp": "1782643323",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "titleSlug": "maximum-element-after-decreasing-and-rearranging"
+    },
+    {
+      "id": "2048879117",
+      "lang": "cpp",
+      "memory": "482.8 MB",
+      "runtime": "1701 ms",
+      "timestamp": "1782646057",
+      "title": "Minimum Time to Reach Target With Limited Power",
+      "titleSlug": "minimum-time-to-reach-target-with-limited-power"
+    },
+    {
+      "id": "2049896034",
+      "lang": "cpp",
+      "memory": "11.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782726843",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "titleSlug": "number-of-strings-that-appear-as-substrings-in-word"
+    },
+    {
+      "id": "2051044270",
+      "lang": "cpp",
+      "memory": "11 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782812354",
+      "title": "Number of Substrings Containing All Three Characters",
+      "titleSlug": "number-of-substrings-containing-all-three-characters"
+    },
+    {
+      "id": "2052279248",
+      "lang": "cpp",
+      "memory": "104.7 MB",
+      "runtime": "112 ms",
+      "timestamp": "1782904778",
+      "title": "Count Number of Teams",
+      "titleSlug": "count-number-of-teams"
+    },
+    {
+      "id": "2052694251",
+      "lang": "cpp",
+      "memory": "130 MB",
+      "runtime": "259 ms",
+      "timestamp": "1782929086",
+      "title": "Find the Safest Path in a Grid",
+      "titleSlug": "find-the-safest-path-in-a-grid"
+    },
+    {
+      "id": "2053040306",
+      "lang": "cpp",
+      "memory": "31.5 MB",
+      "runtime": "6 ms",
+      "timestamp": "1782968867",
+      "title": "Find a Safe Walk Through a Grid",
+      "titleSlug": "find-a-safe-walk-through-a-grid"
+    },
+    {
+      "id": "2053087437",
+      "lang": "cpp",
+      "memory": "28.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1782971456",
+      "title": "Greatest Sum Divisible by Three",
+      "titleSlug": "greatest-sum-divisible-by-three"
+    },
+    {
+      "id": "2053278670",
+      "lang": "cpp",
+      "memory": "15.9 MB",
+      "runtime": "5 ms",
+      "timestamp": "1782982066",
+      "title": "Maximum Number of Operations to Move Ones to the End",
+      "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end"
+    },
+    {
+      "id": "2054540867",
+      "lang": "cpp",
+      "memory": "360.4 MB",
+      "runtime": "269 ms",
+      "timestamp": "1783074315",
+      "title": "Network Recovery Pathways",
+      "titleSlug": "network-recovery-pathways"
+    },
+    {
+      "id": "2055802224",
+      "lang": "cpp",
+      "memory": "31.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783175805",
+      "title": "Unique Middle Element",
+      "titleSlug": "unique-middle-element"
+    },
+    {
+      "id": "2055932771",
+      "lang": "cpp",
+      "memory": "205.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783178724",
+      "title": "Maximum Valid Pair Sum",
+      "titleSlug": "maximum-valid-pair-sum"
+    },
+    {
+      "id": "2055943482",
+      "lang": "cpp",
+      "memory": "30.4 MB",
+      "runtime": "15 ms",
+      "timestamp": "1783179059",
+      "title": "Minimum Operations to Transform Binary String",
+      "titleSlug": "minimum-operations-to-transform-binary-string"
+    },
+    {
+      "id": "2056249820",
+      "lang": "cpp",
+      "memory": "145.8 MB",
+      "runtime": "97 ms",
+      "timestamp": "1783198506",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "titleSlug": "minimum-score-of-a-path-between-two-cities"
+    },
+    {
+      "id": "2056361265",
+      "lang": "cpp",
+      "memory": "31.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783219397",
+      "title": "Sum of Integers with Maximum Digit Range",
+      "titleSlug": "sum-of-integers-with-maximum-digit-range"
+    },
+    {
+      "id": "2057350284",
+      "lang": "cpp",
+      "memory": "10.9 MB",
+      "runtime": "6 ms",
+      "timestamp": "1783286125",
+      "title": "Number of Paths with Max Score",
+      "titleSlug": "number-of-paths-with-max-score"
+    },
+    {
+      "id": "2058454233",
+      "lang": "cpp",
+      "memory": "15.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783363042",
+      "title": "Remove Covered Intervals",
+      "titleSlug": "remove-covered-intervals"
+    },
+    {
+      "id": "2058508043",
+      "lang": "cpp",
+      "memory": "31.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783367235",
+      "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+      "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1"
+    },
+    {
+      "id": "2059055232",
+      "lang": "cpp",
+      "memory": "8.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783414904",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i"
+    },
+    {
+      "id": "2060494989",
+      "lang": "cpp",
+      "memory": "157.1 MB",
+      "runtime": "51 ms",
+      "timestamp": "1783513999",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-ii"
+    },
+    {
+      "id": "2060529537",
+      "lang": "cpp",
+      "memory": "126.4 MB",
+      "runtime": "42 ms",
+      "timestamp": "1783516100",
+      "title": "Maximum Sum Obtained of Any Permutation",
+      "titleSlug": "maximum-sum-obtained-of-any-permutation"
+    },
+    {
+      "id": "2060558193",
+      "lang": "cpp",
+      "memory": "93.9 MB",
+      "runtime": "40 ms",
+      "timestamp": "1783517699",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "titleSlug": "minimum-number-of-arrows-to-burst-balloons"
+    },
+    {
+      "id": "2060587692",
+      "lang": "cpp",
+      "memory": "42.2 MB",
+      "runtime": "5 ms",
+      "timestamp": "1783519319",
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self"
+    },
+    {
+      "id": "2061577999",
+      "lang": "cpp",
+      "memory": "224.1 MB",
+      "runtime": "4 ms",
+      "timestamp": "1783591539",
+      "title": "Path Existence Queries in a Graph I",
+      "titleSlug": "path-existence-queries-in-a-graph-i"
+    },
+    {
+      "id": "2063266188",
+      "lang": "cpp",
+      "memory": "19.8 MB",
+      "runtime": "64 ms",
+      "timestamp": "1783712317",
+      "title": "Maximum Units on a Truck",
+      "titleSlug": "maximum-units-on-a-truck"
+    },
+    {
+      "id": "2063272289",
+      "lang": "cpp",
+      "memory": "63 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783712939",
+      "title": "Container With Most Water",
+      "titleSlug": "container-with-most-water"
+    },
+    {
+      "id": "2064268097",
+      "lang": "cpp",
+      "memory": "128.5 MB",
+      "runtime": "35 ms",
+      "timestamp": "1783800216",
+      "title": "Count the Number of Complete Components",
+      "titleSlug": "count-the-number-of-complete-components"
+    },
+    {
+      "id": "2064907704",
+      "lang": "cpp",
+      "memory": "37.7 MB",
+      "runtime": "19 ms",
+      "timestamp": "1783854621",
+      "title": "Rank Transform of an Array",
+      "titleSlug": "rank-transform-of-an-array"
+    },
+    {
+      "id": "2064927515",
+      "lang": "cpp",
+      "memory": "9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783855979",
+      "title": "Number of Elapsed Seconds Between Two Times",
+      "titleSlug": "number-of-elapsed-seconds-between-two-times"
+    },
+    {
+      "id": "2064965454",
+      "lang": "cpp",
+      "memory": "169.3 MB",
+      "runtime": "11 ms",
+      "timestamp": "1783858610",
+      "title": "Minimum Total Cost to Process All Elements",
+      "titleSlug": "minimum-total-cost-to-process-all-elements"
+    },
+    {
+      "id": "2066651906",
+      "lang": "cpp",
+      "memory": "8.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1783975797",
+      "title": "Sequential Digits",
+      "titleSlug": "sequential-digits"
+    },
+    {
+      "id": "2067839817",
+      "lang": "cpp",
+      "memory": "15.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784058560",
+      "title": "Left and Right Sum Differences",
+      "titleSlug": "left-and-right-sum-differences"
+    },
+    {
+      "id": "2068408853",
+      "lang": "cpp",
+      "memory": "8.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784107515",
+      "title": "GCD of Odd and Even Sums",
+      "titleSlug": "gcd-of-odd-and-even-sums"
+    },
+    {
+      "id": "2068433753",
+      "lang": "cpp",
+      "memory": "58.2 MB",
+      "runtime": "1226 ms",
+      "timestamp": "1784108861",
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "titleSlug": "find-the-number-of-subsequences-with-equal-gcd"
+    },
+    {
+      "id": "2070016102",
+      "lang": "cpp",
+      "memory": "161.2 MB",
+      "runtime": "88 ms",
+      "timestamp": "1784213986",
+      "title": "Sum of GCD of Formed Pairs",
+      "titleSlug": "sum-of-gcd-of-formed-pairs"
+    },
+    {
+      "id": "2070358204",
+      "lang": "cpp",
+      "memory": "12.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784230192",
+      "title": "Next Greater Element I",
+      "titleSlug": "next-greater-element-i"
+    },
+    {
+      "id": "2070377943",
+      "lang": "cpp",
+      "memory": "151.2 MB",
+      "runtime": "43 ms",
+      "timestamp": "1784232062",
+      "title": "Min Stack",
+      "titleSlug": "min-stack"
+    },
+    {
+      "id": "2070391742",
+      "lang": "cpp",
+      "memory": "28.4 MB",
+      "runtime": "3 ms",
+      "timestamp": "1784233581",
+      "title": "Next Greater Element II",
+      "titleSlug": "next-greater-element-ii"
+    },
+    {
+      "id": "2071510786",
+      "lang": "cpp",
+      "memory": "31 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784314944",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "titleSlug": "smallest-index-with-digit-sum-equal-to-index"
+    },
+    {
+      "id": "2072590234",
+      "lang": "cpp",
+      "memory": "16.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784394006",
+      "title": "Find Greatest Common Divisor of Array",
+      "titleSlug": "find-greatest-common-divisor-of-array"
+    },
+    {
+      "id": "2072597993",
+      "lang": "cpp",
+      "memory": "9.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784394392",
+      "title": "Rearrange String to Avoid Character Pair",
+      "titleSlug": "rearrange-string-to-avoid-character-pair"
+    },
+    {
+      "id": "2073246002",
+      "lang": "cpp",
+      "memory": "49.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784449514",
+      "title": "Even Number of Knight Moves",
+      "titleSlug": "even-number-of-knight-moves"
+    },
+    {
+      "id": "2073395078",
+      "lang": "cpp",
+      "memory": "337 MB",
+      "runtime": "15 ms",
+      "timestamp": "1784460377",
+      "title": "Count Dominant Nodes in a Binary Tree",
+      "titleSlug": "count-dominant-nodes-in-a-binary-tree"
+    },
+    {
+      "id": "2074477172",
+      "lang": "cpp",
+      "memory": "26.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784545529",
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water"
+    },
+    {
+      "id": "2074525564",
+      "lang": "cpp",
+      "memory": "18.9 MB",
+      "runtime": "39 ms",
+      "timestamp": "1784549036",
+      "title": "Shift 2D Grid",
+      "titleSlug": "shift-2d-grid"
+    },
+    {
+      "id": "2076387881",
+      "lang": "cpp",
+      "memory": "8.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784669381",
+      "title": "Smallest Subsequence of Distinct Characters",
+      "titleSlug": "smallest-subsequence-of-distinct-characters"
+    },
+    {
+      "id": "2076390752",
+      "lang": "cpp",
+      "memory": "9.4 MB",
+      "runtime": "2 ms",
+      "timestamp": "1784669842",
+      "title": "Remove Duplicate Letters",
+      "titleSlug": "remove-duplicate-letters"
+    },
+    {
+      "id": "2077609915",
+      "lang": "cpp",
+      "memory": "268.2 MB",
+      "runtime": "190 ms",
+      "timestamp": "1784748488",
+      "title": "Maximum Energy Boost From Two Drinks",
+      "titleSlug": "maximum-energy-boost-from-two-drinks"
+    },
+    {
+      "id": "2077643436",
+      "lang": "cpp",
+      "memory": "69.8 MB",
+      "runtime": "43 ms",
+      "timestamp": "1784751689",
+      "title": "Get the Maximum Score",
+      "titleSlug": "get-the-maximum-score"
+    },
+    {
+      "id": "2078800290",
+      "lang": "cpp",
+      "memory": "193.4 MB",
+      "runtime": "80 ms",
+      "timestamp": "1784833142",
+      "title": "Sum of Subarray Minimums",
+      "titleSlug": "sum-of-subarray-minimums"
+    },
+    {
+      "id": "2078839115",
+      "lang": "cpp",
+      "memory": "22.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784836233",
+      "title": "Asteroid Collision",
+      "titleSlug": "asteroid-collision"
+    },
+    {
+      "id": "2078843725",
+      "lang": "cpp",
+      "memory": "13.8 MB",
+      "runtime": "15 ms",
+      "timestamp": "1784836678",
+      "title": "Sum of Subarray Ranges",
+      "titleSlug": "sum-of-subarray-ranges"
+    },
+    {
+      "id": "2080023028",
+      "lang": "cpp",
+      "memory": "7.9 MB",
+      "runtime": "1 ms",
+      "timestamp": "1784921431",
+      "title": "Power of Two",
+      "titleSlug": "power-of-two"
+    },
+    {
+      "id": "2080392470",
+      "lang": "cpp",
+      "memory": "8.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1784961992",
+      "title": "Maximum Product of Two Digits",
+      "titleSlug": "maximum-product-of-two-digits"
+    },
+    {
+      "id": "2081408790",
+      "lang": "cpp",
+      "memory": "350.1 MB",
+      "runtime": "67 ms",
+      "timestamp": "1785035329",
+      "title": "Aggregate Two Time Series",
+      "titleSlug": "aggregate-two-time-series"
+    },
+    {
+      "id": "2081426565",
+      "lang": "cpp",
+      "memory": "8.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1785035938",
+      "title": "Largest Integer With Given Digit Sum",
+      "titleSlug": "largest-integer-with-given-digit-sum"
+    },
+    {
+      "id": "2082741008",
+      "lang": "cpp",
+      "memory": "13.6 MB",
+      "runtime": "4 ms",
+      "timestamp": "1785124352",
+      "title": "Maximum Product of Two Elements in an Array",
+      "titleSlug": "maximum-product-of-two-elements-in-an-array"
+    },
+    {
+      "id": "2083491253",
+      "lang": "cpp",
+      "memory": "127.6 MB",
+      "runtime": "14 ms",
+      "timestamp": "1785163102",
+      "title": "Solving Questions With Brainpower",
+      "titleSlug": "solving-questions-with-brainpower"
+    },
+    {
+      "id": "2084363334",
+      "lang": "cpp",
+      "memory": "75 MB",
+      "runtime": "42 ms",
+      "timestamp": "1785221869",
+      "title": "Smallest Palindromic Rearrangement I",
+      "titleSlug": "smallest-palindromic-rearrangement-i"
+    },
+    {
+      "id": "2091015861",
+      "lang": "cpp",
+      "memory": "9.5 MB",
+      "runtime": "0 ms",
+      "timestamp": "1785653849",
+      "title": "Count Valid Prefixes",
+      "titleSlug": "count-valid-prefixes"
+    },
+    {
+      "id": "2091478755",
+      "lang": "cpp",
+      "memory": "9 MB",
+      "runtime": "0 ms",
+      "timestamp": "1785681180",
+      "title": "Minimum Genetic Mutation",
+      "titleSlug": "minimum-genetic-mutation"
+    },
+    {
+      "id": "2091715665",
+      "lang": "cpp",
+      "memory": "21.9 MB",
+      "runtime": "47 ms",
+      "timestamp": "1785692660",
+      "title": "Most Stones Removed with Same Row or Column",
+      "titleSlug": "most-stones-removed-with-same-row-or-column"
+    },
+    {
+      "id": "2092536986",
+      "lang": "cpp",
+      "memory": "37.3 MB",
+      "runtime": "775 ms",
+      "timestamp": "1785756689",
+      "title": "Maximize Pair Strength Using GCD",
+      "titleSlug": "maximize-pair-strength-using-gcd"
+    },
+    {
+      "id": "2092575843",
+      "lang": "cpp",
+      "memory": "39.2 MB",
+      "runtime": "9 ms",
+      "timestamp": "1785759248",
+      "title": "Nearest Exit from Entrance in Maze",
+      "titleSlug": "nearest-exit-from-entrance-in-maze"
+    },
+    {
+      "id": "2092585379",
+      "lang": "cpp",
+      "memory": "315.7 MB",
+      "runtime": "409 ms",
+      "timestamp": "1785759862",
+      "title": "Find if Path Exists in Graph",
+      "titleSlug": "find-if-path-exists-in-graph"
+    },
+    {
+      "id": "2092592320",
+      "lang": "cpp",
+      "memory": "14.6 MB",
+      "runtime": "0 ms",
+      "timestamp": "1785760295",
+      "title": "Keys and Rooms",
+      "titleSlug": "keys-and-rooms"
+    },
+    {
+      "id": "2092615713",
+      "lang": "cpp",
+      "memory": "158 MB",
+      "runtime": "1041 ms",
+      "timestamp": "1785761675",
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k"
+    },
+    {
+      "id": "2092702238",
+      "lang": "cpp",
+      "memory": "76.7 MB",
+      "runtime": "51 ms",
+      "timestamp": "1785765786",
+      "title": "Possible Bipartition",
+      "titleSlug": "possible-bipartition"
+    },
+    {
+      "id": "2093893726",
+      "lang": "cpp",
+      "memory": "13.8 MB",
+      "runtime": "1 ms",
+      "timestamp": "1785842357",
+      "title": "All Paths From Source to Target",
+      "titleSlug": "all-paths-from-source-to-target"
+    },
+    {
+      "id": "2093971290",
+      "lang": "cpp",
+      "memory": "70 MB",
+      "runtime": "59 ms",
+      "timestamp": "1785847175",
+      "title": "Minimum Time to Collect All Apples in a Tree",
+      "titleSlug": "minimum-time-to-collect-all-apples-in-a-tree"
+    },
+    {
+      "id": "2094001914",
+      "lang": "cpp",
+      "memory": "32.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1785848774",
+      "title": "Find Missing Elements",
+      "titleSlug": "find-missing-elements"
+    },
+    {
+      "id": "2095715659",
+      "lang": "cpp",
+      "memory": "369.9 MB",
+      "runtime": "548 ms",
+      "timestamp": "1785952112",
+      "title": "Remove Methods From Project",
+      "titleSlug": "remove-methods-from-project"
+    },
+    {
+      "id": "2096708297",
+      "lang": "cpp",
+      "memory": "310.5 MB",
+      "runtime": "462 ms",
+      "timestamp": "1786022356",
+      "title": "Number of Nodes in the Sub-Tree With the Same Label",
+      "titleSlug": "number-of-nodes-in-the-sub-tree-with-the-same-label"
+    },
+    {
+      "id": "2096716328",
+      "lang": "cpp",
+      "memory": "8.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1786022725",
+      "title": "Smallest Divisible Digit Product I",
+      "titleSlug": "smallest-divisible-digit-product-i"
+    },
+    {
+      "id": "2097187156",
+      "lang": "cpp",
+      "memory": "216.1 MB",
+      "runtime": "1150 ms",
+      "timestamp": "1786042939",
+      "title": "Longest Path With Different Adjacent Characters",
+      "titleSlug": "longest-path-with-different-adjacent-characters"
+    },
+    {
+      "id": "2098393906",
+      "lang": "cpp",
+      "memory": "9.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "1786129855",
+      "title": "Lexicographically Smallest Equivalent String",
+      "titleSlug": "lexicographically-smallest-equivalent-string"
+    },
+    {
+      "id": "2099612107",
+      "lang": "cpp",
+      "memory": "331.4 MB",
+      "runtime": "1276 ms",
+      "timestamp": "1786223921",
+      "title": "Widest Possible Fence",
+      "titleSlug": "widest-possible-fence"
+    },
+    {
+      "id": "2100368889",
+      "lang": "cpp",
+      "memory": "15.2 MB",
+      "runtime": "0 ms",
+      "timestamp": "1786280900",
+      "title": "Satisfiability of Equality Equations",
+      "titleSlug": "satisfiability-of-equality-equations"
+    },
+    {
+      "id": "2100705098",
+      "lang": "cpp",
+      "memory": "120.9 MB",
+      "runtime": "75 ms",
+      "timestamp": "1786298688",
+      "title": "Number of Good Paths",
+      "titleSlug": "number-of-good-paths"
+    },
+    {
+      "id": "2100714998",
+      "lang": "cpp",
+      "memory": "223.5 MB",
+      "runtime": "71 ms",
+      "timestamp": "1786299150",
+      "title": "Minimum Total Price After Applying Discounts",
+      "titleSlug": "minimum-total-price-after-applying-discounts"
+    },
+    {
+      "id": "2100743679",
+      "lang": "cpp",
+      "memory": "289.1 MB",
+      "runtime": "333 ms",
+      "timestamp": "1786300558",
+      "title": "Weighted Sum of a Tree",
+      "titleSlug": "weighted-sum-of-a-tree"
+    },
+    {
+      "id": "2102014955",
+      "lang": "cpp",
+      "memory": "162.5 MB",
+      "runtime": "148 ms",
+      "timestamp": "1786391236",
+      "title": "Find Closest Node to Given Two Nodes",
+      "titleSlug": "find-closest-node-to-given-two-nodes"
+    },
+    {
+      "id": "2102029218",
+      "lang": "cpp",
+      "memory": "9 MB",
+      "runtime": "42 ms",
+      "timestamp": "1786392488",
+      "title": "Stone Game IV",
+      "titleSlug": "stone-game-iv"
+    },
+    {
+      "id": "2102874655",
+      "lang": "cpp",
+      "memory": "319.6 MB",
+      "runtime": "288 ms",
+      "timestamp": "1786454824",
+      "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+      "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph"
+    },
+    {
+      "id": "2103175567",
+      "lang": "cpp",
+      "memory": "115.9 MB",
+      "runtime": "142 ms",
+      "timestamp": "1786467677",
+      "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+      "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+    },
+    {
+      "id": "2103241777",
+      "lang": "cpp",
+      "memory": "112.7 MB",
+      "runtime": "24 ms",
+      "timestamp": "1786470103",
+      "title": "Longest Cycle in a Graph",
+      "titleSlug": "longest-cycle-in-a-graph"
+    },
+    {
+      "id": "2104757684",
+      "lang": "cpp",
+      "memory": "149.4 MB",
+      "runtime": "60 ms",
+      "timestamp": "1786569164",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency"
+    },
+    {
+      "id": "2105948729",
+      "lang": "cpp",
+      "memory": "188 MB",
+      "runtime": "434 ms",
+      "timestamp": "1786653397",
+      "title": "Largest Color Value in a Directed Graph",
+      "titleSlug": "largest-color-value-in-a-directed-graph"
+    },
+    {
+      "id": "2106692437",
+      "lang": "cpp",
+      "memory": "9.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "1786717834",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "titleSlug": "maximum-length-substring-with-two-occurrences"
+    },
+    {
+      "id": "2107768146",
+      "lang": "cpp",
+      "memory": "31 MB",
+      "runtime": "0 ms",
+      "timestamp": "1786804466",
+      "title": "Elevator Requests I",
+      "titleSlug": "elevator-requests-i"
+    },
+    {
+      "id": "2107911064",
+      "lang": "cpp",
+      "memory": "725.9 MB",
+      "runtime": "2730 ms",
+      "timestamp": "1786808315",
+      "title": "Elevator Requests II",
+      "titleSlug": "elevator-requests-ii"
+    },
+    {
+      "id": "2107921509",
+      "lang": "cpp",
+      "memory": "10.6 MB",
+      "runtime": "175 ms",
+      "timestamp": "1786808662",
+      "title": "Minimum Operations to Make a Rotated Palindrome I",
+      "titleSlug": "minimum-operations-to-make-a-rotated-palindrome-i"
+    },
+    {
+      "id": "2108358931",
+      "lang": "cpp",
+      "memory": "55.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1786847798",
+      "title": "Nearest Available Drone",
+      "titleSlug": "nearest-available-drone"
+    },
+    {
+      "id": "2108387967",
+      "lang": "cpp",
+      "memory": "178.6 MB",
+      "runtime": "23 ms",
+      "timestamp": "1786848627",
+      "title": "Minimize the Maximum Waiting Time at Synchronized Traffic Lights",
+      "titleSlug": "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights"
+    },
+    {
+      "id": "2108442798",
+      "lang": "cpp",
+      "memory": "72.2 MB",
+      "runtime": "38 ms",
+      "timestamp": "1786850373",
+      "title": "Maximum Gap Between Stations",
+      "titleSlug": "maximum-gap-between-stations"
+    },
+    {
+      "id": "2110601897",
+      "lang": "cpp",
+      "memory": "20.5 MB",
+      "runtime": "1414 ms",
+      "timestamp": "1786993829",
+      "title": "Similar String Groups",
+      "titleSlug": "similar-string-groups"
+    },
+    {
+      "id": "2110671203",
+      "lang": "cpp",
+      "memory": "121 MB",
+      "runtime": "100 ms",
+      "timestamp": "1787000240",
+      "title": "Checking Existence of Edge Length Limited Paths",
+      "titleSlug": "checking-existence-of-edge-length-limited-paths"
+    },
+    {
+      "id": "2111196486",
+      "lang": "cpp",
+      "memory": "111.3 MB",
+      "runtime": "52 ms",
+      "timestamp": "1787044509",
+      "title": "Minimum Number of Vertices to Reach All Nodes",
+      "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes"
+    },
+    {
+      "id": "2111768221",
+      "lang": "cpp",
+      "memory": "29.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "1787073547",
+      "title": "Find the Largest Almost Missing Integer",
+      "titleSlug": "find-the-largest-almost-missing-integer"
+    },
+    {
+      "id": "2112758493",
+      "lang": "cpp",
+      "memory": "12.1 MB",
+      "runtime": "2 ms",
+      "timestamp": "1787147639",
+      "title": "Evaluate Division",
+      "titleSlug": "evaluate-division"
+    },
+    {
+      "id": "2113169508",
+      "lang": "cpp",
+      "memory": "57.5 MB",
+      "runtime": "26 ms",
+      "timestamp": "1787166997",
+      "title": "Cinema Seat Allocation",
+      "titleSlug": "cinema-seat-allocation"
+    },
+    {
+      "id": "2113198285",
+      "lang": "cpp",
+      "memory": "71.4 MB",
+      "runtime": "54 ms",
+      "timestamp": "1787169200",
+      "title": "Path with Maximum Probability",
+      "titleSlug": "path-with-maximum-probability"
+    },
+    {
+      "id": "2113946680",
+      "lang": "cpp",
+      "memory": "23.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1787231263",
+      "title": "Distribute Elements Into Two Arrays I",
+      "titleSlug": "distribute-elements-into-two-arrays-i"
+    },
+    {
+      "id": "2115493400",
+      "lang": "cpp",
+      "memory": "25.3 MB",
+      "runtime": "40 ms",
+      "timestamp": "1787343082",
+      "title": "Detonate the Maximum Bombs",
+      "titleSlug": "detonate-the-maximum-bombs"
+    },
+    {
+      "id": "2116622552",
+      "lang": "cpp",
+      "memory": "7.7 MB",
+      "runtime": "0 ms",
+      "timestamp": "1787432712",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "titleSlug": "check-divisibility-by-digit-sum-and-product"
+    },
+    {
+      "id": "2117325895",
+      "lang": "cpp",
+      "memory": "276.9 MB",
+      "runtime": "157 ms",
+      "timestamp": "1787488162",
+      "title": "Find All Numbers Disappeared in an Array II",
+      "titleSlug": "find-all-numbers-disappeared-in-an-array-ii"
+    }
+  ],
+  "last_timestamp": 1787488162,
+  "seeded": true,
+  "synced": {
+    "check-if-array-is-sorted-and-rotated": "1677046451"
+  }
+}
