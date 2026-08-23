@@ -1,0 +1,55 @@
+name: LeetCode Drip Sync
+
+on:
+  # Run by hand from the Actions tab (do this once first, to seed the backlog)
+  workflow_dispatch:
+    inputs:
+      per_run:
+        description: "How many backlog problems to push this run"
+        required: false
+        default: "5"
+
+  # 03:00 UTC daily = 08:30 IST
+  schedule:
+    - cron: "0 3 * * *"
+
+# Only one run at a time, so two runs can never fight over the state file
+concurrency:
+  group: leetcode-drip
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+        run: |
+          python .github/scripts/leetcode_drip.py \
+            --per-run "${{ github.event.inputs.per_run || '5' }}" \
+            --dest problems
+
+      - name: Push
+        run: |
+          # Someone may have pushed while we were running
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
