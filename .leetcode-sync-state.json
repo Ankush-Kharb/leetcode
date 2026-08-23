@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1677085749",
-      "lang": "cpp",
-      "memory": "22.5 MB",
-      "runtime": "0 ms",
-      "timestamp": "1750933089",
-      "title": "Remove Duplicates from Sorted Array",
-      "titleSlug": "remove-duplicates-from-sorted-array"
-    },
-    {
       "id": "1677991257",
       "lang": "cpp",
       "memory": "29.4 MB",
@@ -4216,6 +4207,7 @@
   "last_timestamp": 1787488162,
   "seeded": true,
   "synced": {
-    "check-if-array-is-sorted-and-rotated": "1677046451"
+    "check-if-array-is-sorted-and-rotated": "1677046451",
+    "remove-duplicates-from-sorted-array": "1677085749"
   }
 }
