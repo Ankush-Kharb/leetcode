@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1678039970",
-      "lang": "cpp",
-      "memory": "25 MB",
-      "runtime": "3 ms",
-      "timestamp": "1751008904",
-      "title": "Move Zeroes",
-      "titleSlug": "move-zeroes"
-    },
-    {
       "id": "1678652840",
       "lang": "cpp",
       "memory": "21.9 MB",
@@ -4199,6 +4190,7 @@
   "seeded": true,
   "synced": {
     "check-if-array-is-sorted-and-rotated": "1677046451",
+    "move-zeroes": "1678039970",
     "remove-duplicates-from-sorted-array": "1677085749",
     "rotate-array": "1677991257"
   }
