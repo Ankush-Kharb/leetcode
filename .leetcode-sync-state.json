@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1682388362",
-      "lang": "cpp",
-      "memory": "71.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1751356548",
-      "title": "Maximum Subarray",
-      "titleSlug": "maximum-subarray"
-    },
-    {
       "id": "1682801316",
       "lang": "cpp",
       "memory": "128.4 MB",
@@ -4146,6 +4137,7 @@
   "synced": {
     "check-if-array-is-sorted-and-rotated": "1677046451",
     "majority-element": "1681298887",
+    "maximum-subarray": "1682388362",
     "missing-number": "1678652840",
     "move-zeroes": "1678039970",
     "remove-duplicates-from-sorted-array": "1677085749",
