@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1681298887",
-      "lang": "cpp",
-      "memory": "28.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1751277471",
-      "title": "Majority Element",
-      "titleSlug": "majority-element"
-    },
-    {
       "id": "1682388362",
       "lang": "cpp",
       "memory": "71.8 MB",
@@ -4154,6 +4145,7 @@
   "seeded": true,
   "synced": {
     "check-if-array-is-sorted-and-rotated": "1677046451",
+    "majority-element": "1681298887",
     "missing-number": "1678652840",
     "move-zeroes": "1678039970",
     "remove-duplicates-from-sorted-array": "1677085749",
