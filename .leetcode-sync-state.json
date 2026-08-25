@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1684842564",
-      "lang": "cpp",
-      "memory": "13.7 MB",
-      "runtime": "0 ms",
-      "timestamp": "1751534097",
-      "title": "Search Insert Position",
-      "titleSlug": "search-insert-position"
-    },
-    {
       "id": "1685165104",
       "lang": "cpp",
       "memory": "17.5 MB",
@@ -4127,6 +4118,7 @@
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "rotate-array": "1677991257",
+    "search-insert-position": "1684842564",
     "single-number": "1678690700",
     "sort-colors": "1681245847",
     "two-sum": "1680786250",
