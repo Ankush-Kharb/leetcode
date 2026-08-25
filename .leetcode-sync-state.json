@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1685458137",
-      "lang": "cpp",
-      "memory": "15.3 MB",
-      "runtime": "0 ms",
-      "timestamp": "1751571845",
-      "title": "Search in Rotated Sorted Array",
-      "titleSlug": "search-in-rotated-sorted-array"
-    },
-    {
       "id": "1685476754",
       "lang": "cpp",
       "memory": "18 MB",
@@ -4110,6 +4101,7 @@
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "rotate-array": "1677991257",
+    "search-in-rotated-sorted-array": "1685458137",
     "search-insert-position": "1684842564",
     "single-number": "1678690700",
     "sort-colors": "1681245847",
