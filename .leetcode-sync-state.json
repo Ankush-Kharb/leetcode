@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1682801316",
-      "lang": "cpp",
-      "memory": "128.4 MB",
-      "runtime": "7 ms",
-      "timestamp": "1751381990",
-      "title": "Rearrange Array Elements by Sign",
-      "titleSlug": "rearrange-array-elements-by-sign"
-    },
-    {
       "id": "1684069211",
       "lang": "cpp",
       "memory": "15.5 MB",
@@ -4141,6 +4132,7 @@
     "maximum-subarray": "1682388362",
     "missing-number": "1678652840",
     "move-zeroes": "1678039970",
+    "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "rotate-array": "1677991257",
     "single-number": "1678690700",
