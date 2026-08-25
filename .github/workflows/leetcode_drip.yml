@@ -36,8 +36,10 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # IMPORTANT: this must be an email verified on your GitHub account,
+          # otherwise the commits won't count toward your contribution graph.
+          git config user.name "Ankush Kharb"
+          git config user.email "ankushkharb7428@gmail.com"
 
       - name: Sync
         env:
