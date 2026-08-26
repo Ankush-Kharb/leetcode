@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1686559195",
-      "lang": "cpp",
-      "memory": "7.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1751659453",
-      "title": "Valid Perfect Square",
-      "titleSlug": "valid-perfect-square"
-    },
-    {
       "id": "1686566697",
       "lang": "cpp",
       "memory": "24.6 MB",
@@ -4083,6 +4074,7 @@
     "smallest-missing-multiple-of-k": "2119476651",
     "sort-colors": "1681245847",
     "two-sum": "1680786250",
+    "valid-perfect-square": "1686559195",
     "validate-binary-tree-nodes": "2118932678"
   }
 }
