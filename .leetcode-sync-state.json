@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1688814510",
-      "lang": "cpp",
-      "memory": "23.1 MB",
-      "runtime": "5 ms",
-      "timestamp": "1751831192",
-      "title": "Koko Eating Bananas",
-      "titleSlug": "koko-eating-bananas"
-    },
-    {
       "id": "1688845829",
       "lang": "cpp",
       "memory": "26.2 MB",
@@ -4033,6 +4024,7 @@
     "find-minimum-in-rotated-sorted-array": "1685514626",
     "find-peak-element": "1688521714",
     "intersection-of-two-arrays": "1687667443",
+    "koko-eating-bananas": "1688814510",
     "majority-element": "1681298887",
     "maximal-network-rank": "2118887623",
     "maximum-subarray": "1682388362",
