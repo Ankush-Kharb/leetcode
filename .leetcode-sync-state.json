@@ -4042,7 +4042,7 @@
       "titleSlug": "find-all-numbers-disappeared-in-an-array-ii"
     }
   ],
-  "last_timestamp": 1787650752,
+  "last_timestamp": 1787763662,
   "seeded": true,
   "synced": {
     "check-if-array-is-sorted-and-rotated": "1677046451",
@@ -4061,6 +4061,7 @@
     "search-in-rotated-sorted-array": "1685458137",
     "search-in-rotated-sorted-array-ii": "1685476754",
     "search-insert-position": "1684842564",
+    "shortest-and-lexicographically-smallest-beautiful-string": "2121016269",
     "single-element-in-a-sorted-array": "1686184985",
     "single-number": "1678690700",
     "smallest-missing-multiple-of-k": "2119476651",
