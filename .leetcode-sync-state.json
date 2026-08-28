@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1690888405",
-      "lang": "cpp",
-      "memory": "10.9 MB",
-      "runtime": "6 ms",
-      "timestamp": "1751985618",
-      "title": "Palindrome Number",
-      "titleSlug": "palindrome-number"
-    },
-    {
       "id": "1691265506",
       "lang": "cpp",
       "memory": "10.3 MB",
@@ -3982,6 +3973,7 @@
     "missing-number": "1678652840",
     "move-zeroes": "1678039970",
     "next-permutation": "1684069211",
+    "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
     "peak-index-in-a-mountain-array": "1689939968",
     "rearrange-array-elements-by-sign": "1682801316",
