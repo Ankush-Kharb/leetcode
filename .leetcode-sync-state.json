@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1689915130",
-      "lang": "cpp",
-      "memory": "13.3 MB",
-      "runtime": "0 ms",
-      "timestamp": "1751911530",
-      "title": "Kth Missing Positive Number",
-      "titleSlug": "kth-missing-positive-number"
-    },
-    {
       "id": "1689939968",
       "lang": "cpp",
       "memory": "63.6 MB",
@@ -4001,6 +3992,7 @@
     "find-the-smallest-divisor-given-a-threshold": "1688845829",
     "intersection-of-two-arrays": "1687667443",
     "koko-eating-bananas": "1688814510",
+    "kth-missing-positive-number": "1689915130",
     "majority-element": "1681298887",
     "maximal-network-rank": "2118887623",
     "maximum-subarray": "1682388362",
