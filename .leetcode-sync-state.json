@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1690523718",
-      "lang": "cpp",
-      "memory": "8.5 MB",
-      "runtime": "0 ms",
-      "timestamp": "1751962461",
-      "title": "Sqrt(x)",
-      "titleSlug": "sqrtx"
-    },
-    {
       "id": "1690888405",
       "lang": "cpp",
       "memory": "10.9 MB",
@@ -4004,6 +3995,7 @@
     "single-number": "1678690700",
     "smallest-missing-multiple-of-k": "2119476651",
     "sort-colors": "1681245847",
+    "sqrtx": "1690523718",
     "two-sum": "1680786250",
     "valid-perfect-square": "1686559195",
     "validate-binary-tree-nodes": "2118932678"
