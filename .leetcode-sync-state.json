@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1691265506",
-      "lang": "cpp",
-      "memory": "10.3 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752006257",
-      "title": "Split Array Largest Sum",
-      "titleSlug": "split-array-largest-sum"
-    },
-    {
       "id": "1691753968",
       "lang": "cpp",
       "memory": "95.1 MB",
@@ -3980,6 +3971,7 @@
     "single-number": "1678690700",
     "smallest-missing-multiple-of-k": "2119476651",
     "sort-colors": "1681245847",
+    "split-array-largest-sum": "1691265506",
     "sqrtx": "1690523718",
     "two-sum": "1680786250",
     "valid-perfect-square": "1686559195",
