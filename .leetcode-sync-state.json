@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1691753968",
-      "lang": "cpp",
-      "memory": "95.1 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752050265",
-      "title": "Median of Two Sorted Arrays",
-      "titleSlug": "median-of-two-sorted-arrays"
-    },
-    {
       "id": "1692156327",
       "lang": "cpp",
       "memory": "13.2 MB",
@@ -3952,6 +3943,7 @@
     "majority-element": "1681298887",
     "maximal-network-rank": "2118887623",
     "maximum-subarray": "1682388362",
+    "median-of-two-sorted-arrays": "1691753968",
     "minimum-number-of-days-to-make-m-bouquets": "1689594176",
     "missing-number": "1678652840",
     "most-stones-removed-with-same-row-or-column": "2123167943",
