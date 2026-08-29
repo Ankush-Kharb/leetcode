@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1692156327",
-      "lang": "cpp",
-      "memory": "13.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752075676",
-      "title": "Search a 2D Matrix",
-      "titleSlug": "search-a-2d-matrix"
-    },
-    {
       "id": "1692236934",
       "lang": "cpp",
       "memory": "18.7 MB",
@@ -3955,6 +3946,7 @@
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "rotate-array": "1677991257",
+    "search-a-2d-matrix": "1692156327",
     "search-in-rotated-sorted-array": "1685458137",
     "search-in-rotated-sorted-array-ii": "1685476754",
     "search-insert-position": "1684842564",
