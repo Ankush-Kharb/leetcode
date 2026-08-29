@@ -3547,15 +3547,6 @@
       "titleSlug": "minimum-genetic-mutation"
     },
     {
-      "id": "2091715665",
-      "lang": "cpp",
-      "memory": "21.9 MB",
-      "runtime": "47 ms",
-      "timestamp": "1785692660",
-      "title": "Most Stones Removed with Same Row or Column",
-      "titleSlug": "most-stones-removed-with-same-row-or-column"
-    },
-    {
       "id": "2092536986",
       "lang": "cpp",
       "memory": "37.3 MB",
@@ -3972,6 +3963,7 @@
     "maximum-subarray": "1682388362",
     "minimum-number-of-days-to-make-m-bouquets": "1689594176",
     "missing-number": "1678652840",
+    "most-stones-removed-with-same-row-or-column": "2123167943",
     "move-zeroes": "1678039970",
     "next-permutation": "1684069211",
     "palindrome-number": "1690888405",
