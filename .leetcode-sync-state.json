@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1693584214",
-      "lang": "cpp",
-      "memory": "9.7 MB",
-      "runtime": "7 ms",
-      "timestamp": "1752176927",
-      "title": "Valid Anagram",
-      "titleSlug": "valid-anagram"
-    },
-    {
       "id": "1693613119",
       "lang": "cpp",
       "memory": "10.1 MB",
@@ -3922,6 +3913,7 @@
     "sqrtx": "1690523718",
     "two-sum": "1680786250",
     "two-sum-ii-input-array-is-sorted": "1692867850",
+    "valid-anagram": "1693584214",
     "valid-perfect-square": "1686559195",
     "validate-binary-tree-nodes": "2118932678"
   }
