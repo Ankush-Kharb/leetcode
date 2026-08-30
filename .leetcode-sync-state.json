@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1693558234",
-      "lang": "cpp",
-      "memory": "8.1 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752174952",
-      "title": "Rotate String",
-      "titleSlug": "rotate-string"
-    },
-    {
       "id": "1693564824",
       "lang": "cpp",
       "memory": "27.2 MB",
@@ -3924,6 +3915,7 @@
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "rotate-array": "1677991257",
+    "rotate-string": "1693558234",
     "search-a-2d-matrix": "1692156327",
     "search-a-2d-matrix-ii": "1692236934",
     "search-in-rotated-sorted-array": "1685458137",
