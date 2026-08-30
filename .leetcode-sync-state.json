@@ -3898,7 +3898,7 @@
       "titleSlug": "find-all-numbers-disappeared-in-an-array-ii"
     }
   ],
-  "last_timestamp": 1787939821,
+  "last_timestamp": 1788077336,
   "seeded": true,
   "synced": {
     "bus-routes": "2122376371",
@@ -3918,6 +3918,7 @@
     "maximal-network-rank": "2118887623",
     "maximum-subarray": "1682388362",
     "median-of-two-sorted-arrays": "1691753968",
+    "minimum-bishop-moves-to-reach-target": "2123933760",
     "minimum-number-of-days-to-make-m-bouquets": "1689594176",
     "missing-number": "1678652840",
     "most-stones-removed-with-same-row-or-column": "2123167943",
