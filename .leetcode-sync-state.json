@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1693564824",
-      "lang": "cpp",
-      "memory": "27.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752175432",
-      "title": "Reverse String",
-      "titleSlug": "reverse-string"
-    },
-    {
       "id": "1693584214",
       "lang": "cpp",
       "memory": "9.7 MB",
@@ -3914,6 +3905,7 @@
     "peak-index-in-a-mountain-array": "1689939968",
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
+    "reverse-string": "1693564824",
     "rotate-array": "1677991257",
     "rotate-string": "1693558234",
     "search-a-2d-matrix": "1692156327",
