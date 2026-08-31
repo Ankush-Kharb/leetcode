@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1694015008",
-      "lang": "cpp",
-      "memory": "8.4 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752219208",
-      "title": "Find Three Consecutive Integers That Sum to a Given Number",
-      "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number"
-    },
-    {
       "id": "1694237716",
       "lang": "cpp",
       "memory": "10.2 MB",
@@ -3858,6 +3849,7 @@
     "find-peak-element": "1688521714",
     "find-the-index-of-the-first-occurrence-in-a-string": "1694004530",
     "find-the-smallest-divisor-given-a-threshold": "1688845829",
+    "find-three-consecutive-integers-that-sum-to-a-given-number": "1694015008",
     "intersection-of-two-arrays": "1687667443",
     "koko-eating-bananas": "1688814510",
     "kth-missing-positive-number": "1689915130",
