@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1694398328",
-      "lang": "cpp",
-      "memory": "8.7 MB",
-      "runtime": "1 ms",
-      "timestamp": "1752248152",
-      "title": "Power of Three",
-      "titleSlug": "power-of-three"
-    },
-    {
       "id": "1694461848",
       "lang": "cpp",
       "memory": "30.3 MB",
@@ -3860,6 +3851,7 @@
     "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
     "peak-index-in-a-mountain-array": "1689939968",
+    "power-of-three": "1694398328",
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "reverse-string": "1693564824",
