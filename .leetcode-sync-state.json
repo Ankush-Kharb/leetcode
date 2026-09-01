@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1696462905",
-      "lang": "cpp",
-      "memory": "8.6 MB",
-      "runtime": "3 ms",
-      "timestamp": "1752416583",
-      "title": "Sum Multiples",
-      "titleSlug": "sum-multiples"
-    },
-    {
       "id": "1696509133",
       "lang": "cpp",
       "memory": "9 MB",
@@ -3840,6 +3831,7 @@
     "split-array-largest-sum": "1691265506",
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
+    "sum-multiples": "1696462905",
     "two-sum": "1680786250",
     "two-sum-ii-input-array-is-sorted": "1692867850",
     "valid-anagram": "1693584214",
