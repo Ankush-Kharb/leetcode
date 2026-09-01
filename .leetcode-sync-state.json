@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1696402930",
-      "lang": "cpp",
-      "memory": "80.1 MB",
-      "runtime": "31 ms",
-      "timestamp": "1752412669",
-      "title": "Maximum Matching of Players With Trainers",
-      "titleSlug": "maximum-matching-of-players-with-trainers"
-    },
-    {
       "id": "1696462905",
       "lang": "cpp",
       "memory": "8.6 MB",
@@ -3812,6 +3803,7 @@
     "lexicographically-largest-string-after-pair-transformations": "2124036080",
     "majority-element": "1681298887",
     "maximal-network-rank": "2118887623",
+    "maximum-matching-of-players-with-trainers": "1696402930",
     "maximum-subarray": "1682388362",
     "maximum-valid-split-positions-i": "2123987345",
     "median-of-two-sorted-arrays": "1691753968",
