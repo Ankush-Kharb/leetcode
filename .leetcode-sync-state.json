@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1696509133",
-      "lang": "cpp",
-      "memory": "9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752419528",
-      "title": "Add Strings",
-      "titleSlug": "add-strings"
-    },
-    {
       "id": "1697451704",
       "lang": "cpp",
       "memory": "8.6 MB",
@@ -3775,6 +3766,7 @@
   "last_timestamp": 1788292231,
   "seeded": true,
   "synced": {
+    "add-strings": "1696509133",
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
