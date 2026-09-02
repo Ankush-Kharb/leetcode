@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1697502844",
-      "lang": "cpp",
-      "memory": "7.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752497104",
-      "title": "A Number After a Double Reversal",
-      "titleSlug": "a-number-after-a-double-reversal"
-    },
-    {
       "id": "1699224988",
       "lang": "cpp",
       "memory": "8.2 MB",
@@ -3748,6 +3739,7 @@
   "last_timestamp": 1788292231,
   "seeded": true,
   "synced": {
+    "a-number-after-a-double-reversal": "1697502844",
     "add-digits": "1697479485",
     "add-strings": "1696509133",
     "bus-routes": "2122376371",
