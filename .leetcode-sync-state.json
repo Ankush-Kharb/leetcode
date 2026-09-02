@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1699735439",
-      "lang": "cpp",
-      "memory": "16 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752649148",
-      "title": "Odd Even Linked List",
-      "titleSlug": "odd-even-linked-list"
-    },
-    {
       "id": "1699747815",
       "lang": "cpp",
       "memory": "15.3 MB",
@@ -3763,6 +3754,7 @@
     "most-stones-removed-with-same-row-or-column": "2123167943",
     "move-zeroes": "1678039970",
     "next-permutation": "1684069211",
+    "odd-even-linked-list": "1699735439",
     "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
     "peak-index-in-a-mountain-array": "1689939968",
