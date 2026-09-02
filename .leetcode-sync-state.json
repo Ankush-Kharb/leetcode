@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1699224988",
-      "lang": "cpp",
-      "memory": "8.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752604789",
-      "title": "Valid Word",
-      "titleSlug": "valid-word"
-    },
-    {
       "id": "1699735439",
       "lang": "cpp",
       "memory": "16 MB",
@@ -3805,6 +3796,7 @@
     "valid-anagram": "1693584214",
     "valid-palindrome": "1693613119",
     "valid-perfect-square": "1686559195",
+    "valid-word": "1699224988",
     "validate-binary-tree-nodes": "2118932678"
   }
 }
