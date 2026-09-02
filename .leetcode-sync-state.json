@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1697451704",
-      "lang": "cpp",
-      "memory": "8.6 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752493497",
-      "title": "Check if One String Swap Can Make Strings Equal",
-      "titleSlug": "check-if-one-string-swap-can-make-strings-equal"
-    },
-    {
       "id": "1697479485",
       "lang": "cpp",
       "memory": "8.8 MB",
@@ -3770,6 +3761,7 @@
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
+    "check-if-one-string-swap-can-make-strings-equal": "1697451704",
     "count-integers-appearing-in-a-single-block": "2124804621",
     "count-pairs-whose-sum-is-less-than-target": "1686566697",
     "find-champion-ii": "2123156234",
