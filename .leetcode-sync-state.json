@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1701037833",
-      "lang": "cpp",
-      "memory": "125.7 MB",
-      "runtime": "8 ms",
-      "timestamp": "1752740134",
-      "title": "Double a Number Represented as a Linked List",
-      "titleSlug": "double-a-number-represented-as-a-linked-list"
-    },
-    {
       "id": "1701555547",
       "lang": "cpp",
       "memory": "8.9 MB",
@@ -3695,6 +3686,7 @@
     "construct-uniform-parity-array-i": "2128937629",
     "count-integers-appearing-in-a-single-block": "2124804621",
     "count-pairs-whose-sum-is-less-than-target": "1686566697",
+    "double-a-number-represented-as-a-linked-list": "1701037833",
     "find-champion-ii": "2123156234",
     "find-first-and-last-position-of-element-in-sorted-array": "1685165104",
     "find-minimum-in-rotated-sorted-array": "1685514626",
