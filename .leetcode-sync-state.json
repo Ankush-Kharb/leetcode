@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1699747815",
-      "lang": "cpp",
-      "memory": "15.3 MB",
-      "runtime": "7 ms",
-      "timestamp": "1752649841",
-      "title": "Partition List",
-      "titleSlug": "partition-list"
-    },
-    {
       "id": "1699768626",
       "lang": "cpp",
       "memory": "15 MB",
@@ -3758,6 +3749,7 @@
     "odd-even-linked-list": "1699735439",
     "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
+    "partition-list": "1699747815",
     "peak-index-in-a-mountain-array": "1689939968",
     "plus-one": "1695547877",
     "power-of-three": "1694398328",
