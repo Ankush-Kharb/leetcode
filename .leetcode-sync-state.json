@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1699768626",
-      "lang": "cpp",
-      "memory": "15 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752651084",
-      "title": "Remove Nth Node From End of List",
-      "titleSlug": "remove-nth-node-from-end-of-list"
-    },
-    {
       "id": "1700105364",
       "lang": "cpp",
       "memory": "12.1 MB",
@@ -3755,6 +3746,7 @@
     "power-of-three": "1694398328",
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
+    "remove-nth-node-from-end-of-list": "1699768626",
     "removing-minimum-and-maximum-from-array": "2126442128",
     "reverse-integer": "1694662235",
     "reverse-string": "1693564824",
