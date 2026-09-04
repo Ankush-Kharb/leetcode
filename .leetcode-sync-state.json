@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1702814342",
-      "lang": "cpp",
-      "memory": "9.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752867162",
-      "title": "Reverse Words in a String",
-      "titleSlug": "reverse-words-in-a-string"
-    },
-    {
       "id": "1702822917",
       "lang": "cpp",
       "memory": "7.8 MB",
@@ -3710,6 +3701,7 @@
     "reverse-integer": "1694662235",
     "reverse-linked-list": "1701003015",
     "reverse-string": "1693564824",
+    "reverse-words-in-a-string": "1702814342",
     "reverse-words-in-a-string-iii": "1700105364",
     "roman-to-integer": "1694237716",
     "rotate-array": "1677991257",
