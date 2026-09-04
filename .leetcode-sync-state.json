@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1701614117",
-      "lang": "cpp",
-      "memory": "11.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752774691",
-      "title": "Remove Element",
-      "titleSlug": "remove-element"
-    },
-    {
       "id": "1702814342",
       "lang": "cpp",
       "memory": "9.9 MB",
@@ -3713,6 +3704,7 @@
     "power-of-three": "1694398328",
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
+    "remove-element": "1701614117",
     "remove-nth-node-from-end-of-list": "1699768626",
     "removing-minimum-and-maximum-from-array": "2126442128",
     "reverse-integer": "1694662235",
