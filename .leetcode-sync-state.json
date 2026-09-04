@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1701555547",
-      "lang": "cpp",
-      "memory": "8.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752771947",
-      "title": "Add Binary",
-      "titleSlug": "add-binary"
-    },
-    {
       "id": "1701614117",
       "lang": "cpp",
       "memory": "11.8 MB",
@@ -3677,6 +3668,7 @@
   "seeded": true,
   "synced": {
     "a-number-after-a-double-reversal": "1697502844",
+    "add-binary": "1701555547",
     "add-digits": "1697479485",
     "add-strings": "1696509133",
     "bus-routes": "2122376371",
