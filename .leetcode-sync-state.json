@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1702827800",
-      "lang": "cpp",
-      "memory": "7.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752868319",
-      "title": "Three Divisors",
-      "titleSlug": "three-divisors"
-    },
-    {
       "id": "1704464928",
       "lang": "cpp",
       "memory": "7.7 MB",
@@ -3713,6 +3704,7 @@
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
     "sum-multiples": "1696462905",
+    "three-divisors": "1702827800",
     "two-sum": "1680786250",
     "two-sum-ii-input-array-is-sorted": "1692867850",
     "valid-anagram": "1693584214",
