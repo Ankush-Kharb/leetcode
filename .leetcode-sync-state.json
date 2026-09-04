@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1702822917",
-      "lang": "cpp",
-      "memory": "7.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752867889",
-      "title": "Count Operations to Obtain Zero",
-      "titleSlug": "count-operations-to-obtain-zero"
-    },
-    {
       "id": "1702827800",
       "lang": "cpp",
       "memory": "7.8 MB",
@@ -3660,6 +3651,7 @@
     "construct-uniform-parity-array-i": "2128937629",
     "construct-uniform-parity-array-ii": "2130135376",
     "count-integers-appearing-in-a-single-block": "2124804621",
+    "count-operations-to-obtain-zero": "1702822917",
     "count-pairs-whose-sum-is-less-than-target": "1686566697",
     "double-a-number-represented-as-a-linked-list": "1701037833",
     "find-champion-ii": "2123156234",
