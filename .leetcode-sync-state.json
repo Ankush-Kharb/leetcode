@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1706354106",
-      "lang": "cpp",
-      "memory": "31.4 MB",
-      "runtime": "0 ms",
-      "timestamp": "1753122423",
-      "title": "Binary Search",
-      "titleSlug": "binary-search"
-    },
-    {
       "id": "1706860282",
       "lang": "cpp",
       "memory": "8.2 MB",
@@ -3617,6 +3608,7 @@
     "add-binary": "1701555547",
     "add-digits": "1697479485",
     "add-strings": "1696509133",
+    "binary-search": "1706354106",
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
