@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1704475395",
-      "lang": "cpp",
-      "memory": "12.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1752995734",
-      "title": "Third Maximum Number",
-      "titleSlug": "third-maximum-number"
-    },
-    {
       "id": "1706354106",
       "lang": "cpp",
       "memory": "31.4 MB",
@@ -3696,6 +3687,7 @@
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
     "sum-multiples": "1696462905",
+    "third-maximum-number": "1704475395",
     "three-divisors": "1702827800",
     "two-sum": "1680786250",
     "two-sum-ii-input-array-is-sorted": "1692867850",
