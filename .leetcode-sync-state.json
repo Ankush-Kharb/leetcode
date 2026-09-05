@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1704464928",
-      "lang": "cpp",
-      "memory": "7.7 MB",
-      "runtime": "2074 ms",
-      "timestamp": "1752995033",
-      "title": "Perfect Number",
-      "titleSlug": "perfect-number"
-    },
-    {
       "id": "1704475395",
       "lang": "cpp",
       "memory": "12.8 MB",
@@ -3674,6 +3665,7 @@
     "parallel-courses-iii": "2121066490",
     "partition-list": "1699747815",
     "peak-index-in-a-mountain-array": "1689939968",
+    "perfect-number": "1704464928",
     "plus-one": "1695547877",
     "power-of-three": "1694398328",
     "rearrange-array-elements-by-sign": "1682801316",
