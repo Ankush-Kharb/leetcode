@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1710132955",
-      "lang": "cpp",
-      "memory": "7.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1753383161",
-      "title": "Happy Number",
-      "titleSlug": "happy-number"
-    },
-    {
       "id": "1710142622",
       "lang": "cpp",
       "memory": "8.3 MB",
@@ -3576,6 +3567,7 @@
     "find-the-index-of-the-first-occurrence-in-a-string": "1694004530",
     "find-the-smallest-divisor-given-a-threshold": "1688845829",
     "find-three-consecutive-integers-that-sum-to-a-given-number": "1694015008",
+    "happy-number": "1710132955",
     "intersection-of-two-arrays": "1687667443",
     "koko-eating-bananas": "1688814510",
     "kth-missing-positive-number": "1689915130",
