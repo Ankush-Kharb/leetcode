@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1707722241",
-      "lang": "cpp",
-      "memory": "71.1 MB",
-      "runtime": "32 ms",
-      "timestamp": "1753213753",
-      "title": "Contains Duplicate",
-      "titleSlug": "contains-duplicate"
-    },
-    {
       "id": "1708934850",
       "lang": "cpp",
       "memory": "8.9 MB",
@@ -3589,6 +3580,7 @@
     "check-if-one-string-swap-can-make-strings-equal": "1697451704",
     "construct-uniform-parity-array-i": "2128937629",
     "construct-uniform-parity-array-ii": "2130135376",
+    "contains-duplicate": "1707722241",
     "count-integers-appearing-in-a-single-block": "2124804621",
     "count-operations-to-obtain-zero": "1702822917",
     "count-pairs-whose-sum-is-less-than-target": "1686566697",
