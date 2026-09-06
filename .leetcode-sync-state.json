@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1708967922",
-      "lang": "cpp",
-      "memory": "11.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1753300240",
-      "title": "Longest Common Prefix",
-      "titleSlug": "longest-common-prefix"
-    },
-    {
       "id": "1710132955",
       "lang": "cpp",
       "memory": "7.8 MB",
@@ -3591,6 +3582,7 @@
     "largest-odd-number-in-string": "1692448821",
     "length-of-last-word": "1708934850",
     "lexicographically-largest-string-after-pair-transformations": "2124036080",
+    "longest-common-prefix": "1708967922",
     "majority-element": "1681298887",
     "maximal-network-rank": "2118887623",
     "maximum-matching-of-players-with-trainers": "1696402930",
