@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1707719960",
-      "lang": "cpp",
-      "memory": "85.5 MB",
-      "runtime": "24 ms",
-      "timestamp": "1753213575",
-      "title": "Adding Spaces to a String",
-      "titleSlug": "adding-spaces-to-a-string"
-    },
-    {
       "id": "1707722241",
       "lang": "cpp",
       "memory": "71.1 MB",
@@ -3590,6 +3581,7 @@
     "add-binary": "1701555547",
     "add-digits": "1697479485",
     "add-strings": "1696509133",
+    "adding-spaces-to-a-string": "1707719960",
     "binary-search": "1706354106",
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
