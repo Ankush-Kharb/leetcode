@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1714928162",
-      "lang": "cpp",
-      "memory": "27.5 MB",
-      "runtime": "8 ms",
-      "timestamp": "1753726420",
-      "title": "Number of Laser Beams in a Bank",
-      "titleSlug": "number-of-laser-beams-in-a-bank"
-    },
-    {
       "id": "1715036774",
       "lang": "cpp",
       "memory": "10.9 MB",
@@ -3561,6 +3552,7 @@
     "most-stones-removed-with-same-row-or-column": "2123167943",
     "move-zeroes": "1678039970",
     "next-permutation": "1684069211",
+    "number-of-laser-beams-in-a-bank": "1714928162",
     "odd-even-linked-list": "1699735439",
     "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
