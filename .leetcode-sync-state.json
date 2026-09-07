@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1712548246",
-      "lang": "cpp",
-      "memory": "8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1753558584",
-      "title": "Reverse Only Letters",
-      "titleSlug": "reverse-only-letters"
-    },
-    {
       "id": "1713792793",
       "lang": "cpp",
       "memory": "31.3 MB",
@@ -3593,6 +3584,7 @@
     "removing-minimum-and-maximum-from-array": "2126442128",
     "reverse-integer": "1694662235",
     "reverse-linked-list": "1701003015",
+    "reverse-only-letters": "1712548246",
     "reverse-prefix-of-word": "1710142622",
     "reverse-string": "1693564824",
     "reverse-words-in-a-string": "1702814342",
