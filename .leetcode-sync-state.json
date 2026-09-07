@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1715036774",
-      "lang": "cpp",
-      "memory": "10.9 MB",
-      "runtime": "3 ms",
-      "timestamp": "1753733104",
-      "title": "Sort Characters By Frequency",
-      "titleSlug": "sort-characters-by-frequency"
-    },
-    {
       "id": "1716198489",
       "lang": "cpp",
       "memory": "26.4 MB",
@@ -3586,6 +3577,7 @@
     "single-element-in-a-sorted-array": "1686184985",
     "single-number": "1678690700",
     "smallest-missing-multiple-of-k": "2119476651",
+    "sort-characters-by-frequency": "1715036774",
     "sort-colors": "1681245847",
     "split-array-largest-sum": "1691265506",
     "sqrtx": "1690523718",
