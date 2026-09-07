@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1713792793",
-      "lang": "cpp",
-      "memory": "31.3 MB",
-      "runtime": "11 ms",
-      "timestamp": "1753644884",
-      "title": "Maximum Product of Three Numbers",
-      "titleSlug": "maximum-product-of-three-numbers"
-    },
-    {
       "id": "1714928162",
       "lang": "cpp",
       "memory": "27.5 MB",
@@ -3560,6 +3551,7 @@
     "majority-element": "1681298887",
     "maximal-network-rank": "2118887623",
     "maximum-matching-of-players-with-trainers": "1696402930",
+    "maximum-product-of-three-numbers": "1713792793",
     "maximum-subarray": "1682388362",
     "maximum-valid-split-positions-i": "2123987345",
     "median-of-two-sorted-arrays": "1691753968",
