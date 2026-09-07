@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1710142622",
-      "lang": "cpp",
-      "memory": "8.3 MB",
-      "runtime": "0 ms",
-      "timestamp": "1753383743",
-      "title": "Reverse Prefix of Word",
-      "titleSlug": "reverse-prefix-of-word"
-    },
-    {
       "id": "1712548246",
       "lang": "cpp",
       "memory": "8 MB",
@@ -3602,6 +3593,7 @@
     "removing-minimum-and-maximum-from-array": "2126442128",
     "reverse-integer": "1694662235",
     "reverse-linked-list": "1701003015",
+    "reverse-prefix-of-word": "1710142622",
     "reverse-string": "1693564824",
     "reverse-words-in-a-string": "1702814342",
     "reverse-words-in-a-string-iii": "1700105364",
