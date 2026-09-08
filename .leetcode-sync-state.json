@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1716278263",
-      "lang": "cpp",
-      "memory": "18.6 MB",
-      "runtime": "0 ms",
-      "timestamp": "1753816665",
-      "title": "Set Matrix Zeroes",
-      "titleSlug": "set-matrix-zeroes"
-    },
-    {
       "id": "1717577202",
       "lang": "cpp",
       "memory": "447.5 MB",
@@ -3564,6 +3555,7 @@
     "search-in-rotated-sorted-array": "1685458137",
     "search-in-rotated-sorted-array-ii": "1685476754",
     "search-insert-position": "1684842564",
+    "set-matrix-zeroes": "1716278263",
     "shortest-and-lexicographically-smallest-beautiful-string": "2121016269",
     "shortest-distance-after-road-addition-queries-i": "2127709640",
     "single-element-in-a-sorted-array": "1686184985",
