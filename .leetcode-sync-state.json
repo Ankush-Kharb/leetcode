@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1717577202",
-      "lang": "cpp",
-      "memory": "447.5 MB",
-      "runtime": "2142 ms",
-      "timestamp": "1753904087",
-      "title": "3Sum",
-      "titleSlug": "3sum"
-    },
-    {
       "id": "1718785749",
       "lang": "cpp",
       "memory": "17.7 MB",
@@ -3478,6 +3469,7 @@
   "last_timestamp": 1788475881,
   "seeded": true,
   "synced": {
+    "3sum": "1717577202",
     "a-number-after-a-double-reversal": "1697502844",
     "add-binary": "1701555547",
     "add-digits": "1697479485",
