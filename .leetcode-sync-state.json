@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1721192769",
-      "lang": "cpp",
-      "memory": "131.9 MB",
-      "runtime": "12 ms",
-      "timestamp": "1754168242",
-      "title": "Palindrome Linked List",
-      "titleSlug": "palindrome-linked-list"
-    },
-    {
       "id": "1721990481",
       "lang": "cpp",
       "memory": "53.8 MB",
@@ -3505,6 +3496,7 @@
     "next-permutation": "1684069211",
     "number-of-laser-beams-in-a-bank": "1714928162",
     "odd-even-linked-list": "1699735439",
+    "palindrome-linked-list": "1721192769",
     "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
     "partition-list": "1699747815",
