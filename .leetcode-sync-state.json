@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1722385194",
-      "lang": "cpp",
-      "memory": "10.1 MB",
-      "runtime": "0 ms",
-      "timestamp": "1754257605",
-      "title": "Middle of the Linked List",
-      "titleSlug": "middle-of-the-linked-list"
-    },
-    {
       "id": "1722389985",
       "lang": "cpp",
       "memory": "11.6 MB",
@@ -3480,6 +3471,7 @@
     "maximum-subarray": "1682388362",
     "maximum-valid-split-positions-i": "2123987345",
     "median-of-two-sorted-arrays": "1691753968",
+    "middle-of-the-linked-list": "1722385194",
     "minimum-bishop-moves-to-reach-target": "2123933760",
     "minimum-number-of-days-to-make-m-bouquets": "1689594176",
     "missing-number": "1678652840",
