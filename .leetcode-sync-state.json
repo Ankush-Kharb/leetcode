@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1724930317",
-      "lang": "cpp",
-      "memory": "13.9 MB",
-      "runtime": "7 ms",
-      "timestamp": "1754427461",
-      "title": "3Sum Closest",
-      "titleSlug": "3sum-closest"
-    },
-    {
       "id": "1724958393",
       "lang": "cpp",
       "memory": "11.3 MB",
@@ -3380,6 +3371,7 @@
   "seeded": true,
   "synced": {
     "3sum": "1717577202",
+    "3sum-closest": "1724930317",
     "4sum": "1721990481",
     "a-number-after-a-double-reversal": "1697502844",
     "add-binary": "1701555547",
