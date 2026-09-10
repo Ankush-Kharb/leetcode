@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1722408405",
-      "lang": "cpp",
-      "memory": "185.1 MB",
-      "runtime": "4 ms",
-      "timestamp": "1754261073",
-      "title": "Swapping Nodes in a Linked List",
-      "titleSlug": "swapping-nodes-in-a-linked-list"
-    },
-    {
       "id": "1722414928",
       "lang": "cpp",
       "memory": "138.4 MB",
@@ -3505,6 +3496,7 @@
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
     "sum-multiples": "1696462905",
+    "swapping-nodes-in-a-linked-list": "1722408405",
     "third-maximum-number": "1704475395",
     "three-divisors": "1702827800",
     "two-sum": "1680786250",
