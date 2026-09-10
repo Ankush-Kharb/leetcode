@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1722414928",
-      "lang": "cpp",
-      "memory": "138.4 MB",
-      "runtime": "1 ms",
-      "timestamp": "1754262123",
-      "title": "Maximum Twin Sum of a Linked List",
-      "titleSlug": "maximum-twin-sum-of-a-linked-list"
-    },
-    {
       "id": "1723571871",
       "lang": "cpp",
       "memory": "9.4 MB",
@@ -3444,6 +3435,7 @@
     "maximum-product-of-three-numbers": "1713792793",
     "maximum-product-subarray": "1718785749",
     "maximum-subarray": "1682388362",
+    "maximum-twin-sum-of-a-linked-list": "1722414928",
     "maximum-valid-split-positions-i": "2123987345",
     "median-of-two-sorted-arrays": "1691753968",
     "merge-in-between-linked-lists": "1722401654",
