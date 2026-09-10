@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1724958393",
-      "lang": "cpp",
-      "memory": "11.3 MB",
-      "runtime": "10 ms",
-      "timestamp": "1754430933",
-      "title": "Linked List Cycle II",
-      "titleSlug": "linked-list-cycle-ii"
-    },
-    {
       "id": "1724977568",
       "lang": "cpp",
       "memory": "11.2 MB",
@@ -3410,6 +3401,7 @@
     "length-of-last-word": "1708934850",
     "lexicographically-largest-string-after-pair-transformations": "2124036080",
     "linked-list-cycle": "1722389985",
+    "linked-list-cycle-ii": "1724958393",
     "longest-common-prefix": "1708967922",
     "majority-element": "1681298887",
     "majority-element-ii": "1716198489",
