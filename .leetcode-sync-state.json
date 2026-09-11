@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1726144656",
-      "lang": "cpp",
-      "memory": "20 MB",
-      "runtime": "0 ms",
-      "timestamp": "1754509858",
-      "title": "Remove Linked List Elements",
-      "titleSlug": "remove-linked-list-elements"
-    },
-    {
       "id": "1727234021",
       "lang": "cpp",
       "memory": "279.4 MB",
@@ -3429,6 +3420,7 @@
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "remove-element": "1701614117",
+    "remove-linked-list-elements": "1726144656",
     "remove-nth-node-from-end-of-list": "1699768626",
     "removing-minimum-and-maximum-from-array": "2126442128",
     "reverse-integer": "1694662235",
