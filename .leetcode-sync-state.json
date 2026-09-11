@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1724977568",
-      "lang": "cpp",
-      "memory": "11.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1754433698",
-      "title": "Swap Nodes in Pairs",
-      "titleSlug": "swap-nodes-in-pairs"
-    },
-    {
       "id": "1726144656",
       "lang": "cpp",
       "memory": "20 MB",
@@ -3469,6 +3460,7 @@
     "squares-of-a-sorted-array": "1694461848",
     "sum-multiples": "1696462905",
     "sum-of-decoded-numbers": "2137511765",
+    "swap-nodes-in-pairs": "1724977568",
     "swapping-nodes-in-a-linked-list": "1722408405",
     "third-maximum-number": "1704475395",
     "three-divisors": "1702827800",
