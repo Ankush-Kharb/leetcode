@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1727234021",
-      "lang": "cpp",
-      "memory": "279.4 MB",
-      "runtime": "126 ms",
-      "timestamp": "1754591755",
-      "title": "Delete Nodes From Linked List Present in Array",
-      "titleSlug": "delete-nodes-from-linked-list-present-in-array"
-    },
-    {
       "id": "1727361643",
       "lang": "cpp",
       "memory": "16 MB",
@@ -3367,6 +3358,7 @@
     "count-pairs-whose-sum-is-less-than-target": "1686566697",
     "count-rotations-with-exactly-k-equal-adjacent-pairs": "2137533099",
     "delete-node-in-a-linked-list": "1719892393",
+    "delete-nodes-from-linked-list-present-in-array": "1727234021",
     "detect-capital": "1706860282",
     "double-a-number-represented-as-a-linked-list": "1701037833",
     "find-champion-ii": "2123156234",
