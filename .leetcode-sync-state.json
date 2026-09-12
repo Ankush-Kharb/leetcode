@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1728370532",
-      "lang": "cpp",
-      "memory": "19.5 MB",
-      "runtime": "0 ms",
-      "timestamp": "1754685571",
-      "title": "Merge Two Sorted Lists",
-      "titleSlug": "merge-two-sorted-lists"
-    },
-    {
       "id": "1729378422",
       "lang": "cpp",
       "memory": "9.1 MB",
@@ -3368,6 +3359,7 @@
     "maximum-valid-split-positions-i": "2123987345",
     "median-of-two-sorted-arrays": "1691753968",
     "merge-in-between-linked-lists": "1722401654",
+    "merge-two-sorted-lists": "1728370532",
     "middle-of-the-linked-list": "1722385194",
     "minimum-bishop-moves-to-reach-target": "2123933760",
     "minimum-length-of-anagram-concatenation": "2137496685",
