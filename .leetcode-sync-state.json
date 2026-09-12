@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1729378422",
-      "lang": "cpp",
-      "memory": "9.1 MB",
-      "runtime": "0 ms",
-      "timestamp": "1754770834",
-      "title": "String to Integer (atoi)",
-      "titleSlug": "string-to-integer-atoi"
-    },
-    {
       "id": "1730368910",
       "lang": "cpp",
       "memory": "106.7 MB",
@@ -3412,6 +3403,7 @@
     "split-array-largest-sum": "1691265506",
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
+    "string-to-integer-atoi": "1729378422",
     "sum-multiples": "1696462905",
     "sum-of-decoded-numbers": "2137511765",
     "swap-nodes-in-pairs": "1724977568",
