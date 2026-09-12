@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1728356906",
-      "lang": "cpp",
-      "memory": "77 MB",
-      "runtime": "4 ms",
-      "timestamp": "1754684085",
-      "title": "Add Two Numbers II",
-      "titleSlug": "add-two-numbers-ii"
-    },
-    {
       "id": "1728370532",
       "lang": "cpp",
       "memory": "19.5 MB",
@@ -3324,6 +3315,7 @@
     "add-digits": "1697479485",
     "add-strings": "1696509133",
     "add-two-numbers": "1728332030",
+    "add-two-numbers-ii": "1728356906",
     "adding-spaces-to-a-string": "1707719960",
     "binary-search": "1706354106",
     "bus-routes": "2122376371",
