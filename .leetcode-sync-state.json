@@ -3313,7 +3313,7 @@
       "titleSlug": "find-all-numbers-disappeared-in-an-array-ii"
     }
   ],
-  "last_timestamp": 1789066546,
+  "last_timestamp": 1789146940,
   "seeded": true,
   "synced": {
     "3sum": "1717577202",
@@ -3337,6 +3337,7 @@
     "count-commas-in-range-ii": "2136314129",
     "count-good-cyclic-rotations": "2137552894",
     "count-integers-appearing-in-a-single-block": "2124804621",
+    "count-nodes-equal-to-average-of-subtree": "2138563442",
     "count-operations-to-obtain-zero": "1702822917",
     "count-pairs-whose-sum-is-less-than-target": "1686566697",
     "count-rotations-with-exactly-k-equal-adjacent-pairs": "2137533099",
