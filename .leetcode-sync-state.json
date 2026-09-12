@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1731669132",
-      "lang": "cpp",
-      "memory": "147.7 MB",
-      "runtime": "19 ms",
-      "timestamp": "1754939545",
-      "title": "Range Product Queries of Powers",
-      "titleSlug": "range-product-queries-of-powers"
-    },
-    {
       "id": "1732945129",
       "lang": "cpp",
       "memory": "9.3 MB",
@@ -3361,6 +3352,7 @@
     "perfect-number": "1704464928",
     "plus-one": "1695547877",
     "power-of-three": "1694398328",
+    "range-product-queries-of-powers": "1731669132",
     "rearrange-array-elements-by-sign": "1682801316",
     "remove-duplicates-from-sorted-array": "1677085749",
     "remove-duplicates-from-sorted-list": "1727361643",
