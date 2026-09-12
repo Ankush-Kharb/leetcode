@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1730368910",
-      "lang": "cpp",
-      "memory": "106.7 MB",
-      "runtime": "35 ms",
-      "timestamp": "1754845769",
-      "title": "Destroying Asteroids",
-      "titleSlug": "destroying-asteroids"
-    },
-    {
       "id": "1731669132",
       "lang": "cpp",
       "memory": "147.7 MB",
@@ -3317,6 +3308,7 @@
     "count-rotations-with-exactly-k-equal-adjacent-pairs": "2137533099",
     "delete-node-in-a-linked-list": "1719892393",
     "delete-nodes-from-linked-list-present-in-array": "1727234021",
+    "destroying-asteroids": "1730368910",
     "detect-capital": "1706860282",
     "double-a-number-represented-as-a-linked-list": "1701037833",
     "find-champion-ii": "2123156234",
