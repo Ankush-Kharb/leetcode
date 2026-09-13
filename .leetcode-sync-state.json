@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1736512292",
-      "lang": "cpp",
-      "memory": "7.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1755283423",
-      "title": "Power of Four",
-      "titleSlug": "power-of-four"
-    },
-    {
       "id": "1737738679",
       "lang": "cpp",
       "memory": "7.8 MB",
@@ -3330,6 +3321,7 @@
     "peak-index-in-a-mountain-array": "1689939968",
     "perfect-number": "1704464928",
     "plus-one": "1695547877",
+    "power-of-four": "1736512292",
     "power-of-three": "1694398328",
     "range-product-queries-of-powers": "1731669132",
     "rearrange-array-elements-by-sign": "1682801316",
