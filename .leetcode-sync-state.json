@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1732945129",
-      "lang": "cpp",
-      "memory": "9.3 MB",
-      "runtime": "0 ms",
-      "timestamp": "1755029473",
-      "title": "Spiral Matrix II",
-      "titleSlug": "spiral-matrix-ii"
-    },
-    {
       "id": "1734188355",
       "lang": "cpp",
       "memory": "7.7 MB",
@@ -3388,6 +3379,7 @@
     "sort-characters-by-frequency": "1715036774",
     "sort-colors": "1681245847",
     "spiral-matrix": "1723571871",
+    "spiral-matrix-ii": "1732945129",
     "split-array-largest-sum": "1691265506",
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
