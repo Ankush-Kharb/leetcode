@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1738779839",
-      "lang": "cpp",
-      "memory": "12.4 MB",
-      "runtime": "0 ms",
-      "timestamp": "1755450649",
-      "title": "Merge Sorted Array",
-      "titleSlug": "merge-sorted-array"
-    },
-    {
       "id": "1740078624",
       "lang": "cpp",
       "memory": "7.9 MB",
@@ -3286,6 +3277,7 @@
     "maximum-valid-split-positions-i": "2123987345",
     "median-of-two-sorted-arrays": "1691753968",
     "merge-in-between-linked-lists": "1722401654",
+    "merge-sorted-array": "1738779839",
     "merge-two-sorted-lists": "1728370532",
     "middle-of-the-linked-list": "1722385194",
     "minimum-bishop-moves-to-reach-target": "2123933760",
