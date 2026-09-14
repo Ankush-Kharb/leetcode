@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1740078624",
-      "lang": "cpp",
-      "memory": "7.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1755546026",
-      "title": "Sum of Two Integers",
-      "titleSlug": "sum-of-two-integers"
-    },
-    {
       "id": "1742488568",
       "lang": "cpp",
       "memory": "8.7 MB",
@@ -3338,6 +3329,7 @@
     "string-to-integer-atoi": "1729378422",
     "sum-multiples": "1696462905",
     "sum-of-decoded-numbers": "2137511765",
+    "sum-of-two-integers": "1740078624",
     "swap-nodes-in-pairs": "1724977568",
     "swapping-nodes-in-a-linked-list": "1722408405",
     "third-maximum-number": "1704475395",
