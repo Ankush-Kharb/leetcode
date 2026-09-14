@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1742488568",
-      "lang": "cpp",
-      "memory": "8.7 MB",
-      "runtime": "1 ms",
-      "timestamp": "1755718003",
-      "title": "Valid Parentheses",
-      "titleSlug": "valid-parentheses"
-    },
-    {
       "id": "1742490862",
       "lang": "cpp",
       "memory": "15.7 MB",
@@ -3339,6 +3330,7 @@
     "unique-3-digit-even-numbers": "2138794928",
     "valid-anagram": "1693584214",
     "valid-palindrome": "1693613119",
+    "valid-parentheses": "1742488568",
     "valid-perfect-square": "1686559195",
     "valid-word": "1699224988",
     "validate-binary-tree-nodes": "2118932678"
