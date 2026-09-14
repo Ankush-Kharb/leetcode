@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1737760268",
-      "lang": "cpp",
-      "memory": "7.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1755372104",
-      "title": "Guess Number Higher or Lower",
-      "titleSlug": "guess-number-higher-or-lower"
-    },
-    {
       "id": "1738779839",
       "lang": "cpp",
       "memory": "12.4 MB",
@@ -3269,6 +3260,7 @@
     "find-the-index-of-the-first-occurrence-in-a-string": "1694004530",
     "find-the-smallest-divisor-given-a-threshold": "1688845829",
     "find-three-consecutive-integers-that-sum-to-a-given-number": "1694015008",
+    "guess-number-higher-or-lower": "1737760268",
     "happy-number": "1710132955",
     "insufficient-nodes-in-root-to-leaf-paths": "2138584469",
     "intersection-of-two-arrays": "1687667443",
