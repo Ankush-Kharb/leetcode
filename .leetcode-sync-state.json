@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1746897877",
-      "lang": "cpp",
-      "memory": "16.8 MB",
-      "runtime": "6 ms",
-      "timestamp": "1756056543",
-      "title": "Subsets",
-      "titleSlug": "subsets"
-    },
-    {
       "id": "1747079881",
       "lang": "cpp",
       "memory": "9.3 MB",
@@ -3311,6 +3302,7 @@
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
     "string-to-integer-atoi": "1729378422",
+    "subsets": "1746897877",
     "sum-multiples": "1696462905",
     "sum-of-decoded-numbers": "2137511765",
     "sum-of-two-integers": "1740078624",
