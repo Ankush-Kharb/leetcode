@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1748118365",
-      "lang": "cpp",
-      "memory": "22.5 MB",
-      "runtime": "0 ms",
-      "timestamp": "1756146018",
-      "title": "Diagonal Traverse",
-      "titleSlug": "diagonal-traverse"
-    },
-    {
       "id": "1773148639",
       "lang": "cpp",
       "memory": "10.8 MB",
@@ -3196,6 +3187,7 @@
     "delete-nodes-from-linked-list-present-in-array": "1727234021",
     "destroying-asteroids": "1730368910",
     "detect-capital": "1706860282",
+    "diagonal-traverse": "1748118365",
     "double-a-number-represented-as-a-linked-list": "1701037833",
     "fibonacci-number": "1734188355",
     "find-champion-ii": "2123156234",
