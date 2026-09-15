@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1773148639",
-      "lang": "cpp",
-      "memory": "10.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1758049533",
-      "title": "Binary Tree Inorder Traversal",
-      "titleSlug": "binary-tree-inorder-traversal"
-    },
-    {
       "id": "1773163641",
       "lang": "cpp",
       "memory": "12.8 MB",
@@ -3165,6 +3156,7 @@
     "add-two-numbers-ii": "1728356906",
     "adding-spaces-to-a-string": "1707719960",
     "binary-search": "1706354106",
+    "binary-tree-inorder-traversal": "1773148639",
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
