@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1773163641",
-      "lang": "cpp",
-      "memory": "12.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1758050553",
-      "title": "Same Tree",
-      "titleSlug": "same-tree"
-    },
-    {
       "id": "1783715830",
       "lang": "cpp",
       "memory": "9.6 MB",
@@ -3259,6 +3250,7 @@
     "roman-to-integer": "1694237716",
     "rotate-array": "1677991257",
     "rotate-string": "1693558234",
+    "same-tree": "1773163641",
     "search-a-2d-matrix": "1692156327",
     "search-a-2d-matrix-ii": "1692236934",
     "search-in-rotated-sorted-array": "1685458137",
