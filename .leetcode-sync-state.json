@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1783715830",
-      "lang": "cpp",
-      "memory": "9.6 MB",
-      "runtime": "0 ms",
-      "timestamp": "1758927692",
-      "title": "Implement Stack using Queues",
-      "titleSlug": "implement-stack-using-queues"
-    },
-    {
       "id": "1783719937",
       "lang": "cpp",
       "memory": "9.7 MB",
@@ -3186,6 +3177,7 @@
     "find-two-non-overlapping-sub-arrays-each-with-target-sum": "2145085178",
     "guess-number-higher-or-lower": "1737760268",
     "happy-number": "1710132955",
+    "implement-stack-using-queues": "1783715830",
     "insufficient-nodes-in-root-to-leaf-paths": "2138584469",
     "intersection-of-two-arrays": "1687667443",
     "koko-eating-bananas": "1688814510",
