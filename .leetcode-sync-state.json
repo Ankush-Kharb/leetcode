@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1796080908",
-      "lang": "cpp",
-      "memory": "29.7 MB",
-      "runtime": "24 ms",
-      "timestamp": "1759991921",
-      "title": "Removing Stars From a String",
-      "titleSlug": "removing-stars-from-a-string"
-    },
-    {
       "id": "1826337188",
       "lang": "cpp",
       "memory": "17.3 MB",
@@ -3213,6 +3204,7 @@
     "remove-linked-list-elements": "1726144656",
     "remove-nth-node-from-end-of-list": "1699768626",
     "removing-minimum-and-maximum-from-array": "2126442128",
+    "removing-stars-from-a-string": "1796080908",
     "reverse-integer": "1694662235",
     "reverse-linked-list": "1701003015",
     "reverse-only-letters": "1712548246",
