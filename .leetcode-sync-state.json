@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1828195496",
-      "lang": "cpp",
-      "memory": "23.1 MB",
-      "runtime": "0 ms",
-      "timestamp": "1762980742",
-      "title": "Balanced Binary Tree",
-      "titleSlug": "balanced-binary-tree"
-    },
-    {
       "id": "1828218042",
       "lang": "cpp",
       "memory": "23.7 MB",
@@ -3074,6 +3065,7 @@
     "add-two-numbers": "1728332030",
     "add-two-numbers-ii": "1728356906",
     "adding-spaces-to-a-string": "1707719960",
+    "balanced-binary-tree": "1828195496",
     "binary-search": "1706354106",
     "binary-tree-inorder-traversal": "1773148639",
     "binary-tree-level-order-traversal": "1826337188",
