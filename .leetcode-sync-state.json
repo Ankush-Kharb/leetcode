@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1826337188",
-      "lang": "cpp",
-      "memory": "17.3 MB",
-      "runtime": "0 ms",
-      "timestamp": "1762805888",
-      "title": "Binary Tree Level Order Traversal",
-      "titleSlug": "binary-tree-level-order-traversal"
-    },
-    {
       "id": "1826351754",
       "lang": "cpp",
       "memory": "15 MB",
@@ -3103,6 +3094,7 @@
     "adding-spaces-to-a-string": "1707719960",
     "binary-search": "1706354106",
     "binary-tree-inorder-traversal": "1773148639",
+    "binary-tree-level-order-traversal": "1826337188",
     "binary-tree-postorder-traversal": "1790783375",
     "binary-tree-preorder-traversal": "1790781811",
     "bus-routes": "2122376371",
