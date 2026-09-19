@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1828218042",
-      "lang": "cpp",
-      "memory": "23.7 MB",
-      "runtime": "0 ms",
-      "timestamp": "1762983699",
-      "title": "Diameter of Binary Tree",
-      "titleSlug": "diameter-of-binary-tree"
-    },
-    {
       "id": "1829128505",
       "lang": "cpp",
       "memory": "28 MB",
@@ -3097,6 +3088,7 @@
     "destroying-asteroids": "1730368910",
     "detect-capital": "1706860282",
     "diagonal-traverse": "1748118365",
+    "diameter-of-binary-tree": "1828218042",
     "double-a-number-represented-as-a-linked-list": "1701037833",
     "fibonacci-number": "1734188355",
     "find-champion-ii": "2123156234",
