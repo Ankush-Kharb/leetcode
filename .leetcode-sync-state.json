@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1826351754",
-      "lang": "cpp",
-      "memory": "15 MB",
-      "runtime": "0 ms",
-      "timestamp": "1762807420",
-      "title": "Binary Tree Right Side View",
-      "titleSlug": "binary-tree-right-side-view"
-    },
-    {
       "id": "1827284183",
       "lang": "cpp",
       "memory": "20.5 MB",
@@ -3097,6 +3088,7 @@
     "binary-tree-level-order-traversal": "1826337188",
     "binary-tree-postorder-traversal": "1790783375",
     "binary-tree-preorder-traversal": "1790781811",
+    "binary-tree-right-side-view": "1826351754",
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
