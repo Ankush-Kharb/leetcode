@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1827284183",
-      "lang": "cpp",
-      "memory": "20.5 MB",
-      "runtime": "3 ms",
-      "timestamp": "1762894650",
-      "title": "Maximum Depth of Binary Tree",
-      "titleSlug": "maximum-depth-of-binary-tree"
-    },
-    {
       "id": "1828195496",
       "lang": "cpp",
       "memory": "23.1 MB",
@@ -3146,6 +3137,7 @@
     "majority-element-ii": "1716198489",
     "maximal-network-rank": "2118887623",
     "maximum-69-number": "1737738679",
+    "maximum-depth-of-binary-tree": "1827284183",
     "maximum-matching-of-players-with-trainers": "1696402930",
     "maximum-number-of-non-overlapping-palindrome-substrings": "2143098940",
     "maximum-product-of-three-numbers": "1713792793",
