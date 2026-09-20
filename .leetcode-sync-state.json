@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1829141103",
-      "lang": "cpp",
-      "memory": "15 MB",
-      "runtime": "0 ms",
-      "timestamp": "1763072691",
-      "title": "Binary Tree Zigzag Level Order Traversal",
-      "titleSlug": "binary-tree-zigzag-level-order-traversal"
-    },
-    {
       "id": "1829919204",
       "lang": "cpp",
       "memory": "18.5 MB",
@@ -3055,6 +3046,7 @@
     "binary-tree-postorder-traversal": "1790783375",
     "binary-tree-preorder-traversal": "1790781811",
     "binary-tree-right-side-view": "1826351754",
+    "binary-tree-zigzag-level-order-traversal": "1829141103",
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
