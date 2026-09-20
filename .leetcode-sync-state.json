@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1829128505",
-      "lang": "cpp",
-      "memory": "28 MB",
-      "runtime": "0 ms",
-      "timestamp": "1763070786",
-      "title": "Binary Tree Maximum Path Sum",
-      "titleSlug": "binary-tree-maximum-path-sum"
-    },
-    {
       "id": "1829141103",
       "lang": "cpp",
       "memory": "15 MB",
@@ -3060,6 +3051,7 @@
     "binary-search": "1706354106",
     "binary-tree-inorder-traversal": "1773148639",
     "binary-tree-level-order-traversal": "1826337188",
+    "binary-tree-maximum-path-sum": "1829128505",
     "binary-tree-postorder-traversal": "1790783375",
     "binary-tree-preorder-traversal": "1790781811",
     "binary-tree-right-side-view": "1826351754",
