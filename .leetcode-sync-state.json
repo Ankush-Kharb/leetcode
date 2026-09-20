@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1831697100",
-      "lang": "cpp",
-      "memory": "35.4 MB",
-      "runtime": "0 ms",
-      "timestamp": "1763325238",
-      "title": "Search in a Binary Search Tree",
-      "titleSlug": "search-in-a-binary-search-tree"
-    },
-    {
       "id": "1831710411",
       "lang": "cpp",
       "memory": "59.2 MB",
@@ -3147,6 +3138,7 @@
     "same-tree": "1773163641",
     "search-a-2d-matrix": "1692156327",
     "search-a-2d-matrix-ii": "1692236934",
+    "search-in-a-binary-search-tree": "1831697100",
     "search-in-rotated-sorted-array": "1685458137",
     "search-in-rotated-sorted-array-ii": "1685476754",
     "search-insert-position": "1684842564",
