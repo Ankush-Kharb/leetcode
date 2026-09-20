@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1830747575",
-      "lang": "cpp",
-      "memory": "17.5 MB",
-      "runtime": "10 ms",
-      "timestamp": "1763247510",
-      "title": "Lowest Common Ancestor of a Binary Tree",
-      "titleSlug": "lowest-common-ancestor-of-a-binary-tree"
-    },
-    {
       "id": "1831697100",
       "lang": "cpp",
       "memory": "35.4 MB",
@@ -3092,6 +3083,7 @@
     "linked-list-cycle-ii": "1724958393",
     "longest-common-prefix": "1708967922",
     "longest-even-odd-subarray-with-threshold": "2137882824",
+    "lowest-common-ancestor-of-a-binary-tree": "1830747575",
     "majority-element": "1681298887",
     "majority-element-ii": "1716198489",
     "maximal-network-rank": "2118887623",
