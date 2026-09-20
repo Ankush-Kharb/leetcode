@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1829919204",
-      "lang": "cpp",
-      "memory": "18.5 MB",
-      "runtime": "0 ms",
-      "timestamp": "1763154233",
-      "title": "Symmetric Tree",
-      "titleSlug": "symmetric-tree"
-    },
-    {
       "id": "1830747575",
       "lang": "cpp",
       "memory": "17.5 MB",
@@ -3188,6 +3179,7 @@
     "sum-of-two-integers": "1740078624",
     "swap-nodes-in-pairs": "1724977568",
     "swapping-nodes-in-a-linked-list": "1722408405",
+    "symmetric-tree": "1829919204",
     "third-maximum-number": "1704475395",
     "three-divisors": "1702827800",
     "two-sum": "1680786250",
