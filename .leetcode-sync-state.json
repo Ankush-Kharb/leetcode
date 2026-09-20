@@ -3043,7 +3043,7 @@
       "titleSlug": "find-all-numbers-disappeared-in-an-array-ii"
     }
   ],
-  "last_timestamp": 1789769402,
+  "last_timestamp": 1789819393,
   "seeded": true,
   "synced": {
     "3sum": "1717577202",
@@ -3145,6 +3145,7 @@
     "next-permutation": "1684069211",
     "number-of-laser-beams-in-a-bank": "1714928162",
     "odd-even-linked-list": "1699735439",
+    "open-the-lock": "2146617680",
     "palindrome-linked-list": "1721192769",
     "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
