@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1831710411",
-      "lang": "cpp",
-      "memory": "59.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1763326658",
-      "title": "Insert into a Binary Search Tree",
-      "titleSlug": "insert-into-a-binary-search-tree"
-    },
-    {
       "id": "1831714583",
       "lang": "cpp",
       "memory": "24.6 MB",
@@ -3061,6 +3052,7 @@
     "happy-number": "1710132955",
     "implement-queue-using-stacks": "1783719937",
     "implement-stack-using-queues": "1783715830",
+    "insert-into-a-binary-search-tree": "1831710411",
     "insufficient-nodes-in-root-to-leaf-paths": "2138584469",
     "intersection-of-two-arrays": "1687667443",
     "koko-eating-bananas": "1688814510",
