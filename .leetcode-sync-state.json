@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1831714583",
-      "lang": "cpp",
-      "memory": "24.6 MB",
-      "runtime": "0 ms",
-      "timestamp": "1763327106",
-      "title": "Kth Smallest Element in a BST",
-      "titleSlug": "kth-smallest-element-in-a-bst"
-    },
-    {
       "id": "1831717369",
       "lang": "cpp",
       "memory": "22.3 MB",
@@ -3057,6 +3048,7 @@
     "intersection-of-two-arrays": "1687667443",
     "koko-eating-bananas": "1688814510",
     "kth-missing-positive-number": "1689915130",
+    "kth-smallest-element-in-a-bst": "1831714583",
     "largest-3-same-digit-number-in-string": "1735355815",
     "largest-odd-number-in-string": "1692448821",
     "length-of-last-word": "1708934850",
