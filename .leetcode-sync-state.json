@@ -2998,7 +2998,7 @@
       "titleSlug": "find-all-numbers-disappeared-in-an-array-ii"
     }
   ],
-  "last_timestamp": 1789819393,
+  "last_timestamp": 1789913178,
   "seeded": true,
   "synced": {
     "3sum": "1717577202",
@@ -3125,6 +3125,7 @@
     "remove-nth-node-from-end-of-list": "1699768626",
     "removing-minimum-and-maximum-from-array": "2126442128",
     "removing-stars-from-a-string": "1796080908",
+    "reverse-degree-of-a-string": "2147751057",
     "reverse-integer": "1694662235",
     "reverse-linked-list": "1701003015",
     "reverse-only-letters": "1712548246",
