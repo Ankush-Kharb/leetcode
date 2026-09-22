@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1868751743",
-      "lang": "cpp",
-      "memory": "10.7 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767035682",
-      "title": "Longest Repeating Character Replacement",
-      "titleSlug": "longest-repeating-character-replacement"
-    },
-    {
       "id": "1869411728",
       "lang": "cpp",
       "memory": "42.8 MB",
@@ -2997,6 +2988,7 @@
     "linked-list-cycle-ii": "1724958393",
     "longest-common-prefix": "1708967922",
     "longest-even-odd-subarray-with-threshold": "2137882824",
+    "longest-repeating-character-replacement": "1868751743",
     "longest-substring-without-repeating-characters": "1867844854",
     "lowest-common-ancestor-of-a-binary-search-tree": "1832727576",
     "lowest-common-ancestor-of-a-binary-tree": "1830747575",
