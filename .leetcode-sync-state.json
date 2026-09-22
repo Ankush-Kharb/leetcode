@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1867829392",
-      "lang": "cpp",
-      "memory": "32.4 MB",
-      "runtime": "0 ms",
-      "timestamp": "1766947462",
-      "title": "Binary Subarrays With Sum",
-      "titleSlug": "binary-subarrays-with-sum"
-    },
-    {
       "id": "1867844854",
       "lang": "cpp",
       "memory": "11.6 MB",
@@ -2968,6 +2959,7 @@
     "adding-spaces-to-a-string": "1707719960",
     "balanced-binary-tree": "1828195496",
     "binary-search": "1706354106",
+    "binary-subarrays-with-sum": "1867829392",
     "binary-tree-inorder-traversal": "1773148639",
     "binary-tree-level-order-traversal": "1826337188",
     "binary-tree-maximum-path-sum": "1829128505",
