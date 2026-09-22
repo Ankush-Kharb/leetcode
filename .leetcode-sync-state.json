@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1868536291",
-      "lang": "cpp",
-      "memory": "71.4 MB",
-      "runtime": "8 ms",
-      "timestamp": "1767021205",
-      "title": "Count Number of Nice Subarrays",
-      "titleSlug": "count-number-of-nice-subarrays"
-    },
-    {
       "id": "1868750396",
       "lang": "cpp",
       "memory": "69.6 MB",
@@ -2970,6 +2961,7 @@
     "count-good-cyclic-rotations": "2137552894",
     "count-integers-appearing-in-a-single-block": "2124804621",
     "count-nodes-equal-to-average-of-subtree": "2138563442",
+    "count-number-of-nice-subarrays": "1868536291",
     "count-operations-to-obtain-zero": "1702822917",
     "count-pairs-whose-sum-is-less-than-target": "1686566697",
     "count-rotations-with-exactly-k-equal-adjacent-pairs": "2137533099",
