@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1868750396",
-      "lang": "cpp",
-      "memory": "69.6 MB",
-      "runtime": "4 ms",
-      "timestamp": "1767035555",
-      "title": "Max Consecutive Ones III",
-      "titleSlug": "max-consecutive-ones-iii"
-    },
-    {
       "id": "1868751743",
       "lang": "cpp",
       "memory": "10.7 MB",
@@ -3012,6 +3003,7 @@
     "majority-element": "1681298887",
     "majority-element-ii": "1716198489",
     "max-consecutive-ones": "1867822255",
+    "max-consecutive-ones-iii": "1868750396",
     "maximal-network-rank": "2118887623",
     "maximum-69-number": "1737738679",
     "maximum-depth-of-binary-tree": "1827284183",
