@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1869476796",
-      "lang": "cpp",
-      "memory": "44.9 MB",
-      "runtime": "11 ms",
-      "timestamp": "1767106880",
-      "title": "Assign Cookies",
-      "titleSlug": "assign-cookies"
-    },
-    {
       "id": "1869494708",
       "lang": "cpp",
       "memory": "87.1 MB",
@@ -2912,6 +2903,7 @@
     "add-two-numbers": "1728332030",
     "add-two-numbers-ii": "1728356906",
     "adding-spaces-to-a-string": "1707719960",
+    "assign-cookies": "1869476796",
     "balanced-binary-tree": "1828195496",
     "binary-search": "1706354106",
     "binary-subarrays-with-sum": "1867829392",
