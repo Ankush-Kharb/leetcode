@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1870191648",
-      "lang": "cpp",
-      "memory": "20.4 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767177082",
-      "title": "Jump Game II",
-      "titleSlug": "jump-game-ii"
-    },
-    {
       "id": "1870423267",
       "lang": "cpp",
       "memory": "23.9 MB",
@@ -2942,6 +2933,7 @@
     "insufficient-nodes-in-root-to-leaf-paths": "2138584469",
     "intersection-of-two-arrays": "1687667443",
     "jump-game": "1869735516",
+    "jump-game-ii": "1870191648",
     "koko-eating-bananas": "1688814510",
     "kth-missing-positive-number": "1689915130",
     "kth-smallest-element-in-a-bst": "1831714583",
