@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1869411728",
-      "lang": "cpp",
-      "memory": "42.8 MB",
-      "runtime": "4 ms",
-      "timestamp": "1767101926",
-      "title": "Subarrays with K Different Integers",
-      "titleSlug": "subarrays-with-k-different-integers"
-    },
-    {
       "id": "1869476796",
       "lang": "cpp",
       "memory": "44.9 MB",
@@ -3077,6 +3068,7 @@
     "sqrtx": "1690523718",
     "squares-of-a-sorted-array": "1694461848",
     "string-to-integer-atoi": "1729378422",
+    "subarrays-with-k-different-integers": "1869411728",
     "subsets": "1746897877",
     "sum-multiples": "1696462905",
     "sum-of-decoded-numbers": "2137511765",
