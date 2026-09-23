@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1869494708",
-      "lang": "cpp",
-      "memory": "87.1 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767108213",
-      "title": "Lemonade Change",
-      "titleSlug": "lemonade-change"
-    },
-    {
       "id": "1869735516",
       "lang": "cpp",
       "memory": "52.2 MB",
@@ -2964,6 +2955,7 @@
     "kth-smallest-element-in-a-bst": "1831714583",
     "largest-3-same-digit-number-in-string": "1735355815",
     "largest-odd-number-in-string": "1692448821",
+    "lemonade-change": "1869494708",
     "length-of-last-word": "1708934850",
     "letter-combinations-of-a-phone-number": "1747079881",
     "lexicographically-largest-string-after-pair-transformations": "2124036080",
