@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1871088762",
-      "lang": "cpp",
-      "memory": "21.5 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767278332",
-      "title": "Path Sum",
-      "titleSlug": "path-sum"
-    },
-    {
       "id": "1871316799",
       "lang": "cpp",
       "memory": "12 MB",
@@ -2961,6 +2952,7 @@
     "palindrome-number": "1690888405",
     "parallel-courses-iii": "2121066490",
     "partition-list": "1699747815",
+    "path-sum": "1871088762",
     "peak-index-in-a-mountain-array": "1689939968",
     "perfect-number": "1704464928",
     "plus-one": "1695547877",
