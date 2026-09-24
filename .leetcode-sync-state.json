@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1871316799",
-      "lang": "cpp",
-      "memory": "12 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767292437",
-      "title": "Sum Root to Leaf Numbers",
-      "titleSlug": "sum-root-to-leaf-numbers"
-    },
-    {
       "id": "1871349803",
       "lang": "cpp",
       "memory": "34.2 MB",
@@ -3009,6 +3000,7 @@
     "sum-multiples": "1696462905",
     "sum-of-decoded-numbers": "2137511765",
     "sum-of-two-integers": "1740078624",
+    "sum-root-to-leaf-numbers": "1871316799",
     "swap-nodes-in-pairs": "1724977568",
     "swapping-nodes-in-a-linked-list": "1722408405",
     "symmetric-tree": "1829919204",
