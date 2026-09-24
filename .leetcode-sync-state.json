@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1871051243",
-      "lang": "cpp",
-      "memory": "15.3 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767275664",
-      "title": "Leaf-Similar Trees",
-      "titleSlug": "leaf-similar-trees"
-    },
-    {
       "id": "1871088762",
       "lang": "cpp",
       "memory": "21.5 MB",
@@ -2921,6 +2912,7 @@
     "kth-smallest-element-in-a-bst": "1831714583",
     "largest-3-same-digit-number-in-string": "1735355815",
     "largest-odd-number-in-string": "1692448821",
+    "leaf-similar-trees": "1871051243",
     "lemonade-change": "1869494708",
     "length-of-last-word": "1708934850",
     "letter-combinations-of-a-phone-number": "1747079881",
