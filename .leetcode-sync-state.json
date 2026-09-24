@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1870549866",
-      "lang": "cpp",
-      "memory": "60.7 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767213578",
-      "title": "Recover Binary Search Tree",
-      "titleSlug": "recover-binary-search-tree"
-    },
-    {
       "id": "1871051243",
       "lang": "cpp",
       "memory": "15.3 MB",
@@ -2986,6 +2977,7 @@
     "range-product-queries-of-powers": "1731669132",
     "rearrange-array-elements-by-sign": "1682801316",
     "reconstruct-itinerary": "2143081880",
+    "recover-binary-search-tree": "1870549866",
     "rectangle-overlap": "2141608348",
     "remove-duplicates-from-sorted-array": "1677085749",
     "remove-duplicates-from-sorted-list": "1727361643",
