@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1873502504",
-      "lang": "cpp",
-      "memory": "31.5 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767466530",
-      "title": "Count Complete Tree Nodes",
-      "titleSlug": "count-complete-tree-nodes"
-    },
-    {
       "id": "1873534363",
       "lang": "cpp",
       "memory": "16.3 MB",
@@ -2816,6 +2807,7 @@
     "contains-duplicate": "1707722241",
     "count-commas-in-range": "2135633575",
     "count-commas-in-range-ii": "2136314129",
+    "count-complete-tree-nodes": "1873502504",
     "count-good-cyclic-rotations": "2137552894",
     "count-integers-appearing-in-a-single-block": "2124804621",
     "count-nodes-equal-to-average-of-subtree": "2138563442",
