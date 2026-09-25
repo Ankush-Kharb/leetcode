@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1871349803",
-      "lang": "cpp",
-      "memory": "34.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767295280",
-      "title": "Delete Node in a BST",
-      "titleSlug": "delete-node-in-a-bst"
-    },
-    {
       "id": "1873291560",
       "lang": "cpp",
       "memory": "19.8 MB",
@@ -2862,6 +2853,7 @@
     "count-values-with-equally-spaced-occurrences-i": "2139599826",
     "count-values-with-equally-spaced-occurrences-ii": "2139634188",
     "cyclically-shift-rows-and-columns": "2140342823",
+    "delete-node-in-a-bst": "1871349803",
     "delete-node-in-a-linked-list": "1719892393",
     "delete-nodes-from-linked-list-present-in-array": "1727234021",
     "design-graph-with-shortest-path-calculator": "2143473087",
