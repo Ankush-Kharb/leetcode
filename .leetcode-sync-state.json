@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1873291560",
-      "lang": "cpp",
-      "memory": "19.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767454928",
-      "title": "Maximum Width of Binary Tree",
-      "titleSlug": "maximum-width-of-binary-tree"
-    },
-    {
       "id": "1873353013",
       "lang": "cpp",
       "memory": "37.1 MB",
@@ -2913,6 +2904,7 @@
     "maximum-subarray": "1682388362",
     "maximum-twin-sum-of-a-linked-list": "1722414928",
     "maximum-valid-split-positions-i": "2123987345",
+    "maximum-width-of-binary-tree": "1873291560",
     "median-of-two-sorted-arrays": "1691753968",
     "merge-in-between-linked-lists": "1722401654",
     "merge-intervals": "1870423267",
