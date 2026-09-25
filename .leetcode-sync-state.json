@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1873484727",
-      "lang": "cpp",
-      "memory": "74.7 MB",
-      "runtime": "27 ms",
-      "timestamp": "1767465229",
-      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
-      "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal"
-    },
-    {
       "id": "1873502504",
       "lang": "cpp",
       "memory": "31.5 MB",
@@ -2819,6 +2810,7 @@
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
     "check-if-one-string-swap-can-make-strings-equal": "1697451704",
+    "construct-binary-tree-from-preorder-and-inorder-traversal": "1873484727",
     "construct-uniform-parity-array-i": "2128937629",
     "construct-uniform-parity-array-ii": "2130135376",
     "contains-duplicate": "1707722241",
