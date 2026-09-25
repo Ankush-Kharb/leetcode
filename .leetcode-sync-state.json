@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1873353013",
-      "lang": "cpp",
-      "memory": "37.1 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767457789",
-      "title": "Two Sum IV - Input is a BST",
-      "titleSlug": "two-sum-iv-input-is-a-bst"
-    },
-    {
       "id": "1873484727",
       "lang": "cpp",
       "memory": "74.7 MB",
@@ -2993,6 +2984,7 @@
     "three-divisors": "1702827800",
     "two-sum": "1680786250",
     "two-sum-ii-input-array-is-sorted": "1692867850",
+    "two-sum-iv-input-is-a-bst": "1873353013",
     "unique-3-digit-even-numbers": "2138794928",
     "valid-anagram": "1693584214",
     "valid-palindrome": "1693613119",
