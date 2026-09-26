@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1874150317",
-      "lang": "cpp",
-      "memory": "34.9 MB",
-      "runtime": "48 ms",
-      "timestamp": "1767527365",
-      "title": "Convert BST to Greater Tree",
-      "titleSlug": "convert-bst-to-greater-tree"
-    },
-    {
       "id": "1874195307",
       "lang": "cpp",
       "memory": "25.8 MB",
@@ -2771,6 +2762,7 @@
     "construct-uniform-parity-array-i": "2128937629",
     "construct-uniform-parity-array-ii": "2130135376",
     "contains-duplicate": "1707722241",
+    "convert-bst-to-greater-tree": "1874150317",
     "count-commas-in-range": "2135633575",
     "count-commas-in-range-ii": "2136314129",
     "count-complete-tree-nodes": "1873502504",
