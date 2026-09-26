@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1873534363",
-      "lang": "cpp",
-      "memory": "16.3 MB",
-      "runtime": "3 ms",
-      "timestamp": "1767469235",
-      "title": "Construct Binary Search Tree from Preorder Traversal",
-      "titleSlug": "construct-binary-search-tree-from-preorder-traversal"
-    },
-    {
       "id": "1873547860",
       "lang": "cpp",
       "memory": "74.6 MB",
@@ -2801,6 +2792,7 @@
     "capacity-to-ship-packages-within-d-days": "1689738122",
     "check-if-array-is-sorted-and-rotated": "1677046451",
     "check-if-one-string-swap-can-make-strings-equal": "1697451704",
+    "construct-binary-search-tree-from-preorder-traversal": "1873534363",
     "construct-binary-tree-from-preorder-and-inorder-traversal": "1873484727",
     "construct-uniform-parity-array-i": "2128937629",
     "construct-uniform-parity-array-ii": "2130135376",
