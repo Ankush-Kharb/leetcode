@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1874195307",
-      "lang": "cpp",
-      "memory": "25.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767530648",
-      "title": "Add One Row to Tree",
-      "titleSlug": "add-one-row-to-tree"
-    },
-    {
       "id": "1874237700",
       "lang": "cpp",
       "memory": "13.8 MB",
@@ -2737,6 +2728,7 @@
     "a-number-after-a-double-reversal": "1697502844",
     "add-binary": "1701555547",
     "add-digits": "1697479485",
+    "add-one-row-to-tree": "1874195307",
     "add-strings": "1696509133",
     "add-two-numbers": "1728332030",
     "add-two-numbers-ii": "1728356906",
