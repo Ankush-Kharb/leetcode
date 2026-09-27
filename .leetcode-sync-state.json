@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1874237700",
-      "lang": "cpp",
-      "memory": "13.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767533499",
-      "title": "Check Completeness of a Binary Tree",
-      "titleSlug": "check-completeness-of-a-binary-tree"
-    },
-    {
       "id": "1874242552",
       "lang": "cpp",
       "memory": "11.4 MB",
@@ -2746,6 +2737,7 @@
     "binary-tree-zigzag-level-order-traversal": "1829141103",
     "bus-routes": "2122376371",
     "capacity-to-ship-packages-within-d-days": "1689738122",
+    "check-completeness-of-a-binary-tree": "1874237700",
     "check-if-array-is-sorted-and-rotated": "1677046451",
     "check-if-one-string-swap-can-make-strings-equal": "1697451704",
     "construct-binary-search-tree-from-preorder-traversal": "1873534363",
