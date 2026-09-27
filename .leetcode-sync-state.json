@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1874596228",
-      "lang": "cpp",
-      "memory": "23.8 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767554788",
-      "title": "Average of Levels in Binary Tree",
-      "titleSlug": "average-of-levels-in-binary-tree"
-    },
-    {
       "id": "1875695970",
       "lang": "cpp",
       "memory": "20.9 MB",
@@ -2716,6 +2707,7 @@
     "add-two-numbers-ii": "1728356906",
     "adding-spaces-to-a-string": "1707719960",
     "assign-cookies": "1869476796",
+    "average-of-levels-in-binary-tree": "1874596228",
     "balanced-binary-tree": "1828195496",
     "binary-search": "1706354106",
     "binary-search-tree-to-greater-sum-tree": "1874242552",
