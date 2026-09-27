@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1874242552",
-      "lang": "cpp",
-      "memory": "11.4 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767533799",
-      "title": "Binary Search Tree to Greater Sum Tree",
-      "titleSlug": "binary-search-tree-to-greater-sum-tree"
-    },
-    {
       "id": "1874596228",
       "lang": "cpp",
       "memory": "23.8 MB",
@@ -2727,6 +2718,7 @@
     "assign-cookies": "1869476796",
     "balanced-binary-tree": "1828195496",
     "binary-search": "1706354106",
+    "binary-search-tree-to-greater-sum-tree": "1874242552",
     "binary-subarrays-with-sum": "1867829392",
     "binary-tree-inorder-traversal": "1773148639",
     "binary-tree-level-order-traversal": "1826337188",
