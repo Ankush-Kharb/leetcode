@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1875758093",
-      "lang": "cpp",
-      "memory": "17.9 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767645822",
-      "title": "Flatten Binary Tree to Linked List",
-      "titleSlug": "flatten-binary-tree-to-linked-list"
-    },
-    {
       "id": "1875766786",
       "lang": "cpp",
       "memory": "109.5 MB",
@@ -2739,6 +2730,7 @@
     "find-the-smallest-divisor-given-a-threshold": "1688845829",
     "find-three-consecutive-integers-that-sum-to-a-given-number": "1694015008",
     "find-two-non-overlapping-sub-arrays-each-with-target-sum": "2145085178",
+    "flatten-binary-tree-to-linked-list": "1875758093",
     "guess-number-higher-or-lower": "1737760268",
     "happy-number": "1710132955",
     "implement-queue-using-stacks": "1783719937",
