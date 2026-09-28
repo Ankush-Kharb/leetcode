@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1875766786",
-      "lang": "cpp",
-      "memory": "109.5 MB",
-      "runtime": "1 ms",
-      "timestamp": "1767646835",
-      "title": "Maximum Level Sum of a Binary Tree",
-      "titleSlug": "maximum-level-sum-of-a-binary-tree"
-    },
-    {
       "id": "1875774729",
       "lang": "cpp",
       "memory": "62.7 MB",
@@ -2765,6 +2756,7 @@
     "maximal-network-rank": "2118887623",
     "maximum-69-number": "1737738679",
     "maximum-depth-of-binary-tree": "1827284183",
+    "maximum-level-sum-of-a-binary-tree": "1875766786",
     "maximum-matching-of-players-with-trainers": "1696402930",
     "maximum-number-of-non-overlapping-palindrome-substrings": "2143098940",
     "maximum-product-of-three-numbers": "1713792793",
