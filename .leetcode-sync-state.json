@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1875774729",
-      "lang": "cpp",
-      "memory": "62.7 MB",
-      "runtime": "4 ms",
-      "timestamp": "1767647840",
-      "title": "Deepest Leaves Sum",
-      "titleSlug": "deepest-leaves-sum"
-    },
-    {
       "id": "1875785167",
       "lang": "cpp",
       "memory": "42.2 MB",
@@ -2700,6 +2691,7 @@
     "count-values-with-equally-spaced-occurrences-i": "2139599826",
     "count-values-with-equally-spaced-occurrences-ii": "2139634188",
     "cyclically-shift-rows-and-columns": "2140342823",
+    "deepest-leaves-sum": "1875774729",
     "delete-node-in-a-bst": "1871349803",
     "delete-node-in-a-linked-list": "1719892393",
     "delete-nodes-from-linked-list-present-in-array": "1727234021",
