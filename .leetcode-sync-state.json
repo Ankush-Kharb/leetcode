@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1875785167",
-      "lang": "cpp",
-      "memory": "42.2 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767649230",
-      "title": "Sum of Nodes with Even-Valued Grandparent",
-      "titleSlug": "sum-of-nodes-with-even-valued-grandparent"
-    },
-    {
       "id": "1875799687",
       "lang": "cpp",
       "memory": "88.5 MB",
@@ -2839,6 +2830,7 @@
     "subsets": "1746897877",
     "sum-multiples": "1696462905",
     "sum-of-decoded-numbers": "2137511765",
+    "sum-of-nodes-with-even-valued-grandparent": "1875785167",
     "sum-of-two-integers": "1740078624",
     "sum-root-to-leaf-numbers": "1871316799",
     "swap-nodes-in-pairs": "1724977568",
