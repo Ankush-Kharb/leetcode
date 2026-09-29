@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1877967260",
-      "lang": "cpp",
-      "memory": "32 MB",
-      "runtime": "0 ms",
-      "timestamp": "1767810460",
-      "title": "Linked List in Binary Tree",
-      "titleSlug": "linked-list-in-binary-tree"
-    },
-    {
       "id": "1878753301",
       "lang": "cpp",
       "memory": "21.1 MB",
@@ -2701,6 +2692,7 @@
     "lexicographically-largest-string-after-pair-transformations": "2124036080",
     "linked-list-cycle": "1722389985",
     "linked-list-cycle-ii": "1724958393",
+    "linked-list-in-binary-tree": "1877967260",
     "longest-common-prefix": "1708967922",
     "longest-even-odd-subarray-with-threshold": "2137882824",
     "longest-repeating-character-replacement": "1868751743",
