@@ -1,15 +1,6 @@
 {
   "backlog": [
     {
-      "id": "1875799687",
-      "lang": "cpp",
-      "memory": "88.5 MB",
-      "runtime": "7 ms",
-      "timestamp": "1767651317",
-      "title": "All Elements in Two Binary Search Trees",
-      "titleSlug": "all-elements-in-two-binary-search-trees"
-    },
-    {
       "id": "1877895490",
       "lang": "cpp",
       "memory": "25.4 MB",
@@ -2643,6 +2634,7 @@
     "add-two-numbers": "1728332030",
     "add-two-numbers-ii": "1728356906",
     "adding-spaces-to-a-string": "1707719960",
+    "all-elements-in-two-binary-search-trees": "1875799687",
     "assign-cookies": "1869476796",
     "average-of-levels-in-binary-tree": "1874596228",
     "balanced-binary-tree": "1828195496",
